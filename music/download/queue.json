@@ -1,0 +1,8 @@
+[
+  {
+    "file_name": "Output file name, including .mp3 format",
+    "yt_uid": "YouTube video UID, for example q8uNBXYxrI4",
+    "start": "Start timestamp in HH:MM:SS.ss format (optional, can be omitted or null)",
+    "end": "End timestamp in HH:MM:SS.ss format (optional, can be omitted or null)"
+  }
+]
