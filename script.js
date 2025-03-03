@@ -75,7 +75,7 @@ async function init() {
 
 function setupPlayer(track) {
   player.setAttribute("src", track["src"]);
-  if (track["format"] === "flac") {
+  if (getFormatFromSrc(track["src"]) === "flac") {
     player.setAttribute("type", "audio/flac");
   } else {
     player.setAttribute("type", "audio/mp3");
@@ -409,7 +409,7 @@ async function buildHTML() {
 
     title.innerHTML = `${"<span class=\"index\">" + index.padStart(4, '0') + "</span> " + fullPlaylist[index]["title"]}`;
     album_artists.innerHTML = `${fullPlaylist[index]["album"] + " - " + fullPlaylist[index]["artists"]}`;
-    if (fullPlaylist[index]["format"] === "flac") {
+    if (getFormatFromSrc(fullPlaylist[index]["src"]) === "flac") {
       flac.innerHTML = "FLAC";
     }
     playlistIndex.innerHTML = formattedPlaylistIndex;
@@ -695,4 +695,8 @@ function setSelectedAsDigitLogger() {
   if (!digitLogger && selected != undefined) {
     digitLogger = selected;
   }
+}
+
+function getFormatFromSrc(src) {
+    return src.match(/(?<=\.)[^?]{1,4}(?=\?)/)[0]
 }
