@@ -2,7 +2,7 @@ import dropbox
 
 def store_link_data(dictionary, entry, account):
     dictionary[entry.name] = {
-        "link": f"{entry.url[:-4]}raw=1",
+        "link": f"{entry.url}&raw=1",
         "account": account
     }
 
@@ -41,22 +41,22 @@ def links(dbx, account):
 
 
 if __name__ == "__main__":
+    # import os
     import json
-    import os
     
     credentials = [
-        ("E-mail or custom label", "API Access Token"),
+        ("E-mail or label", "API Access Token"),
     ]
 
     result = {}
-    for i, (account, token) in enumerate(credentials):
+    for account, token in credentials:
         dbx = dropbox.Dropbox(token)
         result |= links(dbx, account)
 
     with open("./music/dropbox/links.json", "w") as file:
         json.dump(result, file, indent=2)
 
-    for file_name in result:
-        file_path = f"./music/{file_name}"
-        if os.path.isfile(file_path):
-            os.remove(file_path)
+    # for file_name in result:
+    #     file_path = f"./music/{file_name}"
+    #     if os.path.isfile(file_path):
+    #         os.remove(file_path)
