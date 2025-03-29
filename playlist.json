@@ -102,7 +102,7 @@
     "title": "Formentera Lady",
     "artists": "King Crimson",
     "album": "Islands",
-    "src": "https://www.dropbox.com/scl/fi/poginvvhron4ti7idce1b/KCIFL.mp3?rlkey=h71rp1bat7msdk3cm85ertwsw&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/x2pj2j2cehk9up2hg4cxe/KCIFL.mp3?rlkey=6eby7b1mypjbd42eltsuxiiia&dl=0&raw=1",
     "duration": "00:10:17",
     "volume_multiplier": 0.75,
     "album_cover": "islands.jpg"
@@ -3579,6 +3579,15 @@
     "volume_multiplier": 0.75,
     "album_cover": "feed_me_weird_things.jpg"
   },
+  "SU4001": {
+    "title": "4001",
+    "artists": "Squarepusher",
+    "album": "Ufabulum",
+    "src": "https://www.dropbox.com/scl/fi/s4rhbc5lginz2ulih552m/SU4001.flac?rlkey=avzhvacnibyr3e3xqt9eeb5ty&dl=0&raw=1",
+    "duration": "00:06:35",
+    "volume_multiplier": 0.75,
+    "album_cover": "ufabulum.jpg"
+  },
   "SHNDBS": {
     "title": "Beep Street",
     "artists": "Squarepusher",
@@ -3610,7 +3619,7 @@
     "title": "Male Pill Part 13",
     "artists": "Squarepusher",
     "album": "Hard Normal Daddy",
-    "src": "https://www.dropbox.com/scl/fi/5l9h8z03np6guxfp2w8ep/SHNDMP13.flac?rlkey=uhgi8ln5rxqkajgbrxos7c5e6&st=smajrphm&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/5l9h8z03np6guxfp2w8ep/SHNDMP13.flac?rlkey=uhgi8ln5rxqkajgbrxos7c5e6&dl=0&raw=1",
     "duration": "00:08:39",
     "volume_multiplier": 0.75,
     "album_cover": "1CPBXIsx6Km7ZvDmvM0gYS_Hard_Normal_Daddy.jpg"
@@ -5835,7 +5844,7 @@
     "title": "Wisdom of Rage",
     "artists": "Waveshaper",
     "album": "Furi OST",
-    "src": "https://www.dropbox.com/scl/fi/7ymjtbo73s9p8l6dkkq9y/WFWR.mp3?rlkey=r4l3zhyh52t10d5sw0avhcy8o&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/qs3lo4ceic8ir7jz0jng8/WFWR.flac?rlkey=6vq1x6dcyyedkedr0x398grsd&dl=0&raw=1",
     "duration": "00:05:07",
     "volume_multiplier": 0.75,
     "album_cover": "1NCt4W6d8fNGkBQAjXDVrA_Furi_(Original_Game_Soundtrack).jpg"
@@ -5862,7 +5871,7 @@
     "title": "A Monster",
     "artists": "Waveshaper",
     "album": "Furi OST",
-    "src": "https://www.dropbox.com/scl/fi/9317cb619vi56c2su08k0/WFAM.mp3?rlkey=fhcbum2lkbyck86h0gw7z5csr&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/y724wnnrpzduuu5i6s01n/WFAM.flac?rlkey=t0i5khcmbdeqk0vc6i0c3a273&dl=0&raw=1",
     "duration": "00:04:19",
     "volume_multiplier": 0.75,
     "album_cover": "1NCt4W6d8fNGkBQAjXDVrA_Furi_(Original_Game_Soundtrack).jpg"
@@ -5871,7 +5880,7 @@
     "title": "You Are the End",
     "artists": "Waveshaper",
     "album": "Furi OST",
-    "src": "https://www.dropbox.com/scl/fi/38ksaxx5ablk6jbo6fju8/WFYAE.mp3?rlkey=qr2tln6qff5sx4h2h3li40mle&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/wbfloldbyhw17idc0xhqp/WFYAE.flac?rlkey=t84914chky0z78301sosykblk&dl=0&raw=1",
     "duration": "00:02:18",
     "volume_multiplier": 0.75,
     "album_cover": "1NCt4W6d8fNGkBQAjXDVrA_Furi_(Original_Game_Soundtrack).jpg"
@@ -5907,8 +5916,17 @@
     "title": "Roller Mobster",
     "artists": "Carpenter Brut",
     "album": "TRILOGY",
-    "src": "https://www.dropbox.com/scl/fi/xqfh1ifju5k4gl2kf003n/CBTRM.mp3?rlkey=32n6wf5f3bvp6v0kgnko0qffw&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/24fa75kcx5g5gjfom89x2/CBTRM.flac?rlkey=xvbafxkhmgf1vniijdieov44v&dl=0&raw=1",
     "duration": "00:03:37",
+    "volume_multiplier": 0.75,
+    "album_cover": "0io5pe55YRCTVqEjwlOBdN_TRILOGY.jpg"
+  },
+  "CBTLP": {
+    "title": "Le Perv",
+    "artists": "Carpenter Brut",
+    "album": "TRILOGY",
+    "src": "https://www.dropbox.com/scl/fi/9jjr8jcjw127soffjks0y/CBTLP.flac?rlkey=dvznvgp19mdi8w207o57l41dk&dl=0&raw=1",
+    "duration": "00:04:18",
     "volume_multiplier": 0.75,
     "album_cover": "0io5pe55YRCTVqEjwlOBdN_TRILOGY.jpg"
   },
@@ -5916,7 +5934,7 @@
     "title": "Looking For Tracy Tzu",
     "artists": "Carpenter Brut",
     "album": "TRILOGY",
-    "src": "https://www.dropbox.com/scl/fi/2thrlpxv2psuf9yy3qww7/CBTLTT.mp3?rlkey=ndvirtbg2d0zdg6h0zhnczube&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/huppfmsppuz27wiamw13e/CBTLTT.flac?rlkey=cvbwjgq8pnjerjxrl8yxkcdjw&dl=0&raw=1",
     "duration": "00:04:20",
     "volume_multiplier": 0.75,
     "album_cover": "0io5pe55YRCTVqEjwlOBdN_TRILOGY.jpg"
@@ -5925,7 +5943,7 @@
     "title": "Turbo Killer",
     "artists": "Carpenter Brut",
     "album": "TRILOGY",
-    "src": "https://www.dropbox.com/scl/fi/d8rteef5incsp7g623zum/CBTTK.mp3?rlkey=sx9pmnarrdl04lyokjrjwwalw&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/3w2irvhzg9g5zylo2hz1t/CBTTK.flac?rlkey=bpndec9izpxje8jxln9zt0ipb&dl=0&raw=1",
     "duration": "00:03:29",
     "volume_multiplier": 0.75,
     "album_cover": "0io5pe55YRCTVqEjwlOBdN_TRILOGY.jpg"
@@ -6272,6 +6290,15 @@
     "duration": "00:08:15",
     "volume_multiplier": 0.75,
     "album_cover": "balatro_ost.jpg"
+  },
+  "NUBBY": {
+    "title": "Nubby's Number Factory",
+    "artists": "Vinegart",
+    "album": "Nubby's Number Factory OST",
+    "src": "https://www.dropbox.com/scl/fi/u05b1frrn1x7ogdqa20hz/NUBBY.mp3?rlkey=c3rghrw9tb49h628ls3hzwm2z&st=wm61sx0f&dl=0&raw=1",
+    "duration": "00:02:51",
+    "volume_multiplier": 0.75,
+    "album_cover": "nubby.jpg"
   },
   "PBBPDO": {
     "title": "Origin",
@@ -9061,7 +9088,7 @@
     "title": "The Cyber Grind",
     "artists": "meganeko",
     "album": "The Cyber Grind",
-    "src": "https://www.dropbox.com/scl/fi/qvyw2ggzs9ayryoya6h3s/MCGCG.mp3?rlkey=5koftarp4z38prf9irwvxky4o&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/bwtcad4ridq4hdjuj3x3r/MCGCG.flac?rlkey=gqz5vxbjiuml9r7ne7bclhs44&dl=0&raw=1",
     "duration": "00:05:06",
     "volume_multiplier": 0.75,
     "album_cover": "7zDRofQfh4HubWNUB5jer5_The_Cyber_Grind.jpg"
@@ -12524,6 +12551,15 @@
     "volume_multiplier": 0.75,
     "album_cover": "windowlicker.jpg"
   },
+  "ATSX": {
+    "title": "XMAS_EVET10 [120] (thanaton3 mix)",
+    "artists": "Aphex Twin",
+    "album": "Syro",
+    "src": "https://www.dropbox.com/scl/fi/5vav7amvce80hg76ajtuy/ATSX.flac?rlkey=6jnhe4488immzbnk2dte755ah&dl=0&raw=1",
+    "duration": "00:10:31",
+    "volume_multiplier": 0.75,
+    "album_cover": "syro.jpg"
+  },
   "ATSAWA": {
     "title": "Ageispolis",
     "artists": "Aphex Twin",
@@ -12577,6 +12613,15 @@
     "duration": "00:05:40",
     "volume_multiplier": 0.75,
     "album_cover": "0sXUfZChtvU6CpiEchc3Tk_Friend_from_the_Internet.jpg"
+  },
+  "DIDMSUL": {
+    "title": "i don't mind staying up late",
+    "artists": "Deathbrain",
+    "album": "i don't mind staying up late",
+    "src": "https://www.dropbox.com/scl/fi/tq6ng5lyj29ohixqlzzdg/DIDMSUL.mp3?rlkey=3u45zm63v7l2q962t2du0ue1p&dl=0&raw=1",
+    "duration": "00:03:34",
+    "volume_multiplier": 0.75,
+    "album_cover": "stay_up_late.jpg"
   },
   "TAFE": {
     "title": "E t h e r e a l",
@@ -13428,8 +13473,8 @@
     "title": "Bloom (From the Basement)",
     "artists": "Radiohead",
     "album": "The King Of Limbs (From the Basement)",
-    "src": "https://www.dropbox.com/scl/fi/hq4pi3jvfby4idd9vsk7p/RTKOLBB.mp3?rlkey=lhchm0qvlxa998ns29k2v05pd&dl=0&raw=1",
-    "duration": "00:06:00",
+    "src": "https://www.dropbox.com/scl/fi/fqdk7nplcw1tcuc21r2kd/RTKOLBB.mp3?rlkey=v7bm8l3xcmhe4lr9ea8xe0wpu&dl=0&raw=1",
+    "duration": "00:05:59",
     "volume_multiplier": 0.75,
     "album_cover": "3P17levwUPzmFfLYdAK3A7_The_King_Of_Limbs.jpg"
   },
@@ -13437,7 +13482,7 @@
     "title": "Separator (From the Basement)",
     "artists": "Radiohead",
     "album": "The King Of Limbs (From the Basement)",
-    "src": "https://www.dropbox.com/scl/fi/bs4u5188htjze88c5pdr1/RTKOLSB.mp3?rlkey=v8emsmki06l6i0ai0k8y3bfqd&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/ofd5d07lqpty4z1t2o6y3/RTKOLSB.mp3?rlkey=sye54lczr2t7tqot61jltr44w&dl=0&raw=1",
     "duration": "00:05:29",
     "volume_multiplier": 0.75,
     "album_cover": "3P17levwUPzmFfLYdAK3A7_The_King_Of_Limbs.jpg"
@@ -13446,7 +13491,7 @@
     "title": "Feral (From the Basement)",
     "artists": "Radiohead",
     "album": "The King Of Limbs (From the Basement)",
-    "src": "https://www.dropbox.com/scl/fi/na9k9u4lykig8ieyy4ct5/RTKOLFB.mp3?rlkey=8z6t85gayxs22kcczodqpxlrt&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/rpny8b690itxw5kh7s314/RTKOLFB.mp3?rlkey=60epm6mnzh68rdglnai8qs4an&dl=0&raw=1",
     "duration": "00:02:50",
     "volume_multiplier": 0.75,
     "album_cover": "3P17levwUPzmFfLYdAK3A7_The_King_Of_Limbs.jpg"
@@ -13455,7 +13500,7 @@
     "title": "Little By Little (From the Basement)",
     "artists": "Radiohead",
     "album": "The King Of Limbs (From the Basement)",
-    "src": "https://www.dropbox.com/scl/fi/cyj1hb46qe7g7ptd2f4x9/RTKOLLBLB.mp3?rlkey=nhqe4ttzq1k3e3e0cxnr2i6xu&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/4ad0odb4lkol211ngy6cr/RTKOLLBLB.mp3?rlkey=weanqwmxbe4u3z8kcj988ewyr&dl=0&raw=1",
     "duration": "00:04:35",
     "volume_multiplier": 0.75,
     "album_cover": "3P17levwUPzmFfLYdAK3A7_The_King_Of_Limbs.jpg"
