@@ -6,7 +6,7 @@ def download(amazon_music_url, lucida_domain, output_directory, file_name):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
-    full_file_path = os.path.join(output_directory, f"{file_name}")
+    full_file_path = os.path.join(output_directory, file_name)
 
     if not os.path.exists(full_file_path):
         with requests.Session() as s:

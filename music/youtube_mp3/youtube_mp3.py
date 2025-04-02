@@ -6,7 +6,7 @@ def download(yt_uid, output_directory, file_name, start=None, end=None):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
-    full_file_path = os.path.join(output_directory, f"{file_name}")
+    full_file_path = os.path.join(output_directory, file_name)
     flac_file_path = f"{".".join(full_file_path.split(".")[:-1])}.flac"
 
     if not (os.path.exists(full_file_path) or os.path.exists(flac_file_path)):
