@@ -20,7 +20,7 @@ def download(yt_uid, output_directory, file_name, start=None, end=None):
 
 
 if __name__ == "__main__":
-    with open("./music/download/queue.json", "r") as file:
+    with open("./music/youtube_mp3/queue.json", "r") as file:
         queue = json.load(file)
 
     for track in queue:
