@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 import os
 
 def download(track_url, lucida_domain, output_directory, file_name):
@@ -38,6 +39,7 @@ def download(track_url, lucida_domain, output_directory, file_name):
             print("Converting to FLAC-16@44100Hz...")
 
             while s.get(f"https://{server}.{lucida_domain}/api/fetch/request/{handoff}").json()["status"] != "completed":
+                time.sleep(0.1)
                 print("Converting to FLAC-16@44100Hz...")
 
             print("Successfully converted to FLAC!")
