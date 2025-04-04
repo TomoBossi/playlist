@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-def download(amazon_music_url, lucida_domain, output_directory, file_name):
+def download(track_url, lucida_domain, output_directory, file_name):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
@@ -14,7 +14,7 @@ def download(amazon_music_url, lucida_domain, output_directory, file_name):
 
             r = s.post(f"https://{lucida_domain}/api/load?url=/api/fetch/stream/v2", 
                 json={
-                    "url": amazon_music_url,
+                    "url": track_url,
                     "metadata": False,
                     "compat": False,
                     "private": False,
@@ -57,11 +57,11 @@ def download(amazon_music_url, lucida_domain, output_directory, file_name):
 if __name__ == "__main__":
     lucida_domain = "lucida.su"
 
-    with open("./music/amazon_flac/queue.json", "r") as file:
+    with open("./music/lucida_flac/queue.json", "r") as file:
         queue = json.load(file)
 
     for track in queue:
         try:
-            download(track["amazon_music_url"], lucida_domain, "./music", track["file_name"])
+            download(track["track_url"], lucida_domain, "./music", track["file_name"])
         except Exception as e:
-            print(f"Error when attempting to download track {track["file_name"]} ({track["amazon_music_url"]}): {e}")
+            print(f"Error when attempting to download track {track["file_name"]} ({track["track_url"]}): {e}")
