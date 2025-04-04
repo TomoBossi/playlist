@@ -50,7 +50,7 @@ def download(track_url, lucida_domain, output_directory, file_name):
             print("Successfully downloaded!")
             print(f"Saving FLAC to {full_file_path}...")
 
-            with open(full_file_path, 'wb') as f:
+            with open(full_file_path, "wb") as f:
                 f.write(r.content)
 
             print("Successfully saved!\n")
