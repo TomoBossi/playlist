@@ -1,13 +1,17 @@
-// Inner logic / Backend
+// Logic
 
-history.scrollRestoration = "manual";
-const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Windows Phone|Opera Mini/i.test(navigator.userAgent);
 const randomStarterTrack = true;
-const statefulPlaylistEditing = true;
 const eventLoopRefreshMs = 50;
-let currentVolume = isMobile ? 1.0 : 0.5;
+const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Windows Phone|Opera Mini/i.test(navigator.userAgent);
+history.scrollRestoration = "manual";
 
-let player = document.getElementById("player");
+const player = document.getElementById("player");
+const largeAlbumArtContainer = document.getElementById("large-album-art-container");
+const largeAlbumArt = document.getElementById("large-album-art");
+const progressBarBackground = document.getElementById("progress-bar-background");
+const progressBar = document.getElementById("progress-bar");
+
+let currentVolume = isMobile ? 1.0 : 0.5;
 let shuffle = false;
 let replay = false;
 let custom = false;
@@ -15,26 +19,21 @@ let anchor = false;
 let anchorScrollException = false;
 
 let fullPlaylist = [];
+let continuingTracks;
 let fullPlaylistLength;
 let currentTrackFullPlaylistIndex;
 let currentTrack;
 let currentTrackDuration = 0;
 let currentTrackElapsed = 0;
-
 let playlist = [];
 let currentTrackIndex = -1;
 
-let continuingTracks;
-
-let qsParams;
 let digitLogger = "";
-let playableTracks = [];
-let uidMap = {}
-
-let played_bar = document.getElementById("played_bar_bg");
+let qsParams;
+let uidMap = {};
 
 init();
-checkForStateChanges()
+checkForStateChanges();
 
 async function init() {
   const res = await fetch("./playlist.json");
@@ -45,13 +44,13 @@ async function init() {
     fullPlaylist.push(track);
   });
   fullPlaylistLength = Object.keys(fullPlaylist).length;
-  continuingTracks = flagContinuing();
+  continuingTracks = getContinuingTracks();
 
   for (let index in fullPlaylist) {
     uidMap[fullPlaylist[index]["uid"]] = index;
   }
 
-  await buildHTML();
+  buildHTML();
   
   qsParams = parseQsParams();
   if (isNaN(qsParams.track) && qsParams.playlist.length == 0) {
@@ -82,6 +81,10 @@ function setupPlayer(track) {
   }
 }
 
+function getFormatFromSrc(src) {
+  return src.match(/(?<=\.)[^?]{1,4}(?=\?)/)[0]
+}
+
 function checkForStateChanges() {
   setInterval(() => {
       if (currentTrack !== undefined) {
@@ -89,7 +92,7 @@ function checkForStateChanges() {
         currentTrackDuration = 0;
         currentTrackElapsed = player.currentTime - seconds(currentTrack["start"]);
         updateCurrentTrackDuration();
-        updatePlayedBar();
+        updateProgressBar();
 
         if (currentTrackElapsed > 0 &&
             currentTrackDuration > 0 &&
@@ -208,11 +211,9 @@ function playLogged() {
   setSelectedAsDigitLogger();
   if (digitLogger) {
     let index = Number(digitLogger) % fullPlaylistLength;
-    if (playableTracks.includes(index.toString())) {
-      replay = false;
-      player.muted = false;
-      playIndex(index, false, true);
-    }
+    replay = false;
+    player.muted = false;
+    playIndex(index, false, true);
   }
 }
 
@@ -277,6 +278,87 @@ function updateCurrentTrackIndex() {
   }
 }
 
+function getContinuingTracks() {
+  let res = [];
+  Object.keys(fullPlaylist).forEach((_, index) => {
+    res[index] = [
+      index < fullPlaylistLength - 1 && 
+      fullPlaylist[index]["src"] == fullPlaylist[index+1]["src"] &&
+      fullPlaylist[index]["end"] == fullPlaylist[index+1]["start"], 
+      null
+    ];
+  });
+  let last_seen_end = null;
+  for (let i = fullPlaylistLength - 1; i >= 0; i--) {
+    if (res[i][0]) {
+        res[i][1] = last_seen_end;
+    } else {
+        last_seen_end = fullPlaylist[i]["end"]
+    }
+  }
+  return res;
+}
+
+function deletePlaylist() {
+  if (custom) {
+    playlist = [];
+    currentTrackIndex = -1;
+    updateUrl();
+    custom = false;
+  }
+}
+
+function editPlaylist(trackIndex) {
+  let index = playlist.indexOf(trackIndex);
+  custom = true;
+  if (index > -1) {
+    playlist.splice(index, 1);
+    if (playlist.length === 0) {
+        custom = false;
+    }
+  } else {
+    if (digitLogger) {
+      index = Number(digitLogger) % playlist.length;
+      playlist.splice(index, 0, trackIndex);
+      currentTrackIndex = index;
+    } else {
+      playlist.push(trackIndex);
+      currentTrackIndex = playlist.length - 1;
+    }
+  }
+  updateDisplay();
+  updateUrl();
+}
+
+function insertToPlaylist() {
+  setSelectedAsDigitLogger();
+  if (digitLogger) {
+    let trackIndex = Number(digitLogger) % fullPlaylistLength;
+    digitLogger = "";
+    editPlaylist(trackIndex);
+  } else {
+    editPlaylist(currentTrackFullPlaylistIndex);
+  }
+}
+
+function setPlaylist(newPlaylist) {
+  custom = newPlaylist.length > 0;
+  playlist = newPlaylist;
+  updatePlaylistDisplay();
+  currentTrackIndex = playlist.indexOf(currentTrackFullPlaylistIndex);
+  if (custom && currentTrackIndex == -1) {
+    currentTrackIndex = 0;
+  }
+}
+
+function download(index) {
+  const link = document.createElement("a");
+  link.href = fullPlaylist[index]["src"].replace("&dl=0&raw=1", "&dl=1");
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
+
 // Interaction
 
 document.addEventListener(
@@ -291,12 +373,14 @@ document.addEventListener(
   }
 );
 
-played_bar.addEventListener(
+progressBarBackground.addEventListener(
   "click",
   (e) => {
-    seekFraction(e.clientX/played_bar.offsetWidth);
+    seekFraction(e.clientX/progressBarBackground.offsetWidth);
   }
 );
+
+largeAlbumArtContainer.setAttribute("onclick", "hideCover()");;
 
 window.addEventListener("popstate", playState);
 window.addEventListener("pushstate", playState);
@@ -382,96 +466,83 @@ document.addEventListener(
 
 // Graphics
 
-async function buildHTML() {
+function buildHTML() {
   const tracklist = document.getElementById("tracklist");
-  const cover_large_div = document.getElementById("cover_large_div");
-  const cover_large = document.createElement("img");
-  cover_large.setAttribute("src", "");
-  cover_large.setAttribute("id", "cover_large");
-  cover_large.classList.add("prevent-select");
-  cover_large_div.appendChild(cover_large);
-  cover_large_div.setAttribute("onclick", "hideCover()");
-
   Object.keys(fullPlaylist).forEach(index => {
-    const div_row = document.createElement("div");
-    const div_info = document.createElement("div");
-    const title = document.createElement("h3");
-    const album_artists = document.createElement("p");
-    const duration = document.createElement("h4");
-    const flac = document.createElement("h4");
-    const playlistIndex = document.createElement("h5");
-    const cover_div = document.createElement("div");
-    const cover = document.createElement("img");
-    let thumb_cover_path = "img/cover_art/" + fullPlaylist[index]["album_cover"].slice(0, -4) + "_50.jpg";
-    let trackDuration = trackDurationForDisplay(index);
-    let formattedDuration = "??:??";
-    let formattedPlaylistIndex = "0000 |";
+    const track = document.createElement("div");
+    const coverPlaceholder = document.createElement("div");
+    const albumArt = document.createElement("img");
+    const trackIndex = document.createElement("p");
+    const title = document.createElement("p");
+    const albumArtists = document.createElement("p");
+    const playlistIndex = document.createElement("p");
+    const duration = document.createElement("p");
+    const flac = document.createElement("p");
+    const download = document.createElement("img");
+    
+    albumArt.classList.add("album-art");
+    albumArt.setAttribute("src", `img/cover_art/${fullPlaylist[index]["art"].slice(0, -4)}_50.jpg`);
+    albumArt.setAttribute("onclick", `showCover(${index})`);
 
-    title.innerHTML = `${"<span class=\"index\">" + index.padStart(4, '0') + "</span> " + fullPlaylist[index]["title"]}`;
-    album_artists.innerHTML = `${fullPlaylist[index]["album"] + " - " + fullPlaylist[index]["artists"]}`;
+    coverPlaceholder.classList.add("album-art-placeholder");
+    coverPlaceholder.appendChild(albumArt);
+
+    trackIndex.classList.add("index");
+    trackIndex.innerHTML = index.padStart(4, "0");
+
+    title.classList.add("title");
+    title.classList.add("fade");
+    title.innerHTML = fullPlaylist[index]["title"];
+
+    albumArtists.classList.add("album-artists");
+    albumArtists.classList.add("fade");
+    albumArtists.innerHTML = `${fullPlaylist[index]["album"]} - ${fullPlaylist[index]["artists"]}`;
+
+    playlistIndex.classList.add("playlist-index");
+    playlistIndex.innerHTML = "0000 |";
+
+    duration.classList.add("duration");
+    const trackDuration = trackDurationForDisplay(index);
+    duration.innerHTML = trackDuration ? formattedParsedDuration(trackDuration) : "??:??";
+
+    flac.classList.add("flac");
     if (getFormatFromSrc(fullPlaylist[index]["src"]) === "flac") {
       flac.innerHTML = "FLAC";
     }
-    playlistIndex.innerHTML = formattedPlaylistIndex;
 
-    cover.setAttribute("src", thumb_cover_path);
-    cover.setAttribute("onclick", `showCover(${index})`);
-    cover.classList.add("cover-thumb");
-    title.classList.add("prevent-select");
-    album_artists.classList.add("prevent-select");
-    duration.classList.add("prevent-select");
-    flac.classList.add("prevent-select");
-    playlistIndex.classList.add("prevent-select");
-    cover.classList.add("prevent-select");
-    div_info.classList.add("info");
+    download.classList.add("download");
+    download.setAttribute("src", "./img/download.svg");
+    download.setAttribute("onclick", `download(${index})`);
 
-    div_info.appendChild(title);
-    div_info.appendChild(album_artists);
-    div_info.appendChild(duration);
-    div_info.appendChild(flac);
-    div_info.appendChild(playlistIndex);
-    cover_div.appendChild(cover);
-    div_row.appendChild(cover_div);
-    div_row.appendChild(div_info);
+    track.classList.add("track");
+    track.classList.add("prevent-select");
+    if (continuingTracks[index][0]) { track.classList.add("continuing"); }
+    track.setAttribute("id", index);
+    track.setAttribute(isMobile ? "onclick" : "ondblclick", `playIndex(${index})`);
+    track.appendChild(coverPlaceholder);
+    track.appendChild(trackIndex);
+    track.appendChild(title);
+    track.appendChild(albumArtists);
+    track.appendChild(playlistIndex);
+    track.appendChild(duration);
+    track.appendChild(flac);
+    track.appendChild(download);
 
-    title.classList.add("fade");
-    album_artists.classList.add("fade");
-    cover_div.classList.add("cover-placeholder");
-    flac.classList.add("flac")
-    div_row.setAttribute("id", index);
-    if (!isMobile) { div_row.classList.add("hover"); }
-
-    if (continuingTracks[index][0]) {
-      div_row.classList.add("continuing");
-    }
-
-    playableTracks.push(index);
-    div_row.setAttribute("ondblclick", `playIndex(${index})`);
-    if (isMobile) { div_row.setAttribute("onclick", `playIndex(${index})`); }
-    if (trackDuration < 3600*2) {
-      formattedDuration = formattedParsedDuration(trackDuration);
-    }
-
-    duration.innerHTML = formattedDuration;
-    tracklist.appendChild(div_row);
+    tracklist.appendChild(track);
   });
 }
 
 function showCover(index) {
-  let cover_large_path = "img/cover_art/" + fullPlaylist[index]["album_cover"].slice(0, -4) + "_440.jpg";
-  const cover_large_div = document.getElementById("cover_large_div");
-  const cover_large = document.getElementById("cover_large");
-  cover_large.setAttribute("src", cover_large_path);
-  cover_large.style.opacity = "1";
-  cover_large_div.style.zIndex = "100";
+  const cover_large_path = `img/cover_art/${fullPlaylist[index]["art"].slice(0, -4)}_440.jpg`;
+  largeAlbumArt.setAttribute("src", cover_large_path);
+  largeAlbumArt.style.opacity = "1";
+  largeAlbumArtContainer.style.zIndex = "100";
 }
 
 function hideCover() {
-  const cover_large_div = document.getElementById("cover_large_div");
-  const cover_large = document.getElementById("cover_large");
-  cover_large.style.opacity = "0";
-  cover_large_div.style.zIndex = "-1";
-  cover_large.setAttribute("src", "");
+  largeAlbumArt.style.opacity = "0";
+  largeAlbumArtContainer.style.zIndex = "-1";
+  largeAlbumArt.setAttribute("src", "");
 }
 
 function autoScroll() {
@@ -489,7 +560,7 @@ function dehighlightCurrentTrack() {
 
 function updateDisplay() {
   updateTitle();
-  updatePlayedBar();
+  updateProgressBar();
   highlightCurrentTrack();
 }
 
@@ -535,9 +606,9 @@ function trackDurationForDisplay(index) {
   return displayDuration;
 }
 
-function updatePlayedBar() {
-  let played_proportion = Math.min(currentTrackElapsed/currentTrackDuration, 1);
-  document.getElementById("played_bar").style.width = `${100*played_proportion}%`;
+function updateProgressBar() {
+  let progress = Math.min(currentTrackElapsed/currentTrackDuration, 1);
+  progressBar.style.width = `${100*progress}%`;
 }
 
 function parseDuration(seconds) {
@@ -560,104 +631,23 @@ function formattedParsedDuration(totalSeconds) {
   return minutes.toString().padStart(2, '0') + ":" + seconds.toString().padStart(2, '0');
 }
 
-function deletePlaylist() {
-  playlist = [];
-  currentTrackIndex = -1;
-  if (custom && statefulPlaylistEditing) {
-    updateUrl();
-  }
-  custom = false;
-}
-
-function editPlaylist(trackIndex) {
-  let index = playlist.indexOf(trackIndex);
-  custom = true;
-  if (index > -1) {
-    playlist.splice(index, 1);
-    if (playlist.length === 0) {
-        custom = false;
-    }
-  } else {
-    if (digitLogger) {
-      index = Number(digitLogger) % playlist.length;
-      playlist.splice(index, 0, trackIndex);
-      currentTrackIndex = index;
-    } else {
-      playlist.push(trackIndex);
-      currentTrackIndex = playlist.length - 1;
-    }
-  }
-  updateDisplay();
-  if (statefulPlaylistEditing) {
-    updateUrl();
-  }
-}
-
-function insertToPlaylist() {
-  setSelectedAsDigitLogger();
-  if (digitLogger) {
-    let trackIndex = Number(digitLogger) % fullPlaylistLength;
-    digitLogger = "";
-    editPlaylist(trackIndex);
-  } else {
-    editPlaylist(currentTrackFullPlaylistIndex);
-  }
-}
-
-function setPlaylist(newPlaylist) {
-  custom = newPlaylist.length > 0;
-  playlist = newPlaylist;
-  updatePlaylistDisplay();
-  currentTrackIndex = playlist.indexOf(currentTrackFullPlaylistIndex);
-  if (custom && currentTrackIndex == -1) {
-    currentTrackIndex = 0;
-  }
-}
-
-function getInsideContainer(containerID, childID) {
-    let element = document.getElementById(childID);
-    let parent = element ? element.parentNode : {};
-    return (parent.id && parent.id === containerID) ? element : {};
-}
-
 function updatePlaylistDisplay(clear = false) {
-  let div_row;
+  let track;
   let indexDisplay;
   Object.keys(fullPlaylist).forEach(index => {
-    div_row = document.getElementById(index);
-    indexDisplay = div_row.querySelector("h5");
-    div_row.setAttribute("playlist", "false");
+    track = document.getElementById(index);
+    indexDisplay = track.querySelector(".playlist-index");
+    track.setAttribute("playlist", "false");
     indexDisplay.innerHTML = "0000 |";
   });
   if (!clear) {
-    for (let [playlistIndex, index] of playlist.entries()) {
-      div_row = document.getElementById(index);
-      indexDisplay = div_row.querySelector("h5");
-      div_row.setAttribute("playlist", "true");
-      indexDisplay.innerHTML = `${playlistIndex.toString().padStart(4, '0') + " |"}`;
+    for (let [trackIndex, index] of playlist.entries()) {
+      track = document.getElementById(index);
+      indexDisplay = track.querySelector(".playlist-index");
+      track.setAttribute("playlist", "true");
+      indexDisplay.innerHTML = `${trackIndex.toString().padStart(4, '0') + " |"}`;
     }
   }
-}
-
-function flagContinuing() {
-  let res = [];
-  Object.keys(fullPlaylist).forEach((_, index) => {
-    res[index] = [
-      index < fullPlaylistLength - 1 && 
-      fullPlaylist[index]["src"] == fullPlaylist[index+1]["src"] &&
-      fullPlaylist[index]["end"] == fullPlaylist[index+1]["start"], 
-      null
-    ];
-  });
-  let last_seen_end = null;
-  for (let i = fullPlaylistLength - 1; i >= 0; i--) {
-    if (res[i][0]) {
-        res[i][1] = last_seen_end;
-    } else {
-        last_seen_end = fullPlaylist[i]["end"]
-    }
-  }
-  return res;
 }
 
 function parseQsParams() {
@@ -695,8 +685,4 @@ function setSelectedAsDigitLogger() {
   if (!digitLogger && selected != undefined) {
     digitLogger = selected;
   }
-}
-
-function getFormatFromSrc(src) {
-    return src.match(/(?<=\.)[^?]{1,4}(?=\?)/)[0]
 }
