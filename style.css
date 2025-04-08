@@ -30,12 +30,11 @@ section {
 
 body {
   background-color: black;
-  overflow-x: hidden;
 }
 
 .track {
   position: relative;
-  overflow: visible;
+  overflow: hidden;
   height: calc(var(--scale)*70px);
   border-radius: calc(var(--scale)*5px);
   margin: calc(var(--scale)*15px);
