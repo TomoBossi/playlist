@@ -3291,6 +3291,15 @@
     "volume_multiplier": 0.75,
     "art": "6t4BECovfkgGTrtbqmTlZf_The_Silver_Collection.jpg"
   },
+  "LSRMSIGT": {
+    "title": "I Got The...",
+    "artists": "Labi Siffre",
+    "album": "Remember My Song",
+    "src": "https://www.dropbox.com/scl/fi/0fnso0fue5pls0tri9gtj/LSRMSIGT.mp3?rlkey=pqrgvwmdg0ggaxajvhcidugxf&dl=0&raw=1",
+    "duration": "00:06:35",
+    "volume_multiplier": 0.75,
+    "art": "remember_my_song.jpg"
+  },
   "EPWoU": {
     "title": "The Wonder of You",
     "artists": "Elvis Presley",
@@ -3353,6 +3362,15 @@
     "duration": "00:08:28",
     "volume_multiplier": 0.75,
     "art": "241mYCg9mXZXgfTAlTsktH_Ayahuasca.jpg"
+  },
+  "TSSWISYA": {
+    "title": "Will I See You Again?",
+    "artists": "Thee Sacred Souls",
+    "album": "Will I See You Again?",
+    "src": "https://www.dropbox.com/scl/fi/0h4v8fz9x6thn5z16pqq8/TSSWISYA.mp3?rlkey=c4qh30qztkzqfil3omgh6pa3y&dl=0&raw=1",
+    "duration": "00:04:00",
+    "volume_multiplier": 0.75,
+    "art": "will_i_see_you_again.jpg"
   },
   "LMWLMW": {
     "title": "Losing My Way",
@@ -3488,6 +3506,15 @@
     "duration": "00:02:57",
     "volume_multiplier": 0.75,
     "art": "beatopia.jpg"
+  },
+  "ITTLAWKWLIWU": {
+    "title": "Anyone Who Knows What Love Is (Will Understand)",
+    "artists": "Irma Thomas",
+    "album": "Take A Look",
+    "src": "https://www.dropbox.com/scl/fi/s04qbhcs97ewgnu7b2eow/ITTLAWKWLIWU.mp3?rlkey=fqqr0eyfzdfqx6v32c27x1q21&dl=0&raw=1",
+    "duration": "00:02:56",
+    "volume_multiplier": 0.75,
+    "art": "take_a_look.jpg"
   },
   "ABTPLT": {
     "title": "Love Theme",
@@ -7732,6 +7759,15 @@
     "duration": "00:02:49",
     "volume_multiplier": 0.75,
     "art": "12aKG91Tj6hJFOe90TzcX2_Nina_Simone_Sings_The_Blues_(Expanded_Edition).jpg"
+  },
+  "NSIPSOY": {
+    "title": "I Put A Spell on You",
+    "artists": "Nina Simone",
+    "album": "I Put A Spell on You",
+    "src": "https://www.dropbox.com/scl/fi/8ct9u4rtkrhgteq5agwf3/NSIPSOY.mp3?rlkey=zsdfyho7de6aue1kq03g1elbs&dl=0&raw=1",
+    "duration": "00:02:33",
+    "volume_multiplier": 0.75,
+    "art": "i_put_a_spell_on_you.jpg"
   },
   "GJNISTFB": {
     "title": "I've Seen That Face Before (Libertango)",
