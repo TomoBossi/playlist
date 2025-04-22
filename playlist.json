@@ -6335,6 +6335,42 @@
     "volume_multiplier": 0.75,
     "art": "nubby.jpg"
   },
+  "OSSNGTROS": {
+    "title": "The Rules of Snailshock",
+    "artists": "Oroshibu",
+    "album": "SNAILSHOCK GRAND SUPREME TOURNAMENT OST",
+    "src": "https://www.dropbox.com/scl/fi/0t6bzqoe917vcc27lkras/OSSNGTROS.mp3?rlkey=otnscsayx0a4z0nxxrpnik3z4&dl=0&raw=1",
+    "duration": "00:01:16",
+    "volume_multiplier": 0.75,
+    "art": "snailshock.jpg"
+  },
+  "OSSNGTGS": {
+    "title": "Grand Supreme",
+    "artists": "Oroshibu",
+    "album": "SNAILSHOCK GRAND SUPREME TOURNAMENT OST",
+    "src": "https://www.dropbox.com/scl/fi/6e63r7qzivd7ymd45aevn/OSSNGTGS.mp3?rlkey=voujoac61595svo9a99tixndo&dl=0&raw=1",
+    "duration": "00:05:09",
+    "volume_multiplier": 0.75,
+    "art": "snailshock.jpg"
+  },
+  "OSSNGTDVIP": {
+    "title": "Devilish VIP",
+    "artists": "Oroshibu",
+    "album": "SNAILSHOCK GRAND SUPREME TOURNAMENT OST",
+    "src": "https://www.dropbox.com/scl/fi/2tp2onbrsott7l9x7ti2c/OSSNGTDVIP.mp3?rlkey=yutd1n09fg811y2ro25iwlemr&dl=0&raw=1",
+    "duration": "00:04:04",
+    "volume_multiplier": 0.75,
+    "art": "snailshock.jpg"
+  },
+  "OSSNGTTT": {
+    "title": "Tubular Tagteams",
+    "artists": "Oroshibu",
+    "album": "SNAILSHOCK GRAND SUPREME TOURNAMENT OST",
+    "src": "https://www.dropbox.com/scl/fi/zouayc7uqbc7wksyuj88l/OSSNGTTT.mp3?rlkey=8w20pzv07vdbzexxka517qmhw&dl=0&raw=1",
+    "duration": "00:03:13",
+    "volume_multiplier": 0.75,
+    "art": "snailshock.jpg"
+  },
   "PBBPDO": {
     "title": "Origin",
     "artists": "Proux",
