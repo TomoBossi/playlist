@@ -673,7 +673,7 @@ function isNumeric(value) {
 
 function getSelected() {
   try {
-    let selected = document.getSelection().focusNode.parentNode.parentNode.parentNode.id;
+    let selected = document.getSelection().focusNode.parentNode.parentNode.id;
     if (isNumeric(selected)) {
       return selected;
     }
