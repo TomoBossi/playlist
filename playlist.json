@@ -6344,6 +6344,24 @@
     "volume_multiplier": 0.75,
     "art": "snailshock.jpg"
   },
+  "OSSNGTGS": {
+    "title": "Grand Supreme",
+    "artists": "Oroshibu",
+    "album": "SNAILSHOCK GRAND SUPREME TOURNAMENT OST",
+    "src": "https://www.dropbox.com/scl/fi/6e63r7qzivd7ymd45aevn/OSSNGTGS.mp3?rlkey=voujoac61595svo9a99tixndo&dl=0&raw=1",
+    "duration": "00:05:09",
+    "volume_multiplier": 0.75,
+    "art": "snailshock.jpg"
+  },
+  "OSSNGTDVIP": {
+    "title": "Devilish VIP",
+    "artists": "Oroshibu",
+    "album": "SNAILSHOCK GRAND SUPREME TOURNAMENT OST",
+    "src": "https://www.dropbox.com/scl/fi/2tp2onbrsott7l9x7ti2c/OSSNGTDVIP.mp3?rlkey=yutd1n09fg811y2ro25iwlemr&dl=0&raw=1",
+    "duration": "00:04:04",
+    "volume_multiplier": 0.75,
+    "art": "snailshock.jpg"
+  },
   "PBBPDO": {
     "title": "Origin",
     "artists": "Proux",
