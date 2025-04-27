@@ -1327,6 +1327,15 @@
     "volume_multiplier": 0.75,
     "art": "comfort.jpg"
   },
+  "IJPACB": {
+    "title": "El Anillo del Capitán Beto",
+    "artists": "Invisible",
+    "album": "El Jardin de los Presentes",
+    "src": "https://www.dropbox.com/scl/fi/ntkm4yed5k8asnmg8ti10/IJPACB.mp3?rlkey=3ur4xyv9y5e5a3stm0wgi4lc6&dl=0&raw=1",
+    "duration": "00:05:08",
+    "volume_multiplier": 0.75,
+    "art": "0lbpA4dCZfaNhy6LZrGDvJ_El_Jardin_de_los_Presentes.jpg"
+  },
   "IJPAEA": {
     "title": "Alarma Entre los Ángeles",
     "artists": "Invisible",
@@ -1344,6 +1353,24 @@
     "duration": "00:04:57",
     "volume_multiplier": 0.75,
     "art": "5MJR9j21vjEi4ODxzhvoTA_Artaud.jpg"
+  },
+  "PRAB": {
+    "title": "Bajan",
+    "artists": "Pescado Rabioso",
+    "album": "Artaud",
+    "src": "https://www.dropbox.com/scl/fi/hnrt1b7v397jkv4sgqbjl/PRAB.mp3?rlkey=6a4q4jimzojf3fw204lqthyqa&dl=0&raw=1",
+    "duration": "00:03:26",
+    "volume_multiplier": 0.75,
+    "art": "5MJR9j21vjEi4ODxzhvoTA_Artaud.jpg"
+  },
+  "IDSDS": {
+    "title": "Durazno Sangrando",
+    "artists": "Invisible",
+    "album": "Durazno Sangrando",
+    "src": "https://www.dropbox.com/scl/fi/5z0gy8i2b3eysud6zu1e7/IDSDS.mp3?rlkey=w1faygc1lu1sftcuwuickp2t7&dl=0&raw=1",
+    "duration": "00:03:39",
+    "volume_multiplier": 0.75,
+    "art": "durazno_sangrando.jpg"
   },
   "CCSMLD": {
     "title": "Los Días",
