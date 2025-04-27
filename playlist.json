@@ -1147,6 +1147,15 @@
     "volume_multiplier": 0.75,
     "art": "mangekyou.jpg"
   },
+  "YSDFG": {
+    "title": "ヒターノ",
+    "artists": "Yoshiko Sai",
+    "album": "胎児の夢 (Dream of Fetus)",
+    "src": "https://www.dropbox.com/scl/fi/n849c2qpj27qdlsznlyt4/YSDFG.mp3?rlkey=e5dpc30aq9dlwfkllyd4wq7t9&dl=0&raw=1",
+    "duration": "00:03:43",
+    "volume_multiplier": 0.75,
+    "art": "fetus.jpg"
+  },
   "YSDFBGB": {
     "title": "青いガラス玉",
     "artists": "Yoshiko Sai",
