@@ -541,7 +541,7 @@ function showCover(index) {
 
 function hideCover() {
   largeAlbumArt.style.opacity = "0";
-  largeAlbumArtContainer.style.zIndex = "-1";
+  largeAlbumArtContainer.style.zIndex = "-2";
   largeAlbumArt.setAttribute("src", "");
 }
 
