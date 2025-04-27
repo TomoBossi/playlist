@@ -1273,6 +1273,114 @@
     "volume_multiplier": 0.75,
     "art": "oktubre.jpg"
   },
+  "SDPFRT": {
+    "title": "La Rubia Tarada",
+    "artists": "Sumo",
+    "album": "Divididos Por La Felicidad",
+    "src": "https://www.dropbox.com/scl/fi/c0j39hceful9zqygsa2vh/SDPFRT.mp3?rlkey=t4f37hlmp79q2mnyzcx7sfzrz&dl=0&raw=1",
+    "duration": "00:03:43",
+    "volume_multiplier": 0.75,
+    "art": "divididos_por_la_felicidad.jpg"
+  },
+  "SACNTD": {
+    "title": "No Tan Distintos",
+    "artists": "Sumo",
+    "album": "After Chabon",
+    "src": "https://www.dropbox.com/scl/fi/36z17elnbgvoeyu4fw5go/SACNTD.mp3?rlkey=8m8vp3tjprfzvru5ruhq4l9v2&dl=0&raw=1",
+    "duration": "00:02:41",
+    "volume_multiplier": 0.75,
+    "art": "after_chabon.jpg"
+  },
+  "SLLMH": {
+    "title": "Heroína",
+    "artists": "Sumo",
+    "album": "Llegando Los Monos",
+    "src": "https://www.dropbox.com/scl/fi/w3u8d5lz1nqp2nxn3t9up/SLLMH.mp3?rlkey=03ptm871sdtu01zah225sypd1&dl=0&raw=1",
+    "duration": "00:05:43",
+    "volume_multiplier": 0.75,
+    "art": "llegando_los_monos.jpg"
+  },
+  "SLLMVV": {
+    "title": "Los Viejos Vinagres",
+    "artists": "Sumo",
+    "album": "Llegando Los Monos",
+    "src": "https://www.dropbox.com/scl/fi/jke4yr2qtourzikl5egtq/SLLMVV.mp3?rlkey=minjozmu2vh2uepwwx1a5mp9v&dl=0&raw=1",
+    "duration": "00:03:17",
+    "volume_multiplier": 0.75,
+    "art": "llegando_los_monos.jpg"
+  },
+  "SLLMEDO": {
+    "title": "Estallando Desde el Océano",
+    "artists": "Sumo",
+    "album": "Llegando Los Monos",
+    "src": "https://www.dropbox.com/scl/fi/xmq4t25bhfe0lw3mio4tu/SLLMEDO.mp3?rlkey=wzfiiam1w5lsqxrc3rgznsgjn&dl=0&raw=1",
+    "duration": "00:03:35",
+    "volume_multiplier": 0.75,
+    "art": "llegando_los_monos.jpg"
+  },
+  "SACMA": {
+    "title": "Mañana en el Abasto",
+    "artists": "Sumo",
+    "album": "After Chabon",
+    "src": "https://www.dropbox.com/scl/fi/rty090eum9ubxt6or8cm5/SACMA.mp3?rlkey=std87noprz85b5hqj4e37mieh&dl=0&raw=1",
+    "duration": "00:04:09",
+    "volume_multiplier": 0.75,
+    "art": "after_chabon.jpg"
+  },
+  "SLLMQMP": {
+    "title": "Que Me Pisen",
+    "artists": "Sumo",
+    "album": "Llegando Los Monos",
+    "src": "https://www.dropbox.com/scl/fi/0q5t63ok7ygz2do25erma/SLLMQMP.mp3?rlkey=nn7mpblrtgtfyvg7akotpv3n7&dl=0&raw=1",
+    "duration": "00:04:22",
+    "volume_multiplier": 0.75,
+    "art": "llegando_los_monos.jpg"
+  },
+  "SLLMN": {
+    "title": "Nextweek",
+    "artists": "Sumo",
+    "album": "Llegando Los Monos",
+    "src": "https://www.dropbox.com/scl/fi/s51k8qllr7omlo5la449t/SLLMN.mp3?rlkey=6kxm8jifzzzvjofm76e6dj6ni&dl=0&raw=1",
+    "duration": "00:03:16",
+    "volume_multiplier": 0.75,
+    "art": "llegando_los_monos.jpg"
+  },
+  "SACHF": {
+    "title": "Hola Frank",
+    "artists": "Sumo",
+    "album": "After Chabon",
+    "src": "https://www.dropbox.com/scl/fi/zgkwdveugeffl9s27oncd/SACHF.mp3?rlkey=ugdyo89hezx8mqilyou2zq9pg&dl=0&raw=1",
+    "duration": "00:03:11",
+    "volume_multiplier": 0.75,
+    "art": "after_chabon.jpg"
+  },
+  "SDPFDPF": {
+    "title": "Divididos Por La Felicidad",
+    "artists": "Sumo",
+    "album": "Divididos Por La Felicidad",
+    "src": "https://www.dropbox.com/scl/fi/t94cizr4a2xotj1mn7a3i/SDPFDPF.mp3?rlkey=6o7jhweekoyh9o12mv5dao8ha&dl=0&raw=1",
+    "duration": "00:05:01",
+    "volume_multiplier": 0.75,
+    "art": "divididos_por_la_felicidad.jpg"
+  },
+  "SDPFMP": {
+    "title": "Mula Plateada",
+    "artists": "Sumo",
+    "album": "Divididos Por La Felicidad",
+    "src": "https://www.dropbox.com/scl/fi/k1hmty16bpwfq9j8us0rh/SDPFMP.mp3?rlkey=i6o7fw45qgoyz3o5w9tg1bffr&dl=0&raw=1",
+    "duration": "00:03:55",
+    "volume_multiplier": 0.75,
+    "art": "divididos_por_la_felicidad.jpg"
+  },
+  "SACGO": {
+    "title": "La Gota en el Ojo",
+    "artists": "Sumo",
+    "album": "After Chabon",
+    "src": "https://www.dropbox.com/scl/fi/7iakaavjyl2wr3obyzlpu/SACGO.mp3?rlkey=ynwlbdhtqzh2zq14jytzw885q&dl=0&raw=1",
+    "duration": "00:03:06",
+    "volume_multiplier": 0.75,
+    "art": "after_chabon.jpg"
+  },
   "SSDVCF": {
     "title": "En La Ciudad De La Furia",
     "artists": "Soda Stereo",
@@ -3470,6 +3578,15 @@
     "duration": "00:08:28",
     "volume_multiplier": 0.75,
     "art": "241mYCg9mXZXgfTAlTsktH_Ayahuasca.jpg"
+  },
+  "TSQIDTILTNGO": {
+    "title": "There Is a Light That Never Goes Out",
+    "artists": "The Smiths",
+    "album": "The Queen Is Dead",
+    "src": "https://www.dropbox.com/scl/fi/ypnn5tm9tslo6xbeivh4e/TSQIDTILTNGO.mp3?rlkey=xc4659vgrvs5xuezfpt86829l&dl=0&raw=1",
+    "duration": "00:04:04",
+    "volume_multiplier": 0.75,
+    "art": "the_queen_is_dead.jpg"
   },
   "TSSWISYA": {
     "title": "Will I See You Again?",
