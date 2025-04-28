@@ -154,6 +154,7 @@ body {
 }
 
 .album-artists {
+  overflow: hidden;
   font-family: Helvetica, sans-serif;
   font-size: calc(var(--scale)*15px);
   line-height: calc(var(--scale)*30px);
