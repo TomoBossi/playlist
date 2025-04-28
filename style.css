@@ -140,6 +140,7 @@ body {
 }
 
 .title {
+  overflow: hidden;
   font-family: Helvetica, sans-serif;
   font-size: calc(var(--scale)*25px);
   font-weight: bold;
