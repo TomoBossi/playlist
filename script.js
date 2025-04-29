@@ -492,6 +492,7 @@ function buildHTML() {
 
     title.classList.add("title");
     title.classList.add("fade");
+    title.setAttribute("title", fullPlaylist[index]["title"]);
     title.innerHTML = fullPlaylist[index]["title"];
 
     albumArtists.classList.add("album-artists");

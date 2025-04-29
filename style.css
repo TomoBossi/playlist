@@ -141,6 +141,7 @@ body {
 
 .title {
   overflow: hidden;
+  text-overflow: ellipsis;
   font-family: Helvetica, sans-serif;
   font-size: calc(var(--scale)*25px);
   font-weight: bold;
@@ -155,6 +156,7 @@ body {
 
 .album-artists {
   overflow: hidden;
+  text-overflow: ellipsis;
   font-family: Helvetica, sans-serif;
   font-size: calc(var(--scale)*15px);
   line-height: calc(var(--scale)*30px);
