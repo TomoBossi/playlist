@@ -1210,6 +1210,15 @@
     "volume_multiplier": 0.75,
     "art": "gulp.jpg"
   },
+  "PRRRGS": {
+    "title": "Superlogico",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "Gulp!",
+    "src": "https://www.dropbox.com/scl/fi/ciywngjqb0a9ep061j24z/PRRRGS.mp3?rlkey=i7gd628h45vam9izfbdrbc4dh&dl=0&raw=1",
+    "duration": "00:03:04",
+    "volume_multiplier": 0.75,
+    "art": "gulp.jpg"
+  },
   "PRRROPEMC": {
     "title": "Preso en mi Ciudad",
     "artists": "Patricio Rey y sus Redonditos de Ricota",
