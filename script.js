@@ -180,7 +180,9 @@ function togglePause() {
 function seek(second) {
   if (player !== undefined) {
     second = Math.max(second, seconds(currentTrack["start"]));
+    player.pause();
     player.currentTime = second;
+    player.play();
   }
 }
 

@@ -1291,6 +1291,69 @@
     "volume_multiplier": 0.75,
     "art": "oktubre.jpg"
   },
+  "PRRRBBELEEEML": {
+    "title": "Esa Estrella Era Mi Lujo",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "¡Bang! ¡Bang!... Estás Liquidado",
+    "src": "https://www.dropbox.com/scl/fi/o9wqm0j1llsh87ckz8atz/PRRRBBELEEEML.mp3?rlkey=v4nbktib1p728ub8xbb8fzcds&dl=0&raw=1",
+    "duration": "00:02:56",
+    "volume_multiplier": 0.75,
+    "art": "bang_bang.jpg"
+  },
+  "PRRRMSTT": {
+    "title": "Toxi-Taxi",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "La Mosca y La Sopa",
+    "src": "https://www.dropbox.com/scl/fi/6ga6m53mu7zsl4tgw8dz9/PRRRMSTT.mp3?rlkey=yq53jn52ao0bp2165jf9roipd&dl=0&raw=1",
+    "duration": "00:03:39",
+    "volume_multiplier": 0.75,
+    "art": "la_mosca_y_la_sopa.jpg"
+  },
+  "PRRRMSFPCR": {
+    "title": "Fusilados por la Cruz Roja",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "La Mosca y La Sopa",
+    "src": "https://www.dropbox.com/scl/fi/uz7rxjc4if191q80pn2jj/PRRRMSFPCR.mp3?rlkey=qudgp5uv20ebn2qzncyhbpaic&dl=0&raw=1",
+    "duration": "00:04:14",
+    "volume_multiplier": 0.75,
+    "art": "la_mosca_y_la_sopa.jpg"
+  },
+  "PRRRMSPA": {
+    "title": "El Pibe de los Astilleros",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "La Mosca y La Sopa",
+    "src": "https://www.dropbox.com/scl/fi/u3l0tggfpqgbiml4xrjdn/PRRRMSPA.mp3?rlkey=6jx7jct8qi6r0ckso4kv1ninx&dl=0&raw=1",
+    "duration": "00:03:32",
+    "volume_multiplier": 0.75,
+    "art": "la_mosca_y_la_sopa.jpg"
+  },
+  "PRRRMSSH": {
+    "title": "Salando las Heridas",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "La Mosca y La Sopa",
+    "src": "https://www.dropbox.com/scl/fi/rh36n8iyeulctjg48hk87/PRRRMSSH.mp3?rlkey=d2l1xpn1b3yhqgfc1rw2psw49&dl=0&raw=1",
+    "duration": "00:05:03",
+    "volume_multiplier": 0.75,
+    "art": "la_mosca_y_la_sopa.jpg"
+  },
+  "PRRRMSQR": {
+    "title": "Queso Ruso",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "La Mosca y La Sopa",
+    "src": "https://www.dropbox.com/scl/fi/kpeuviowsr5d5ap6127hp/PRRRMSQR.mp3?rlkey=7c5d73sbhr35n4bvdoltl87xf&dl=0&raw=1",
+    "duration": "00:04:52",
+    "volume_multiplier": 0.75,
+    "art": "la_mosca_y_la_sopa.jpg"
+  },
+  "PRRRLSCAHF": {
+    "title": "La Hija del Fletero",
+    "artists": "Patricio Rey y sus Redonditos de Ricota",
+    "album": "Lobo Suelto",
+    "src": "https://www.dropbox.com/scl/fi/sgmdvlqiowtiigwsqcz3w/PRRRLSCAHF.mp3?rlkey=1ioizomjroyfpc0fy92cb8ntz&dl=0&raw=1",
+    "duration": "00:03:15",
+    "volume_multiplier": 0.75,
+    "art": "lobo_suelto_cordero_atado.jpg"
+  },
   "SDPFRT": {
     "title": "La Rubia Tarada",
     "artists": "Sumo",
@@ -7633,6 +7696,165 @@
     "volume_multiplier": 0.75,
     "art": "dadada.jpg"
   },
+  "W96ADMW": {
+    "title": "Why?",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "end": "00:03:21.75",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMI": {
+    "title": "Ibiza",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:03:21.83",
+    "end": "00:05:52.7",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMN": {
+    "title": "Nostalgia",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:05:52.8",
+    "end": "00:09:09.2",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMFA": {
+    "title": "Frutiger Aero",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:09:09.95",
+    "end": "00:11:16.8",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADME2009": {
+    "title": "Evening2009",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:11:16.8",
+    "end": "00:14:17.94",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMBI": {
+    "title": "Basic Illusion",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:14:17.95",
+    "end": "00:17:42",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMAMS": {
+    "title": "Angelica Maps Software",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:17:42.01",
+    "end": "00:20:09.8",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMCPDG": {
+    "title": "Cult Programming Dove Girls",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:20:09.81",
+    "end": "00:22:48.4",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMLNT": {
+    "title": "Late Night Television",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:22:48.45",
+    "end": "00:24:58.55",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMSET": {
+    "title": "Slow Esc Texture",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:24:58.6",
+    "end": "00:27:44.1",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADML": {
+    "title": "Liminal0y1bg554",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:27:44.15",
+    "end": "00:30:00.89",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMIJSY": {
+    "title": "I Just See You",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:30:00.9",
+    "end": "00:33:19.4",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMGH": {
+    "title": "Golf Heaven",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:33:19.41",
+    "end": "00:36:25.8",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMCD": {
+    "title": "Clown Doll",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:36:25.9",
+    "end": "00:39:14.6",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMD": {
+    "title": "Default",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:39:14.65",
+    "end": "00:41:32.9",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
+  "W96ADMFN": {
+    "title": "For Now",
+    "artists": "Windows96",
+    "album": "Awkward Dance Music",
+    "src": "https://www.dropbox.com/scl/fi/p4y1hij3hyl01v9yssei9/W96ADMW_W96ADMI_W96ADMN_W96ADMFA_W96ADME2009_W96ADMBI_W96ADMAMS_W96ADMCPDG_W96ADMLNT_W96ADMSET_W96ADML_W96ADMIJSY_W96ADMGH_W96ADMCD_W96ADMD_W96ADMFN.mp3?rlkey=njnkk50gr73z1j1l9d03cy7vn&dl=0&raw=1",
+    "start": "00:41:32.95",
+    "duration": "00:45:00",
+    "volume_multiplier": 0.75,
+    "art": "adm.jpg"
+  },
   "W96EIWDS": {
     "title": "Deep Swim",
     "artists": "Windows96",
@@ -10885,6 +11107,16 @@
     "volume_multiplier": 0.75,
     "art": "perfect_blue_ost.jpg"
   },
+  "MNFMF": {
+    "title": "Fantasy",
+    "artists": "Meiko Nakahara",
+    "album": "2時までのシンデレラ-FRIDAY MAGIC-",
+    "src": "https://www.dropbox.com/scl/fi/kja73cfgybhuj3vfnfqlv/MNFMF.mp3?rlkey=kczd2vb3v8snchxptf413perr&dl=0&raw=1",
+    "duration": "00:04:23",
+    "volume_multiplier": 0.75,
+    "art": "friday_magic.jpg"
+    
+  },
   "YFCFC": {
     "title": "Flyday Chinatown",
     "artists": "Yasuha",
@@ -10957,11 +11189,11 @@
     "volume_multiplier": 0.75,
     "art": "2MeYdDfqSQfGGXebPhT1rF_Feeling_Like_A_child.jpg"
   },
-  "CWMP": {
+  "POLLYANNA": {
     "title": "POLLYANNA (I BELIEVE IN YOU)",
-    "artists": "Catherine Warwick",
-    "album": "MOTHER",
-    "src": "https://www.dropbox.com/scl/fi/c4qjjd3dub2lhhwsqznp4/CWMP.mp3?rlkey=wtj5xec45h9sf2p3vv3dh45q2&dl=0&raw=1",
+    "artists": "MOTHER",
+    "album": "MOTHER OST",
+    "src": "https://www.dropbox.com/scl/fi/7e9s8gnz4ozmjv13oven3/POLLYANNA.mp3?rlkey=0w68m5mfffuy7zuvcg52id16n&dl=0&raw=1",
     "duration": "00:03:43",
     "volume_multiplier": 0.75,
     "art": "0nJMvM3LNPMWuOuVOPK8xw_MOTHER.jpg"
