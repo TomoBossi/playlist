@@ -783,7 +783,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/zzdmxgqiz997zf7qony1g/EBYHCFN.mp3?rlkey=c9gi055ln2dg3pzz9wf13xam0&dl=0&raw=1",
     "duration": "00:02:16",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "PFWYWHSYCDI": {
@@ -4423,7 +4423,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/4gt187307hsv4zwqtmsn6/EBTS.mp3?rlkey=vu1uih4fi3jsnoszrrdze663z&dl=0&raw=1",
     "duration": "00:00:15",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBBBP": {
@@ -4432,7 +4432,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/pmwj3cuaeg325mo4s7ftt/EBBBP.mp3?rlkey=bdlvx8mb8c9sgpaq7msjfgb6p&dl=0&raw=1",
     "duration": "00:01:33",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBOF": {
@@ -4441,7 +4441,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/uwmlj01bxo5yhzb63v9jl/EBOF.mp3?rlkey=y74gbgeryez3o62d3prlbr95h&dl=0&raw=1",
     "duration": "00:00:06",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBWO": {
@@ -4450,7 +4450,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/m10nl8j8uyp08vb4527zr/EBWO.mp3?rlkey=3tta8oypywb1idz7usaonswg8&dl=0&raw=1",
     "duration": "00:01:22",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBF": {
@@ -4459,7 +4459,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/lrr4pxtw369oftnddqh94/EBF.mp3?rlkey=2ccj4vdjroknutu09kz2cj078&dl=0&raw=1",
     "duration": "00:01:12",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBDECT": {
@@ -4468,7 +4468,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/jbzl0tx9k1gisljfzqeo8/EBDECT.mp3?rlkey=s0ldnzmzq63kb47ghmllvh1c2&dl=0&raw=1",
     "duration": "00:01:58",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBR5FP": {
@@ -4477,7 +4477,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/bkojzzge0y4gjoxcj9nf2/EBR5FP.mp3?rlkey=c6rsv244e42dav4h41s94duje&dl=0&raw=1",
     "duration": "00:01:10",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBVL": {
@@ -4486,8 +4486,17 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/8sdp3jfdgmnvnugft28yy/EBVL.mp3?rlkey=cca7vglljp3023b15e05qyvca&dl=0&raw=1",
     "duration": "00:02:11",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
+  },
+  "ESUFO50GT": {
+    "title": "Grimstone - Town",
+    "artists": "Eirik Suhrke",
+    "album": "UFO 50 OST",
+    "src": "https://www.dropbox.com/scl/fi/7yuc01xjsh3um7cnygt4k/ESUFO50GT.mp3?rlkey=2fvp40tspckqub2uukb6xg8xn&dl=0&raw=1",
+    "duration": "00:01:33.00",
+    "volume_multiplier": 0.75,
+    "art": "ufo_50_ost.jpg"
   },
   "EBETM": {
     "title": "Summers' Eternal Tourist Map",
@@ -4495,7 +4504,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/he73r0h18ns3noase9n2d/EBETM.mp3?rlkey=ypm0pfkxtq4scqh6pwun78nh3&dl=0&raw=1",
     "duration": "00:01:27",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBSR": {
@@ -4504,7 +4513,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/w24ucd52ooh9a5ijignli/EBSR.mp3?rlkey=8cfrk5pda0k4lanb4z480tkqw&dl=0&raw=1",
     "duration": "00:02:02",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBOB": {
@@ -4513,7 +4522,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/10ztizk9jlp67nt5bnwda/EBOB.mp3?rlkey=engpowmb9hyzqf96mo15h6qcb&dl=0&raw=1",
     "duration": "00:00:04",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBSG": {
@@ -4522,7 +4531,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/x2tvass2a58q3uxhxhnz4/EBSG.mp3?rlkey=939k91op1e09deoj89r93swoo&dl=0&raw=1",
     "duration": "00:02:21",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBWYS": {
@@ -4531,7 +4540,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/aisxc1cvwiwzsp0ay9ho0/EBWYS.mp3?rlkey=1isassdhzux0s6j8s6xqxau9j&dl=0&raw=1",
     "duration": "00:00:48",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBFM": {
@@ -4540,7 +4549,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/d3wu36j3tqysv8l4x8kev/EBFM.mp3?rlkey=1v0z7iw0czfxl4kbw2fv9a610&dl=0&raw=1",
     "duration": "00:00:41",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBP": {
@@ -4549,7 +4558,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/timccdshafx9hnktelvaf/EBP.mp3?rlkey=ziv3vxcneesmsoiofmfxn7br4&dl=0&raw=1",
     "duration": "00:01:06",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBBB": {
@@ -4558,7 +4567,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/5j0di42pq2hmufcaciy0u/EBBB.mp3?rlkey=xzcucx9vphi4oeaak1o1tndfu&dl=0&raw=1",
     "duration": "00:00:38",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBHSH": {
@@ -4567,7 +4576,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/7q9qym7gcqwrfm4u8eb0p/EBHSH.mp3?rlkey=1ne1f5n910iny6bgo8htzdjqm&dl=0&raw=1",
     "duration": "00:01:52",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBGFBF": {
@@ -4576,7 +4585,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/hlnrecftdykf2l1acya8g/EBGFBF.mp3?rlkey=26j9ovjndjorhw90cua84j919&dl=0&raw=1",
     "duration": "00:03:52",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "EBST": {
@@ -4585,7 +4594,7 @@
     "album": "EarthBound OST",
     "src": "https://www.dropbox.com/scl/fi/g9uy5s96a6h893umzsge5/EBST.mp3?rlkey=2j64tzevom64ls5yiy3hz7wr7&dl=0&raw=1",
     "duration": "00:05:48",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "earthbound.jpg"
   },
   "DBRFZSS": {
