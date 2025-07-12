@@ -4759,6 +4759,15 @@
     "volume_multiplier": 0.75,
     "art": "2M2Ae2SvZe3fmzUtlVOV5Z_UNDERTALE_Soundtrack.jpg"
   },
+  "KTLMPEGL": {
+    "title": "Professor E. Gadd's Lab",
+    "artists": "Kazumi Totaka, Shinobu Nagata",
+    "album": "Luigi's Mansion OST",
+    "src": "https://www.dropbox.com/scl/fi/dp2qt1w4qhllm0ud033tv/KTLMPEGL.mp3?rlkey=jqbp0dl0ar3jos791ugnbefuh&dl=0&raw=1",
+    "duration": "00:01:24",
+    "volume_multiplier": 0.75,
+    "art": "luigis_mansion.jpg"
+  },
   "LRMCCO": {
     "title": "otherside",
     "artists": "Lena Raine",
@@ -13114,6 +13123,15 @@
     "volume_multiplier": 0.75,
     "art": "0ofaIVDxemaYYQipgWRYKp_Come_To_Daddy.jpg"
   },
+  "ATOSS": {
+    "title": "spiral staircase [future music competition, AFX remix] (Luke Vibert - Sci-Fi Staircase)",
+    "artists": "Aphex Twin",
+    "album": "Orphans",
+    "src": "https://www.dropbox.com/scl/fi/icbg1hq41p6nv7ojyk93e/ATOSS.mp3?rlkey=75db2lspmhigx273i03ww93s9&dl=0&raw=1",
+    "duration": "00:05:05",
+    "volume_multiplier": 0.75,
+    "art": "orphans.jpg"
+  },
   "ATRDJAF": {
     "title": "Fingerbib",
     "artists": "Aphex Twin",
@@ -13140,6 +13158,15 @@
     "duration": "00:06:05",
     "volume_multiplier": 0.75,
     "art": "windowlicker.jpg"
+  },
+  "ATSS": {
+    "title": "syro u473t8+e [141.98] (piezoluminescence mix)",
+    "artists": "Aphex Twin",
+    "album": "Syro",
+    "src": "https://www.dropbox.com/scl/fi/0r2ioye0u8u2c2c5gnxkk/ATSS.mp3?rlkey=iz82qfwank106so1jcrp8oxmy&dl=0&raw=1",
+    "duration": "00:06:32",
+    "volume_multiplier": 0.75,
+    "art": "syro.jpg"
   },
   "ATSX": {
     "title": "XMAS_EVET10 [120] (thanaton3 mix)",
