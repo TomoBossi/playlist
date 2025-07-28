@@ -9403,6 +9403,15 @@
     "volume_multiplier": 0.75,
     "art": "3l5PdpQHvUOXlq1w9PftPu_Pink_Season.jpg"
   },
+  "DLSB": {
+    "title": "The Shoebody Bop",
+    "artists": "Drue Langlois",
+    "album": "The Shoebody Bop",
+    "src": "https://www.dropbox.com/scl/fi/3pqiarojki90ve2k8o7mm/DLSB.mp3?rlkey=hod6aqn5zk029wf4vi7j911xp&dl=0&raw=1",
+    "duration": "00:02:09",
+    "volume_multiplier": 0.75,
+    "art": "shoebody_bop.jpg"
+  },
   "DGEMB": {
     "title": "Beware",
     "artists": "Death Grips",
