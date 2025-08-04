@@ -14,7 +14,7 @@ def download(yt_uid, output_directory, file_name, start=None, end=None):
         if start or end:
             start = start if start else "00:00:00.0"
             ytdlp_cmd.extend(["--postprocessor-args", f"-ss {start} -to {end}" if end else f"-ss {start}"])
-        ytdlp_cmd.append(yt_uid)
+        ytdlp_cmd.extend(["--", yt_uid])
 
         subprocess.run(ytdlp_cmd, check=True)
 

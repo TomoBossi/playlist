@@ -3795,6 +3795,15 @@
     "volume_multiplier": 0.75,
     "art": "3aGmHJLrFubhnEBeaASZoy_Soñé.jpg"
   },
+  "DBICBIB2": {
+    "title": "2",
+    "artists": "Dean Blunt & Inga Copeland",
+    "album": "Black is Beautiful",
+    "src": "https://www.dropbox.com/scl/fi/97fju3fi4tm2zrhc3zrrx/DBICBIB2.mp3?rlkey=w05ma2tio62zs86cr2ry5wdg0&dl=0&dl=0&raw=1",
+    "duration": "00:02:13",
+    "volume_multiplier": 0.75,
+    "art": "ebony.jpg"
+  },
   "TRANSPB": {
     "title": "Paper Boats",
     "artists": "Darren Korb, Ashley Barrett",
@@ -4128,6 +4137,15 @@
     "start": "00:10:30.9",
     "volume_multiplier": 0.75,
     "art": "3BDCnUJdWICWMDzamhY2fa_TV_ANIMATION_Sonny_Boy_original_soundtrack.jpg"
+  },
+  "REATLSOYH": {
+    "title": "Outside Your House",
+    "artists": "Ricky Eat Acid",
+    "album": "Three Love Songs",
+    "src": "https://www.dropbox.com/scl/fi/f5xwf6vmfuelif7icvv7z/REATLSOYH.mp3?rlkey=gi2za4pa90is4j49t780feouh&dl=0&raw=1",
+    "duration": "00:02:04",
+    "volume_multiplier": 0.75,
+    "art": "three_love_songs.jpg"
   },
   "BKKZS": {
     "title": "Snow",
@@ -14451,7 +14469,7 @@
     "title": "Modal Soul",
     "artists": "Nujabes, Uyama Hiroto",
     "album": "Modal Soul",
-    "src": "https://www.dropbox.com/scl/fi/3j2dyhk5tlqf28r94xzaq/NMSMS.mp3?rlkey=n7a66h6pse36ztbun53a5cxj5&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/wsd8x3rwvn7q3fthaeatp/NMSMS.flac?rlkey=o7cpq3sk7hxdivnlnh3urprvd&dl=0&raw=1",
     "duration": "00:04:41",
     "volume_multiplier": 0.75,
     "art": "6nVACH6a27eOWiumAJhDWS_Modal_Soul.jpg"
