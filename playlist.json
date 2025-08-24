@@ -5461,6 +5461,15 @@
     "volume_multiplier": 0.75,
     "art": "4jodtP1gXnHd8aU4hQiXHL_Genshin_Impact_-_The_Wind_and_the_Star_Traveler_(Original_Game_Soundtrack).jpg"
   },
+  "MSSHSW": {
+    "title": "Somewhere in the Woods (Short Hike)",
+    "artists": "Mark Sparling",
+    "album": "A Short Hike OST",
+    "src": "https://www.dropbox.com/scl/fi/73fxrs37zs9kc11gidwil/MSSHSW.mp3?rlkey=v56smyu1ztt39fq24qut11j8d&dl=0&raw=1",
+    "duration": "00:03:43",
+    "volume_multiplier": 0.75,
+    "art": "short_hike_ost.jpg"
+  },
   "GSTY1WP": {
     "title": "A Walk in the Park",
     "artists": "George Stamatiadis",
