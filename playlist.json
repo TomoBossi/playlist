@@ -1561,6 +1561,15 @@
     "volume_multiplier": 0.75,
     "art": "durazno_sangrando.jpg"
   },
+  "RBLTSMLTSM": {
+    "title": "La Tierra Sin Mal",
+    "artists": "Raúl Barboza",
+    "album": "La Tierra Sin Mal",
+    "src": "https://www.dropbox.com/scl/fi/6t01hdktf8ghei1pcr7hm/RBLTSMLTSM.mp3?rlkey=orswofxubevo6lh4xx1tpzxom&dl=0&raw=1",
+    "duration": "00:05:58",
+    "volume_multiplier": 0.75,
+    "art": "la_tierra_sin_mal.jpg"
+  },
   "CCSMLD": {
     "title": "Los Días",
     "artists": "Carlos Cutaia",
@@ -13347,6 +13356,85 @@
     "duration": "00:06:17",
     "volume_multiplier": 0.75,
     "art": "lain_ost_cyberia_mix.jpg"
+  },
+  "NILMCLS": {
+    "title": "London Song",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "end": "00:03:15",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCIT": {
+    "title": "iPod Touch",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:03:15",
+    "end": "00:06:31.52",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCFMC": {
+    "title": "Fuck My Computer",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:06:31.52",
+    "end": "00:09:41.8",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCC": {
+    "title": "CSIRAC",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:09:41.8",
+    "end": "00:13:04.02",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCD": {
+    "title": "Delete",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:13:04.02",
+    "end": "00:16:51",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCI": {
+    "title": "Infohazard",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:21:00",
+    "end": "00:25:15",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCIY": {
+    "title": "It's You",
+    "artists": "Ninajirachi, daine",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:31:13",
+    "end": "00:34:03.81",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
+  },
+  "NILMCAAO": {
+    "title": "All At Once",
+    "artists": "Ninajirachi",
+    "album": "I Love My Computer",
+    "src": "https://www.dropbox.com/scl/fi/n2s4iy3drvq88hupt70fu/NILMCLS_NILMCIT_NILMCFMC_NILMCC_NILMCD_NILMCCAT_NILMCAIA_NILMCI_NILMCBD_NILMCSG_NILMCIY_NILMCAAO.mp3?rlkey=ac7xbimc2w7dmezzy0q7azqir&dl=0&raw=1",
+    "start": "00:34:03.81",
+    "duration": "00:39:30",
+    "volume_multiplier": 0.75,
+    "art": "i_love_my_computer.jpg"
   },
   "DDSYLMGU": {
     "title": "Generate Utopia",
