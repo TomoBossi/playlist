@@ -8737,6 +8737,15 @@
     "volume_multiplier": 0.75,
     "art": "venus.jpg"
   },
+  "NTHM3B": {
+    "title": "Breathless (Blaze - Breathe)",
+    "artists": "Nu:Tone",
+    "album": "Hospital Mix 3",
+    "src": "https://www.dropbox.com/scl/fi/nbmsoj3nlh3jsft1rrz8k/NTHM3B.mp3?rlkey=qfurjukm6xyv5uhco2nw52mmj&dl=0&raw=1",
+    "end": "00:05:37.0",
+    "volume_multiplier": 0.75,
+    "art": "hospital_mix_3.jpg"
+  },
   "TNRRSS": {
     "title": "Silver Stream",
     "artists": "Tetsukazu Nakanishi, Hiroshi Okubo",
