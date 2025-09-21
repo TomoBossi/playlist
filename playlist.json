@@ -10394,6 +10394,145 @@
     "volume_multiplier": 0.75,
     "art": "4XgGOMRY7H4hl6OQi5wb2Z_Hollow_Knight_(Original_Soundtrack).jpg"
   },
+  "CLHKSEP": {
+    "title": "Enter Pharloom",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "end": "00:02:05",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSMG": {
+    "title": "Moss Grotto",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:02:05.5",
+    "end": "00:04:43.5",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSST": {
+    "title": "Strive",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:04:43.1",
+    "end": "00:06:29",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSL": {
+    "title": "Lace",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:19:16",
+    "end": "00:22:01.3",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSFF": {
+    "title": "Far Fields",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:22:01.5",
+    "end": "00:24:42",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSBE": {
+    "title": "Bellhart",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:31:42.5",
+    "end": "00:34:17",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSBI": {
+    "title": "Bilewater",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:45:09",
+    "end": "00:47:26.9",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSM": {
+    "title": "The Mist",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:47:26.7",
+    "end": "00:49:01",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSP": {
+    "title": "Phantom",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "00:49:01",
+    "end": "00:50:36",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSCCH": {
+    "title": "Choral Chambers",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "01:04:08",
+    "end": "01:06:51",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSHH": {
+    "title": "High Halls",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "01:17:16.5",
+    "end": "01:19:08",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSCCO": {
+    "title": "Cogwork Core",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "01:10:54",
+    "end": "01:12:24.5",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSLD": {
+    "title": "Last Dive",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "01:47:49.9",
+    "end": "01:50:11.5",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
+  "CLHKSS": {
+    "title": "Silksong",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "01:55:11",
+    "duration": "01:56:41",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
   "ACP": {
     "title": "The City of Progress",
     "artists": "Arcane Sound Team",
