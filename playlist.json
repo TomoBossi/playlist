@@ -6614,6 +6614,42 @@
     "volume_multiplier": 0.75,
     "art": "4AZJlKigzkjJw4vp5ONVRo_Illuminations.jpg"
   },
+  "FMSIF": {
+    "title": "Fresnel",
+    "artists": "FM Skyline",
+    "album": "Images",
+    "src": "https://www.dropbox.com/scl/fi/l16h8u1uu8m74pv6qwg08/FMSIF.mp3?rlkey=yvk1xx9028cic3e62kiz8pf0j&dl=0&raw=1",
+    "duration": "00:03:03",
+    "volume_multiplier": 0.75,
+    "art": "images.jpg"
+  },
+  "FMSIM": {
+    "title": "Museum",
+    "artists": "FM Skyline",
+    "album": "Images",
+    "src": "https://www.dropbox.com/scl/fi/x41e0jm5yvpct50ifsd6f/FMSIM.mp3?rlkey=yys9w7342nf1rruzwunicvrpt&dl=0&raw=1",
+    "duration": "00:04:02",
+    "volume_multiplier": 0.75,
+    "art": "images.jpg"
+  },
+  "FMSIIH": {
+    "title": "In the Hills",
+    "artists": "FM Skyline",
+    "album": "Images",
+    "src": "https://www.dropbox.com/scl/fi/msc6ht0v7ctymp5gkrwyw/FMSIIH.mp3?rlkey=l60u3dwkuwwksywdrhvbd6uby&dl=0&raw=1",
+    "duration": "00:03:45",
+    "volume_multiplier": 0.75,
+    "art": "images.jpg"
+  },
+  "FMSISH": {
+    "title": "Silence",
+    "artists": "FM Skyline",
+    "album": "Images",
+    "src": "https://www.dropbox.com/scl/fi/7aooqf2a5v4nyjx4jxua9/FMSISH.mp3?rlkey=xhfv68gw4fp1lxakk5cw4nq6q&dl=0&raw=1",
+    "duration": "00:04:22",
+    "volume_multiplier": 0.75,
+    "art": "images.jpg"
+  },
   "SDDIS": {
     "title": "Island Sunrise",
     "artists": "Software",
