@@ -3066,6 +3066,15 @@
     "volume_multiplier": 0.75,
     "art": "3ShtO5VCYa3ctlR5uzLWBa_Promises.jpg"
   },
+  "MDCRG": {
+    "title": "Guinnevere",
+    "artists": "Miles Davis",
+    "album": "Circle In The Round",
+    "src": "https://www.dropbox.com/scl/fi/izylqydks337x8fl6ppdy/MDCRG.mp3?rlkey=ppx82wal6k8dydpqaihf207gg&dl=0&raw=1",
+    "duration": "00:18:05",
+    "volume_multiplier": 0.75,
+    "art": "circle_round.jpg"
+  },
   "MDKBAB": {
     "title": "All Blues",
     "artists": "Miles Davis, John Coltrane, Cannonball Adderley, Bill Evans",
