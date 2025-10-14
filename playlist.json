@@ -10613,6 +10613,16 @@
     "volume_multiplier": 0.75,
     "art": "silksong.jpg"
   },
+  "CLHKSLL": {
+    "title": "Lost Lace",
+    "artists": "Christopher Larkin",
+    "album": "Hollow Knight: Silksong OST",
+    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
+    "start": "01:50:12",
+    "end": "01:53:04",
+    "volume_multiplier": 0.75,
+    "art": "silksong.jpg"
+  },
   "CLHKSS": {
     "title": "Silksong",
     "artists": "Christopher Larkin",
