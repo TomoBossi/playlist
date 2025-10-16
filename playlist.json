@@ -10804,6 +10804,15 @@
     "volume_multiplier": 0.75,
     "art": "hut_hens_legs.jpg"
   },
+  "JHRCGCMRN3": {
+    "title": "Niwa - Tori Otoko To Akai Kubi III",
+    "artists": "Joe Hisaishi",
+    "album": "Robot Carnival OST",
+    "src": "https://www.dropbox.com/scl/fi/61elsskxvkzfedo62l5pk/JHRCGCMRN3.mp3?rlkey=wh08mkmgqd35u8et1yhyuijj0&dl=0&raw=1",
+    "duration": "00:03:15",
+    "volume_multiplier": 0.75,
+    "art": "robot_carnival.jpg"
+  },
   "KOSCP": {
     "title": "Prologue",
     "artists": "Kow Otani",
