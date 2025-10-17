@@ -6771,7 +6771,7 @@
     "title": "Nubby's Number Factory",
     "artists": "Vinegart",
     "album": "Nubby's Number Factory OST",
-    "src": "https://www.dropbox.com/scl/fi/u05b1frrn1x7ogdqa20hz/NUBBY.mp3?rlkey=c3rghrw9tb49h628ls3hzwm2z&st=wm61sx0f&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/u05b1frrn1x7ogdqa20hz/NUBBY.mp3?rlkey=c3rghrw9tb49h628ls3hzwm2z&dl=0&raw=1",
     "duration": "00:02:51",
     "volume_multiplier": 0.75,
     "art": "nubby.jpg"
@@ -7146,9 +7146,9 @@
     "art": "4cXAcWU9jjDPTAAM8JyDmK_Iteration.jpg"
   },
   "FMSMGW96R": {
-    "title": "mirror gallery (Windows 96 Remix)",
-    "artists": "FM Skyline, Windows 96",
-    "album": "mirror gallery (Windows 96 Remix)",
+    "title": "mirror gallery (Windows96 Remix)",
+    "artists": "FM Skyline, Windows96",
+    "album": "mirror gallery (Windows96 Remix)",
     "src": "https://www.dropbox.com/scl/fi/9de5ra5ofehmcysf75k02/FMSMGW96R.mp3?rlkey=gbdn9bsuedbvp583zmmioc57c&dl=0&raw=1",
     "duration": "00:02:44",
     "volume_multiplier": 0.75,
@@ -7264,7 +7264,7 @@
   },
   "GIWD": {
     "title": "Devushka",
-    "artists": "Gavriel, Windows 96",
+    "artists": "Gavriel, Windows96",
     "album": "In The Worlde",
     "src": "https://www.dropbox.com/scl/fi/scsv495o6z61093d5vsvl/GIWD.mp3?rlkey=0rmdxf8vqt6h0spa9ikcxi350&dl=0&raw=1",
     "duration": "00:02:59",
@@ -7327,7 +7327,7 @@
   },
   "W96MPLF": {
     "title": "Looking Forward",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/gf4l8dsfntxhwnksukqou/W96MPLF.mp3?rlkey=p2g12sye0h7ji7syet26q8kj8&dl=0&raw=1",
     "duration": "00:02:55",
@@ -7336,7 +7336,7 @@
   },
   "W96MPD": {
     "title": "Discovery",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/5met3hdq69781ew56ya51/W96MPD.mp3?rlkey=rlchkcssksgo8wyfknsge24mb&dl=0&raw=1",
     "duration": "00:02:55",
@@ -7345,7 +7345,7 @@
   },
   "W96MPO": {
     "title": "Orpheus",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/po1gbhgzzug20ayh717ig/W96MPO.mp3?rlkey=pib36x7gc4lttdjpwgqg2e97p&dl=0&raw=1",
     "duration": "00:02:53",
@@ -7354,7 +7354,7 @@
   },
   "W96MPE": {
     "title": "Expect",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/al0zvij2fwafinpce6zqf/W96MPE.mp3?rlkey=tezivetzq30xkd3izud9fkby7&dl=0&raw=1",
     "duration": "00:02:51",
@@ -7363,7 +7363,7 @@
   },
   "W96MPNA": {
     "title": "Not Anymore",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/k89ziekc9o4zf90mumteo/W96MPNA.mp3?rlkey=8xtu5ri5qqurdgk8ugbg8kds3&dl=0&raw=1",
     "duration": "00:03:04",
@@ -7372,7 +7372,7 @@
   },
   "W96MPS": {
     "title": "Skysail",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/5rvfmglc0a8atdtrtfux7/W96MPS.mp3?rlkey=wg5scyk6oq754zdsgpcq50rmv&dl=0&raw=1",
     "duration": "00:03:15",
@@ -7381,7 +7381,7 @@
   },
   "W96MPN": {
     "title": "Neblina",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Magic Peaks",
     "src": "https://www.dropbox.com/scl/fi/po6s8s1ck494vkb6ph9od/W96MPN.mp3?rlkey=eba7skadgczk44iwkqqw2cn4x&dl=0&raw=1",
     "duration": "00:03:04",
@@ -7390,7 +7390,7 @@
   },
   "W96EHWEGP": {
     "title": "Edenic Green Plus",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/4o679kafpsj6w2yfls66k/W96EHWEGP.mp3?rlkey=9pcxl16mka7yt8d8ckkunikbw&dl=0&raw=1",
     "duration": "00:04:02",
@@ -7399,7 +7399,7 @@
   },
   "W96EHWEV": {
     "title": "Extreme Violet",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/ifgk676cic8vmxripz88j/W96EHWEV.mp3?rlkey=t9ekg8dl9thi6euwflrp3pqit&dl=0&raw=1",
     "duration": "00:02:54",
@@ -7408,7 +7408,7 @@
   },
   "W96EHWAR": {
     "title": "Ascending Red",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/ypjwpjk705wl8y59yevyq/W96EHWAR.mp3?rlkey=se4gh819iirklyq1ak5g5jeeo&dl=0&raw=1",
     "duration": "00:03:06",
@@ -7417,7 +7417,7 @@
   },
   "W96EHWMY": {
     "title": "Many Years",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/i8emkyhw0rr12ydgob2d6/W96EHWMY.mp3?rlkey=0npohny1cklwzwkgqeatfgq17&dl=0&raw=1",
     "duration": "00:03:26",
@@ -7426,7 +7426,7 @@
   },
   "W96EHWF": {
     "title": "Fase",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/s5epzi73kgr9dv1o9pfdy/W96EHWF.mp3?rlkey=45iethuwovbh1ghimjvrpslf4&dl=0&raw=1",
     "duration": "00:02:28",
@@ -7435,7 +7435,7 @@
   },
   "W9EHWCont": {
     "title": "Continuing",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/jon5k2m6ng9jo1twl4300/W9EHWCont_W96EHWC.mp3?rlkey=u9w01sktb915ura7z14e2am20&dl=0&raw=1",
     "end": "00:02:35.7",
@@ -7444,7 +7444,7 @@
   },
   "W96EHWC": {
     "title": "Crystalline",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Empty Hiding World",
     "src": "https://www.dropbox.com/scl/fi/jon5k2m6ng9jo1twl4300/W9EHWCont_W96EHWC.mp3?rlkey=u9w01sktb915ura7z14e2am20&dl=0&raw=1",
     "duration": "00:04:40",
@@ -7463,7 +7463,7 @@
   },
   "W9STWNDE": {
     "title": "Near Death Experience",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/u89n3b9jbk76lr003feln/W9STWNDE.mp3?rlkey=tuqrgwbjlqtxoho4jm9bhba13&dl=0&raw=1",
     "duration": "00:02:31",
@@ -7472,7 +7472,7 @@
   },
   "W9STWWCD": {
     "title": "Who's counting the days",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/03gyn7jj9wahnohwgkwg1/W9STWWCD.mp3?rlkey=vqbdeoyrzqrlbzipa89bjdail&dl=0&raw=1",
     "duration": "00:03:01",
@@ -7481,7 +7481,7 @@
   },
   "W96STWIO": {
     "title": "I think it's over",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/j36l6zj1ayikuqi7w0u2v/W96STWIO.mp3?rlkey=binoc2yaa39e1iuaaq6s6pty9&dl=0&raw=1",
     "duration": "00:02:46",
@@ -7490,7 +7490,7 @@
   },
   "W96STWB": {
     "title": "BM1999",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/6dczu28bgdkqm9x2ouxqa/W96STWB.mp3?rlkey=7czqoov2aez1f79bcrt9so6u6&dl=0&raw=1",
     "duration": "00:02:40",
@@ -7499,7 +7499,7 @@
   },
   "W96STWS": {
     "title": "Spirals",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/g03xbdxvufn5t698pci80/W96STWS.mp3?rlkey=b4760vqf5kxge8fcdbm5fqxpc&dl=0&raw=1",
     "duration": "00:03:36",
@@ -7508,7 +7508,7 @@
   },
   "W96STWNMA": {
     "title": "New Midsts Acid",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/gjvietcf04l48z1wcu9qo/W96STWNMA.mp3?rlkey=6vtynqpkg5gexlf77dqxki75n&dl=0&raw=1",
     "duration": "00:03:37",
@@ -7517,7 +7517,7 @@
   },
   "W96STW240": {
     "title": "240p",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/f2xvt0cibjv7j9ngkzqki/W96STW240.mp3?rlkey=axa4skrxxdcn9dmjv45tioesd&dl=0&raw=1",
     "duration": "00:03:48",
@@ -7526,7 +7526,7 @@
   },
   "W96STWA": {
     "title": "asdf",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/w2ipmzbgg3jur6k0hg35s/W96STWA.mp3?rlkey=xq8o8u5s4l52ibdh3nuyeaubb&dl=0&raw=1",
     "duration": "00:02:23",
@@ -7535,7 +7535,7 @@
   },
   "W96STWW": {
     "title": "Wayway",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/v31rqh5kgczoecrwjv9yz/W96STWW.mp3?rlkey=7p7bvkpclxvegsn2ksfc2jfnx&dl=0&raw=1",
     "duration": "00:03:13",
@@ -7544,7 +7544,7 @@
   },
   "W96STWNDER": {
     "title": "NDE - Reprise Version",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "How To See Through Walls",
     "src": "https://www.dropbox.com/scl/fi/kub4dpr2tev62vohl23px/W96STWNDER.mp3?rlkey=4jux9x39nt3y0194fjca5lu9n&dl=0&raw=1",
     "duration": "00:01:52",
@@ -7553,7 +7553,7 @@
   },
   "W96DNANM": {
     "title": "Nome da Musica",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/vqvon8yavpaq552p321tr/W96DNANM.mp3?rlkey=mrzn3m0zddip7if6et1eja7vm&dl=0&raw=1",
     "end": "00:03:41.4",
@@ -7562,7 +7562,7 @@
   },
   "W96DNANBP": {
     "title": "Nocturne Button Presses",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/52zw7ayegadhwz93vd1ep/W96DNANBP.mp3?rlkey=311edym86otbm63ia7xdfubjq&dl=0&raw=1",
     "duration": "00:03:08",
@@ -7571,7 +7571,7 @@
   },
   "W96DNAT": {
     "title": "Takeaguess",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/h82c8wp3l90xkwk7yiazw/W96DNAT.mp3?rlkey=3a9getdcp7i7j3v2npjz6a4e5&dl=0&raw=1",
     "duration": "00:03:12",
@@ -7580,7 +7580,7 @@
   },
   "W96DNAUCS": {
     "title": "Unknow Creature Sighting",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/fyiznos847kwwsz6pq381/W96DNAUCS.mp3?rlkey=lcc3btwjn9aq0u98nwt8beyze&dl=0&raw=1",
     "duration": "00:03:19",
@@ -7589,7 +7589,7 @@
   },
   "W96DNAL": {
     "title": "Lightsleeper",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/gkdttd1mpntjq7iy8swxf/W96DNAL.mp3?rlkey=7t4qu0sfojj9lsux0rxy64agx&dl=0&raw=1",
     "duration": "00:03:37",
@@ -7598,7 +7598,7 @@
   },
   "W96DNANPR": {
     "title": "Not a Puzzle or a Riddle",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/xoa25k1g06kl3vt4ig1gd/W96DNANPR.mp3?rlkey=8596k2klw4up313y928dl43dd&dl=0&raw=1",
     "duration": "00:03:16",
@@ -7607,7 +7607,7 @@
   },
   "W96DNAWSSL": {
     "title": "How he found the world all strange and the world found him strange likewise",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/10ckiyhstk3rhfbfhju7s/W96DNAWSSL.mp3?rlkey=2wsv3zilmxv71fwe53ihvzqdk&dl=0&raw=1",
     "duration": "00:03:53",
@@ -7616,7 +7616,7 @@
   },
   "W96DNAFB": {
     "title": "Feal Brids",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/d0og022ej8vm9a5wxhszl/W96DNAFB.mp3?rlkey=dzzjrjj3g8gkwf62rsky2ycko&dl=0&raw=1",
     "duration": "00:01:59",
@@ -7625,7 +7625,7 @@
   },
   "W96DNAKBF": {
     "title": "Konami Beta Female",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/qxzzr2zdnw0gqbk5p3h8z/W96DNAKBF.mp3?rlkey=1mxllqmyngm6nqzbrwbsw9noz&dl=0&raw=1",
     "duration": "00:02:01",
@@ -7634,7 +7634,7 @@
   },
   "W96DNASL": {
     "title": "I should probably start looking",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/krbkilb14c543wtvtwo02/W96DNASL.mp3?rlkey=906yn5oacu9cv380ecdh4e8vh&dl=0&raw=1",
     "duration": "00:03:18",
@@ -7643,7 +7643,7 @@
   },
   "W96DNAMR": {
     "title": "Moment of Refelction",
-    "artists": "Windows 96, Gavriel",
+    "artists": "Windows96, Gavriel",
     "album": "Dated New Aesthetic",
     "src": "https://www.dropbox.com/scl/fi/941jw8hpdzq0y9xl1211p/W96DNAMR.mp3?rlkey=hxhg7cc21w2fgqhli0jk6pnap&dl=0&raw=1",
     "duration": "00:02:13",
@@ -8574,6 +8574,15 @@
     "duration": "00:04:59",
     "volume_multiplier": 0.75,
     "art": "43RLrtIKjwT1GRl400r5Us_Usual_Unusual.jpg"
+  },
+  "LIGT7BJ": {
+    "title": "Balearic Journey",
+    "artists": "Lenny Ibizarre",
+    "album": "Gran Turismo 7 OST",
+    "src": "https://www.dropbox.com/scl/fi/vfkc3t612l8klh9aeoyyl/LIGT7BJ.mp3?rlkey=nvscafqr4hhdf52slxrzz8ad6&dl=0&raw=1",
+    "duration": "00:07:58",
+    "volume_multiplier": 0.75,
+    "art": "gt7.jpg"
   },
   "CGG": {
     "title": "Gava",
@@ -9722,7 +9731,7 @@
     "title": "Toothpaste",
     "artists": "Igorrr",
     "album": "Hallelujah",
-    "src": "https://www.dropbox.com/scl/fi/90et0vbudtsrf80q694bj/IHT.flac?rlkey=nwzvj1vooijrqrzywjmrdgj0v&st=5jwad998&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/90et0vbudtsrf80q694bj/IHT.flac?rlkey=nwzvj1vooijrqrzywjmrdgj0v&dl=0&raw=1",
     "duration": "00:01:47",
     "volume_multiplier": 0.75,
     "art": "3eLvDNfWAMpytqIp073FEc_Hallelujah.jpg"
@@ -10805,7 +10814,7 @@
     "art": "hut_hens_legs.jpg"
   },
   "JHRCGCMRN3": {
-    "title": "Niwa - Tori Otoko To Akai Kubi III",
+    "title": "Chicken-man and Red-neck III",
     "artists": "Joe Hisaishi",
     "album": "Robot Carnival OST",
     "src": "https://www.dropbox.com/scl/fi/61elsskxvkzfedo62l5pk/JHRCGCMRN3.mp3?rlkey=wh08mkmgqd35u8et1yhyuijj0&dl=0&raw=1",
@@ -14818,6 +14827,15 @@
     "duration": "00:01:12",
     "volume_multiplier": 0.75,
     "art": "2p2dzaB6jqlKi4Oj2WlFoN_Harbor.jpg"
+  },
+  "MDSDCR": {
+    "title": "Chamber Of Reflection",
+    "artists": "Mac DeMarco",
+    "album": "Salad Days",
+    "src": "https://www.dropbox.com/scl/fi/0ek66wz4p1fienex0drpx/MDSDCR.mp3?rlkey=4wi7mwoq2cb7glbplzzavbbj6&dl=0&dl=0&raw=1",
+    "duration": "00:03:51",
+    "volume_multiplier": 0.75,
+    "art": "salad_days.jpg"
   },
   "SSSSXEIL": {
     "title": "Everything I Lost (Shinji's theme)",
