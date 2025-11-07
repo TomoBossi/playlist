@@ -6731,15 +6731,6 @@
     "volume_multiplier": 0.75,
     "art": "missing.jpg"
   },
-  "MDWKCOD": {
-    "title": "call of duty (Gabor Deutsch – Endlessly)",
-    "artists": "Macroblank",
-    "album": "ダウンウィズザキング",
-    "src": "https://www.dropbox.com/scl/fi/tqfudsq7c4ilsc5c54j19/MDWKCOD.mp3?rlkey=6gep01dsggnesbcib5ognrn78&dl=0&raw=1",
-    "duration": "00:04:27",
-    "volume_multiplier": 0.75,
-    "art": "down_with_the_king.jpg"
-  },
   "MATOL": {
     "title": "声に出して考える (Peter Pearson – I Need to Chill)",
     "artists": "Macroblank",
@@ -6757,6 +6748,15 @@
     "duration": "00:07:15",
     "volume_multiplier": 0.75,
     "art": "x1999.jpg"
+  },
+  "MDWKCOD": {
+    "title": "call of duty (Gabor Deutsch – Endlessly)",
+    "artists": "Macroblank",
+    "album": "ダウンウィズザキング",
+    "src": "https://www.dropbox.com/scl/fi/tqfudsq7c4ilsc5c54j19/MDWKCOD.mp3?rlkey=6gep01dsggnesbcib5ognrn78&dl=0&raw=1",
+    "duration": "00:04:27",
+    "volume_multiplier": 0.75,
+    "art": "down_with_the_king.jpg"
   },
   "BALA": {
     "title": "Balatro",
