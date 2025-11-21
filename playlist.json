@@ -3606,6 +3606,15 @@
     "volume_multiplier": 0.75,
     "art": "6t4BECovfkgGTrtbqmTlZf_The_Silver_Collection.jpg"
   },
+  "MBCS": {
+    "title": "The Sea",
+    "artists": "Morcheeba",
+    "album": "Big Calm",
+    "src": "https://www.dropbox.com/scl/fi/834pohrvsbefoaudnnbn2/MBCS.mp3?rlkey=63hvs4wwvvbzgvdqktsv0vsti&dl=0&raw=1",
+    "duration": "00:05:47",
+    "volume_multiplier": 0.75,
+    "art": "big_calm.jpg"
+  },
   "LSRMSIGT": {
     "title": "I Got The...",
     "artists": "Labi Siffre",
@@ -3817,7 +3826,7 @@
     "title": "2",
     "artists": "Dean Blunt & Inga Copeland",
     "album": "Black is Beautiful",
-    "src": "https://www.dropbox.com/scl/fi/97fju3fi4tm2zrhc3zrrx/DBICBIB2.mp3?rlkey=w05ma2tio62zs86cr2ry5wdg0&dl=0&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/97fju3fi4tm2zrhc3zrrx/DBICBIB2.mp3?rlkey=w05ma2tio62zs86cr2ry5wdg0&dl=0&raw=1",
     "duration": "00:02:13",
     "volume_multiplier": 0.75,
     "art": "ebony.jpg"
@@ -6654,7 +6663,7 @@
     "title": "Silence",
     "artists": "FM Skyline",
     "album": "Images",
-    "src": "https://www.dropbox.com/scl/fi/7aooqf2a5v4nyjx4jxua9/FMSISH.mp3?rlkey=xhfv68gw4fp1lxakk5cw4nq6q&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/81vfpzdmd7ztyb13hxauk/FMSISH.flac?rlkey=63764w1lgxzxfm94j8y7faq7c&dl=0&raw=1",
     "duration": "00:04:22",
     "volume_multiplier": 0.75,
     "art": "images.jpg"
@@ -6663,7 +6672,7 @@
     "title": "Island Sunrise",
     "artists": "Software",
     "album": "Digital-Dance",
-    "src": "https://www.dropbox.com/scl/fi/s9ptj4towisx4yml6omi2/SDDIS.mp3?rlkey=xg118mh54kp82fliww7tgzga5&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/7wddb38ju700j4htvz20r/SDDIS.flac?rlkey=m3uwjbm3emkatcrdpxudhdzvh&dl=0&raw=1",
     "duration": "00:06:32",
     "volume_multiplier": 0.75,
     "art": "4Q0yKbw6Pnh9moib2vndGb_Digital-Dance.jpg"
@@ -8156,7 +8165,7 @@
     "title": "Bonita Camisa",
     "artists": "Windows96",
     "album": "Enchanted Instrumentals and Whispers",
-    "src": "https://www.dropbox.com/scl/fi/fxfttdfhf8x71pyc36572/W96EIWBC.mp3?rlkey=3aeaebekpky85g20uc1m03tkz&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/h2mu67z7kuneoo0w5lcbu/W96EIWBC.flac?rlkey=umw7v177zk9cdh68qbk8vzb8z&dl=0&raw=1",
     "duration": "00:03:19",
     "volume_multiplier": 0.75,
     "art": "4JLZmlctwzJ6wnrkc3pu7N_Enchanted_Instrumentals_and_Whispers.jpg"
@@ -10506,7 +10515,7 @@
     "title": "Sealed Vessel",
     "artists": "Christopher Larkin",
     "album": "Hollow Knight OST",
-    "src": "https://www.dropbox.com/scl/fi/plfhl2f59g3i6476bo77q/CLHKSV.mp3?rlkey=3a1lme7js2epsznnx00ajnvz2&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/99hjy6ab370casvkozyuu/CLHKSV.flac?rlkey=v3psp3ik3o8652t56b4xe59tk&dl=0&raw=1",
     "duration": "00:05:46",
     "volume_multiplier": 0.75,
     "art": "4XgGOMRY7H4hl6OQi5wb2Z_Hollow_Knight_(Original_Soundtrack).jpg"
@@ -10653,9 +10662,8 @@
     "title": "Lost Lace",
     "artists": "Christopher Larkin",
     "album": "Hollow Knight: Silksong OST",
-    "src": "https://www.dropbox.com/scl/fi/yskpch7pa6pft4fb7rqlt/CLHKS.mp3?rlkey=33op3hju9b6mhqrl54i1hg25j&dl=0&raw=1",
-    "start": "01:50:12",
-    "end": "01:53:04",
+    "src": "https://www.dropbox.com/scl/fi/q32z09golrxzdj9zojyka/CLHKSLL.flac?rlkey=6e6j4dejjoajasdnmwiu9x0dp&dl=0&raw=1",
+    "duration": "00:02:52",
     "volume_multiplier": 0.75,
     "art": "silksong.jpg"
   },
@@ -11421,8 +11429,8 @@
     "title": "THANATOS",
     "artists": "Shiro Sagisu",
     "album": "Neon Genesis Evangelion OST",
-    "src": "https://www.dropbox.com/scl/fi/hkkbw4a12jbilzup38fyr/SSNGET.mp3?rlkey=bgsjgn3mw58ck6zj0x6sx223y&dl=0&raw=1",
-    "duration": "00:03:27",
+    "src": "https://www.dropbox.com/scl/fi/lmqbfvac53sbt47cfqzsp/SSNGET.flac?rlkey=moiklws4k1jtqtmyzjx2ysmww&dl=0&raw=1",
+    "end": "00:03:28.0",
     "volume_multiplier": 0.75,
     "art": "4vwgTxjKwiSWfEoGOqhiWa_Neon_Genesis_Evangelion_(Original_Series_Soundtrack).jpg"
   },
@@ -11917,7 +11925,7 @@
     "title": "Space Lion",
     "artists": "SEATBELTS",
     "album": "COWBOY BEBOP OST",
-    "src": "https://www.dropbox.com/scl/fi/2k0zknc40d6pd9hgtmkqt/SCBSL.mp3?rlkey=k2topr04bbb9fih31sqq6qwvy&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/bv434itdcv2aphup9ldzy/SCBSL.flac?rlkey=cjdhnv9cki0367p7jma9jyu96&dl=0&raw=1",
     "duration": "00:07:12",
     "volume_multiplier": 0.75,
     "art": "1XoE7ZirQ3gjxq8HIzTJU9_COWBOY_BEBOP_(Original_Motion_Picture_Soundtrack).jpg"
@@ -12079,7 +12087,7 @@
     "title": "Nube Negra",
     "artists": "Shiro Sagisu",
     "album": "Bleach OST: Vol. 3",
-    "src": "https://www.dropbox.com/scl/fi/5diaft549rnextbo67yrf/SSB3NN.mp3?rlkey=0hlga0zy9ldqwno56k1rcp8em&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/lytxgn6yuzyy1srrgnva2/SSB3NN.flac?rlkey=johmts84vmmo1ifjrqzknnxgs&dl=0&raw=1",
     "duration": "00:01:56",
     "volume_multiplier": 0.75,
     "art": "7m0ZA9T4Uk5y6FOdLvj5sL_TV_Animation_BLEACH_Original_Soundtrack_3.jpg"
@@ -12124,8 +12132,8 @@
     "title": "Escalon",
     "artists": "Shiro Sagisu",
     "album": "Bleach OST: Vol. 3",
-    "src": "https://www.dropbox.com/scl/fi/m88thlmiw3jzqtmpuuql2/SSB3E.mp3?rlkey=d0bb0ugvb4y8o06p1pj0kfo4z&dl=0&raw=1",
-    "duration": "00:03:45",
+    "src": "https://www.dropbox.com/scl/fi/euli691ceka3ed14dnp35/SSB3E.flac?rlkey=h5ga9t5ddteg9glk3tt9s7xwk&dl=0&raw=1",
+    "duration": "00:03:44",
     "volume_multiplier": 0.75,
     "art": "7m0ZA9T4Uk5y6FOdLvj5sL_TV_Animation_BLEACH_Original_Soundtrack_3.jpg"
   },
@@ -12295,7 +12303,7 @@
     "title": "PSYCHO-PASS",
     "artists": "Yugo Kanno",
     "album": "Pyscho-Pass OST",
-    "src": "https://www.dropbox.com/scl/fi/9yx1x4jhspjurtll0joc7/YKPPPP.mp3?rlkey=9v95s9u9gi2esrc80sji8u5r3&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/llfnxq9saykyemeb1q8bu/YKPPPP.flac?rlkey=ky5yibnz113coxcs6gxgau8kz&dl=0&raw=1",
     "duration": "00:06:42",
     "volume_multiplier": 0.75,
     "art": "5JIE5QfC6N5SrUhQJAklLc_「PSYCHO-PASS_サイコパス」Complete_Original_Soundtrack(配信バージョン).jpg"
@@ -12306,15 +12314,15 @@
     "album": "Psycho-Pass OST",
     "src": "https://www.dropbox.com/scl/fi/6a14sjibvkamyfkzixork/EPPED.mp3?rlkey=uahuzyygpomw5gxiq4uhoksgn&dl=0&raw=1",
     "end": "00:05:50.0",
-    "volume_multiplier": 0.75,
+    "volume_multiplier": 1.00,
     "art": "5JIE5QfC6N5SrUhQJAklLc_「PSYCHO-PASS_サイコパス」Complete_Original_Soundtrack(配信バージョン).jpg"
   },
   "SGCMD": {
     "title": "My Dearest",
     "artists": "supercell",
     "album": "Guilty Crown OST",
-    "src": "https://www.dropbox.com/scl/fi/68yq5sqs4bo2va7yqdwbc/SGCMD.mp3?rlkey=1yhaj7vsvo7wm5b6uz226nhhl&dl=0&raw=1",
-    "duration": "00:05:38",
+    "src": "https://www.dropbox.com/scl/fi/zbxpdt93r20mue0s87x02/SGCMD.flac?rlkey=jcs0rqiq92p7etxh3e0boa3pp&dl=0&raw=1",
+    "end": "00:05:38.0",
     "volume_multiplier": 0.75,
     "art": "3br2XeEnU6AIxzVr4vDqDt_My_Dearest.jpg"
   },
@@ -12385,7 +12393,7 @@
     "title": "怪物",
     "artists": "YOASOBI",
     "album": "怪物",
-    "src": "https://www.dropbox.com/scl/fi/wmncmbch26saio2ftkmqy/YMM.mp3?rlkey=ihgya8pizxz3j143m6kh38xoy&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/o6ojun422yxr94g52kztf/YMM.flac?rlkey=8nwigvi33ogdwjqutz42op3pg&dl=0&raw=1",
     "duration": "00:03:29",
     "volume_multiplier": 0.75,
     "art": "41HUxKwnbrg8IdelmMibj9_怪物.jpg"
@@ -12439,7 +12447,7 @@
     "title": "It's Going Down Now",
     "artists": "アトラスサウンドチーム, Azumi Takahashi, Lotus Juice",
     "album": "PERSONA3 Reload OST",
-    "src": "https://www.dropbox.com/scl/fi/ovv2ufpnsf0q3tr2blvqp/P3RIGDN.mp3?rlkey=n0422ognkpobfc5f143huxadb&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/o532wk8xhuhkpfacdujjh/P3RIGDN.flac?rlkey=eu9w0u6rixsozcj2qa4khithh&dl=0&raw=1",
     "duration": "00:03:06",
     "volume_multiplier": 0.75,
     "art": "p3reload.jpg"
@@ -12448,7 +12456,7 @@
     "title": "Color Your Night",
     "artists": "アトラスサウンドチーム, Azumi Takahashi, Lotus Juice",
     "album": "PERSONA3 Reload OST",
-    "src": "https://www.dropbox.com/scl/fi/dv4jvwr5jgi7n8dhlxg9j/P3RCYN.mp3?rlkey=gh7zitio9606pufjovbwg70mb&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/liyyycclmtt4zzehez7in/P3RCYN.flac?rlkey=xcjkxkf4bbhvapnmzo8ub63u7&dl=0&raw=1",
     "duration": "00:03:47",
     "volume_multiplier": 0.75,
     "art": "p3reload.jpg"
@@ -12475,8 +12483,8 @@
     "title": "specialist",
     "artists": "アトラスサウンドチーム",
     "album": "PERSONA4 OST",
-    "src": "https://www.dropbox.com/scl/fi/k0yokrbhp7embsswt2wow/P4S.mp3?rlkey=i3kk7rnfov5r879c11f9z2vfm&dl=0&raw=1",
-    "duration": "00:04:03",
+    "src": "https://www.dropbox.com/scl/fi/fyanodakvl04kutlbe3uo/P4S.flac?rlkey=ccwe0rrv2ptdu1osc85s6dtly&dl=0&raw=1",
+    "duration": "00:04:04",
     "volume_multiplier": 0.75,
     "art": "0bMzZ3T2Y28E658ExKIuP5_ネバー・モア-『ペルソナ4』輪廻転生-.jpg"
   },
@@ -12565,7 +12573,7 @@
     "title": "Alleycat",
     "artists": "アトラスサウンドチーム",
     "album": "PERSONA5 OST",
-    "src": "https://www.dropbox.com/scl/fi/qeinzuzo3xdaovwrw4ozf/P5A.mp3?rlkey=vupxlx9gnhubskmt9xqw7iju9&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/59h4qoga5qsoieiiadx8n/P5A.flac?rlkey=a6i65krfrdfhig4xlo7m40zto&dl=0&raw=1",
     "duration": "00:04:10",
     "volume_multiplier": 0.75,
     "art": "4pJT0WKggr4xk149X8A6KC_PERSONA5_ORIGINAL_SOUNDTRACK.jpg"
@@ -12574,7 +12582,7 @@
     "title": "Beneath the Mask",
     "artists": "Lyn",
     "album": "PERSONA5 OST",
-    "src": "https://www.dropbox.com/scl/fi/fnu53ob97hssba7u2y1sn/P5BM.mp3?rlkey=px9oj1u90185wc0ls4jylw519&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/mhv4qm3x02v7all64hxja/P5BM.flac?rlkey=bw781us7p5ept61fpu9hv8tur&dl=0&raw=1",
     "duration": "00:04:38",
     "volume_multiplier": 0.75,
     "art": "4pJT0WKggr4xk149X8A6KC_PERSONA5_ORIGINAL_SOUNDTRACK.jpg"
@@ -12610,7 +12618,7 @@
     "title": "恋愛サーキュレーション",
     "artists": "物語シリーズ",
     "album": "Utamonogatari OST",
-    "src": "https://www.dropbox.com/scl/fi/sabpzx3xhjz6p1r8qheeb/BMUMOP.mp3?rlkey=5u3saii6h1trmu5s9awjrjfuu&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/k68zb957rd0cnk2ud5nv6/BMUMOP.flac?rlkey=017okc0kl11i3qrdcw9peh82k&dl=0&raw=1",
     "duration": "00:04:15",
     "volume_multiplier": 0.75,
     "art": "0Wibr4Xn7la0V69fnnujJw_Utamonogatari_Special_Edition_(Original_Soundtrack).jpg"
@@ -12935,7 +12943,7 @@
     "title": "Fable",
     "artists": "Mili",
     "album": "Mag Mell",
-    "src": "https://www.dropbox.com/scl/fi/05631d366v8j809vyvjj3/MMMF.mp3?rlkey=rvev1cyrydgc5w5uykrzh3jo0&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/ggcjojmkbqgl2iwc89bvf/MMMF.flac?rlkey=p6tiidopfjs41nr2jics8n8vv&dl=0&raw=1",
     "duration": "00:03:22",
     "volume_multiplier": 0.75,
     "art": "mag_mell.jpg"
@@ -12953,7 +12961,7 @@
     "title": "黄昏逃避行",
     "artists": "凋叶棕, ZUN",
     "album": "誘",
-    "src": "https://www.dropbox.com/scl/fi/vrd5mihdcme08aubpaoz8/DYZIDF.mp3?rlkey=8mvrtkclw9slqo8iniil1skwl&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/d1quolmddayz0xqxgjapt/DYZIDF.flac?rlkey=ck5bj6da9e2mj28izw883w4mv&dl=0&raw=1",
     "duration": "00:03:24",
     "volume_multiplier": 0.75,
     "art": "izanais.jpg"
@@ -12962,8 +12970,8 @@
     "title": "今やファインダァは彼方から",
     "artists": "凋叶棕, ZUN",
     "album": "誘",
-    "src": "https://www.dropbox.com/scl/fi/4ulkbjt6bjr1dy11fxf8t/DYZIANFA.mp3?rlkey=hhdm1sohd4k78nm2w7p1sf5e3&dl=0&raw=1",
-    "duration": "00:04:52",
+    "src": "https://www.dropbox.com/scl/fi/kbehvl4hebvpfng4pcupw/DYZIANFA.flac?rlkey=2wz7ddp0rdaajh5t84sh6tm34&dl=0&raw=1",
+    "end": "00:04:52.0",
     "volume_multiplier": 0.75,
     "art": "izanais.jpg"
   },
@@ -12971,8 +12979,8 @@
     "title": "欲望之音色",
     "artists": "凋叶棕, ZUN",
     "album": "徒",
-    "src": "https://www.dropbox.com/scl/fi/ghvnljck0swrvr3wp6jba/DYZITD.mp3?rlkey=8cly5oczrj3r8inyu5lqi2jy9&dl=0&raw=1",
-    "duration": "00:03:48",
+    "src": "https://www.dropbox.com/scl/fi/heot58zpjp53vfjvwf0xe/DYZITD.flac?rlkey=apqq4cq16pp4tzr2l0dof7nxg&dl=0&raw=1",
+    "duration": "00:03:46",
     "volume_multiplier": 0.75,
     "art": "touhou_3.jpg"
   },
@@ -12980,8 +12988,8 @@
     "title": "五重変奏「永夜の報い」",
     "artists": "凋叶棕, ZUN",
     "album": "徒",
-    "src": "https://www.dropbox.com/scl/fi/uiwidjy4uqqyniyn80nra/DYZIREN.mp3?rlkey=3nhpkbftua6eey03uudg81omw&dl=0&raw=1",
-    "duration": "00:03:43",
+    "src": "https://www.dropbox.com/scl/fi/no9ybyytcd2l84kzwrp89/DYZIREN.flac?rlkey=wp9z35y6kgepnbz14xs1p6220&dl=0&raw=1",
+    "duration": "00:03:41",
     "volume_multiplier": 0.75,
     "art": "touhou_3.jpg"
   },
@@ -12989,8 +12997,8 @@
     "title": "ミノキチグリーフシンドローム",
     "artists": "凋叶棕, ZUN",
     "album": "娶",
-    "src": "https://www.dropbox.com/scl/fi/xapo605m65h4vd90k4ezc/DYZMMGS.mp3?rlkey=kabj082frv8xmym5bc07xjtkj&dl=0&raw=1",
-    "duration": "00:03:20",
+    "src": "https://www.dropbox.com/scl/fi/alqul4lef2b9v35gbz5lh/DYZMMGS.flac?rlkey=zxfwx1ymsqfd5lvdjnro87fxh&dl=0&raw=1",
+    "duration": "00:03:16",
     "volume_multiplier": 0.75,
     "art": "touhou_4.jpg"
   },
@@ -12998,8 +13006,8 @@
     "title": "Enslaved",
     "artists": "凋叶棕, ZUN",
     "album": "逆",
-    "src": "https://www.dropbox.com/scl/fi/vrhwynvkbfa59lp6i44ur/DYZAE.mp3?rlkey=c9rmvv8gw96wnzbp9zf9hg0ne&dl=0&raw=1",
-    "duration": "00:04:12",
+    "src": "https://www.dropbox.com/scl/fi/yzhbnkjggzef8v1ek26qx/DYZAE.flac?rlkey=e8391n9dtadb2324c8a6ekovz&dl=0&raw=1",
+    "duration": "00:04:09",
     "volume_multiplier": 0.75,
     "art": "touhou_5.jpg"
   },
@@ -13007,8 +13015,8 @@
     "title": "Revoke",
     "artists": "凋叶棕, ZUN",
     "album": "逆",
-    "src": "https://www.dropbox.com/scl/fi/l7pvxbu4w01l01z9a70tv/DYZAR.mp3?rlkey=clulu2zt46g4m1wlh6ed96uif&dl=0&raw=1",
-    "duration": "00:04:16",
+    "src": "https://www.dropbox.com/scl/fi/mkurksd04kfynul2imw7q/DYZAR.flac?rlkey=6try6jm5eeq8nqqezxauxrvot&dl=0&raw=1",
+    "duration": "00:04:14",
     "volume_multiplier": 0.75,
     "art": "touhou_5.jpg"
   },
@@ -13016,8 +13024,8 @@
     "title": "little_Metamorphoses",
     "artists": "凋叶棕, ZUN",
     "album": "彁",
-    "src": "https://www.dropbox.com/scl/fi/w7u209v197ox70giuht11/DYZSLM.mp3?rlkey=w5c5grleuwq396q80wsa935iu&dl=0&raw=1",
-    "duration": "00:04:45",
+    "src": "https://www.dropbox.com/scl/fi/oagsdj4lt8lbtjm66gx6z/DYZSLM.flac?rlkey=a4tet0vyl7xuxruqr8p65e0uh&dl=0&raw=1",
+    "duration": "00:04:38",
     "volume_multiplier": 0.75,
     "art": "touhou_6.jpg"
   },
@@ -13025,8 +13033,8 @@
     "title": "trill_Moonshine",
     "artists": "凋叶棕, ZUN",
     "album": "彁",
-    "src": "https://www.dropbox.com/scl/fi/8cz3d3ahrwkfwo1gbb71k/DYZSTM.mp3?rlkey=jchx22dsaa7vt5enyum83l6f6&dl=0&raw=1",
-    "duration": "00:03:39",
+    "src": "https://www.dropbox.com/scl/fi/796zmo4j6h2p3xs1nrnbq/DYZSTM.flac?rlkey=0z9q8zt9wtlc2o87o8jvtthnh&dl=0&raw=1",
+    "duration": "00:03:41",
     "volume_multiplier": 0.75,
     "art": "touhou_6.jpg"
   },
@@ -13034,8 +13042,8 @@
     "title": "ALL EVIL MISCHIEF",
     "artists": "凋叶棕, ZUN",
     "album": "彁",
-    "src": "https://www.dropbox.com/scl/fi/q9q29dv1l3vc4v7i3bpf1/DYZSAEM.mp3?rlkey=pv4eq93hhilklv2mxjrtxicou&dl=0&raw=1",
-    "duration": "00:04:29",
+    "src": "https://www.dropbox.com/scl/fi/l1t0vlw45fxsu21p9z103/DYZSAEM.flac?rlkey=eq74v8xc4x5zi9x0x0re69xdq&dl=0&raw=1",
+    "duration": "00:04:27",
     "volume_multiplier": 0.75,
     "art": "touhou_6.jpg"
   },
@@ -13043,8 +13051,8 @@
     "title": "too late for",
     "artists": "凋叶棕, ZUN",
     "album": "屠",
-    "src": "https://www.dropbox.com/scl/fi/wfqsqp9bw3nufowo3yloi/DYZHTLF.mp3?rlkey=w44tkd6xa6ggic6gaod0wbyag&dl=0&raw=1",
-    "end": "00:02:58.0",
+    "src": "https://www.dropbox.com/scl/fi/bt293m1q3qhic7ayueua8/DYZHTLF.flac?rlkey=nxi3seiduumgltpndwm2qqt18&dl=0&raw=1",
+    "duration": "00:03:00",
     "volume_multiplier": 0.75,
     "art": "touhou_7.jpg"
   },
@@ -13052,8 +13060,8 @@
     "title": "Supernatural Encounter",
     "artists": "凋叶棕, ZUN",
     "album": "屠",
-    "src": "https://www.dropbox.com/scl/fi/iq14n5kag5xva9q48to4d/DYZHSE.mp3?rlkey=t4xa08l02oovqkqcj7x5agcas&dl=0&raw=1",
-    "duration": "00:04:28",
+    "src": "https://www.dropbox.com/scl/fi/vsnu8e3tjvx7vw8i9paz5/DYZHSE.flac?rlkey=3ngaba72e8msd0pgvnpey0tmk&dl=0&raw=1",
+    "duration": "00:04:27",
     "volume_multiplier": 0.75,
     "art": "touhou_7.jpg"
   },
@@ -13061,8 +13069,8 @@
     "title": "Uncooperative Harmony",
     "artists": "凋叶棕, ZUN",
     "album": "奏",
-    "src": "https://www.dropbox.com/scl/fi/gs0j6ju20d1cpouy7m44m/DYZKUH.mp3?rlkey=31mzk07ai1k6wvwmnranpd8gn&dl=0&raw=1",
-    "end": "00:03:26.0",
+    "src": "https://www.dropbox.com/scl/fi/1uwud8vvzwsx838aszg0f/DYZKUH.flac?rlkey=6kd7460e53i9wm65hh1v2jg8r&dl=0&raw=1",
+    "duration": "00:03:30",
     "volume_multiplier": 0.75,
     "art": "kanade.jpg"
   },
@@ -13070,8 +13078,8 @@
     "title": "CHO-CHIN-HAN-CHIRO",
     "artists": "凋叶棕, ZUN",
     "album": "記",
-    "src": "https://www.dropbox.com/scl/fi/y01ofp3hwd3rh611r7fiy/DYZSCCHC.mp3?rlkey=3tcxajqwgwknk05dm148wi8l3&dl=0&raw=1",
-    "end": "00:03:16.0",
+    "src": "https://www.dropbox.com/scl/fi/2o7zsc5c3nmb3o92gopqv/DYZSCCHC.flac?rlkey=na6ligjcjm0ljfkrrmpuqm3bg&dl=0&raw=1",
+    "duration": "00:03:20",
     "volume_multiplier": 0.75,
     "art": "shirushi.jpg"
   },
@@ -13079,8 +13087,8 @@
     "title": "狂言「九十九星降」",
     "artists": "凋叶棕, ZUN",
     "album": "伝",
-    "src": "https://www.dropbox.com/scl/fi/ao3q0u29gyn1zx5s72hvh/DYZTKTFS.mp3?rlkey=cjitqvmd3itlsehad7q8qs1ey&dl=0&raw=1",
-    "duration": "00:03:46",
+    "src": "https://www.dropbox.com/scl/fi/j4qzh45uk3lvc2j0sofyb/DYZTKTFS.flac?rlkey=mvr7ven52jhf77f9acc46urcm&dl=0&raw=1",
+    "duration": "00:03:43",
     "volume_multiplier": 0.75,
     "art": "touhou_8.jpg"
   },
@@ -13088,8 +13096,8 @@
     "title": "風神時告げ喇叭",
     "artists": "凋叶棕, ZUN",
     "album": "随",
-    "src": "https://www.dropbox.com/scl/fi/56yn2kspvub65ibo4c6t8/DYZMTMWGT.mp3?rlkey=hhaivyn1he8ecy0dtavlx6vt2&dl=0&raw=1",
-    "end": "00:03:52.0",
+    "src": "https://www.dropbox.com/scl/fi/3gothoxvmuk47ervb0omr/DYZMTMWGT.flac?rlkey=aa2tbz9r2ib6gudolzjuz1sse&dl=0&raw=1",
+    "duration": "00:03:56",
     "volume_multiplier": 0.75,
     "art": "manima.jpg"
   },
@@ -13097,8 +13105,8 @@
     "title": "夜聞聞",
     "artists": "凋叶棕, ZUN",
     "album": "蒐",
-    "src": "https://www.dropbox.com/scl/fi/e9ju2f5b64mu1grf17pfn/DYZANLL.mp3?rlkey=fmpencw1hf2rhtpjngj87c3wo&dl=0&raw=1",
-    "end": "00:05:45.0",
+    "src": "https://www.dropbox.com/scl/fi/9l314qwi6vje1mhlas9x3/DYZANLL.flac?rlkey=dadxqelbfu7gbxpz1uhmig571&dl=0&raw=1",
+    "duration": "00:05:50",
     "volume_multiplier": 0.75,
     "art": "54quxncC0s2XlzQ9hzCUXS_蒐.jpg"
   },
@@ -13106,8 +13114,8 @@
     "title": "目覚めの花",
     "artists": "凋叶棕, ZUN",
     "album": "蒐",
-    "src": "https://www.dropbox.com/scl/fi/do8dp3f5ocuj096bt1kaq/DYZAAF.mp3?rlkey=xwbibx72zwun8foz5yzismn28&dl=0&raw=1",
-    "end": "00:03:52.0",
+    "src": "https://www.dropbox.com/scl/fi/c813mjqwlgkjzialsb2iv/DYZAAF.flac?rlkey=ftzbiv1nrhb608vuuxc4as308&dl=0&raw=1",
+    "duration": "00:03:54",
     "volume_multiplier": 0.75,
     "art": "54quxncC0s2XlzQ9hzCUXS_蒐.jpg"
   },
@@ -13133,7 +13141,7 @@
     "title": "輪廻交響楽　第1章　翠生",
     "artists": "Geinoh Yamashirogumi",
     "album": "Ecophony Rinne",
-    "src": "https://www.dropbox.com/scl/fi/4sbpigonipups2svhcp7o/GYERPG.mp3?rlkey=i7npkd8gak1g71sesvegyet7o&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/ckrznd2q07bevt0njdsri/GYERPG.flac?rlkey=889ggk3t02ezxwwo4bjtvkm1j&dl=0&raw=1",
     "duration": "00:11:49",
     "volume_multiplier": 0.75,
     "art": "ecophony_rinne.jpg"
@@ -13537,7 +13545,7 @@
     "title": "4x Atlantis Take 1 [London 14.09.2019]",
     "artists": "Aphex Twin",
     "album": "Orphans",
-    "src": "https://www.dropbox.com/scl/fi/gdorofb3nh4dx6j48oz8v/ATO4AT1.mp3?rlkey=zvr6ahz56oe277exrxd3c9gyh&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/lo4ygz0gy7gbixmsny8qb/ATO4AT1.flac?rlkey=su45xm33fw4an7ujr92tb3bur&dl=0&raw=1",
     "duration": "00:03:49",
     "volume_multiplier": 0.75,
     "art": "orphans.jpg"
@@ -13751,8 +13759,8 @@
     "title": "Gods Garden",
     "artists": "DUSQK",
     "album": "Heaven/EXE",
-    "src": "https://www.dropbox.com/scl/fi/kpugn8ynjs00vqzos1t4v/DHEXEGG.mp3?rlkey=vm6sg8kfbcphpystvhfiz9921&dl=0&raw=1",
-    "duration": "00:04:08",
+    "src": "https://www.dropbox.com/scl/fi/tov4tkul9i2i2rfyfzg1p/DHEXEGG.flac?rlkey=po2zlex89nwnnizu33zvk1kol&dl=0&raw=1",
+    "duration": "00:04:10",
     "volume_multiplier": 0.75,
     "art": "heaven.jpg"
   },
@@ -13760,7 +13768,7 @@
     "title": "Aquatic Heaven Simulator",
     "artists": "DUSQK",
     "album": "Heaven/EXE",
-    "src": "https://www.dropbox.com/scl/fi/usp2xe8mglgscfk5ovkec/DHEXEAHS.mp3?rlkey=5jfsgej1prwvu7hvqojs1t6y8&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/r5m4hw1yfdie0116bvdyg/DHEXEAHS.flac?rlkey=zn53mgu279iiuhf6i5q0neeco&dl=0&raw=1",
     "duration": "00:05:32",
     "volume_multiplier": 0.75,
     "art": "heaven.jpg"
@@ -14453,8 +14461,8 @@
     "title": "Roots",
     "artists": "Ian Carr, Nucleus",
     "album": "Roots",
-    "src": "https://www.dropbox.com/scl/fi/ucb71cqozbwr1im1ow38u/ICRR.mp3?rlkey=q7z0mmf7j2cdc8bu6m7uknku8&dl=0&raw=1",
-    "duration": "00:09:25",
+    "src": "https://www.dropbox.com/scl/fi/k4ubcuc5g02ar9olbq32w/ICRR.flac?rlkey=pe7389vczd9xn684qdiibva1k&dl=0&raw=1",
+    "duration": "00:09:24",
     "volume_multiplier": 0.75,
     "art": "1ce4RUilWOHJILiNXsPmZU_Roots.jpg"
   },
@@ -14489,7 +14497,7 @@
     "title": "Weird Fishes/ Arpeggi",
     "artists": "Radiohead",
     "album": "In Rainbows",
-    "src": "https://www.dropbox.com/scl/fi/ejkgu32ao9789aw4ts6s8/RIRWFA.mp3?rlkey=mgk25wffordlvj46o3jg6fzh9&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/11g98ww0hew2khxnm3w1b/RIRWFA.flac?rlkey=0v19sg0wisreqt1h62the2j3d&dl=0&raw=1",
     "duration": "00:05:18",
     "volume_multiplier": 0.75,
     "art": "5vkqYmiPBYLaalcmjujWxK_In_Rainbows.jpg"
@@ -14525,8 +14533,8 @@
     "title": "Paranoid Android",
     "artists": "Radiohead",
     "album": "OK Computer",
-    "src": "https://www.dropbox.com/scl/fi/fowmhdxn116aiak1du4kc/ROKCPA.mp3?rlkey=six57fagirb1r03s944hlrt0k&dl=0&raw=1",
-    "duration": "00:06:27",
+    "src": "https://www.dropbox.com/scl/fi/r7kvpn18kwjaflflozrsc/ROKCPA.flac?rlkey=4qs1b3gop5rccz9gqr8buem1o&dl=0&raw=1",
+    "duration": "00:06:23",
     "volume_multiplier": 0.75,
     "art": "6dVIqQ8qmQ5GBnJ9shOYGE_OK_Computer.jpg"
   },
@@ -14579,7 +14587,7 @@
     "title": "Tabú",
     "artists": "Gustavo Cerati",
     "album": "Bocanada",
-    "src": "https://www.dropbox.com/scl/fi/yqzsy94gf2uj4vrj3wijm/GCBT.mp3?rlkey=8f49xh0z1i3zubrf2bwrqzytp&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/edhxqttu5j6ukcr742bg1/GCBT.flac?rlkey=vbrq8g91twdqxqyxcnf7w776v&dl=0&raw=1",
     "duration": "00:04:48",
     "volume_multiplier": 0.75,
     "art": "2rIdWbXPjcq8K7BCccBhhC_Bocanada.jpg"
@@ -14805,7 +14813,7 @@
     "title": "Xeno Arcadia",
     "artists": "Mason Lindroth, Chuck Salamone",
     "album": "Hylics 2 OST",
-    "src": "https://www.dropbox.com/scl/fi/b8hmp7vnh596zk6elwcq4/H2XA.mp3?rlkey=27gf2kywjjf492csoudi96vlq&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/um9h6g55jt3tyxd8k5xqm/H2XA.flac?rlkey=f8flcvfpov60k89s3nl6ir9tm&dl=0&raw=1",
     "duration": "00:04:48",
     "volume_multiplier": 0.75,
     "art": "5P8ELqnm5ok0gH3rjHh3Yf_Hylics_2_Original_Soundtrack.jpg"
@@ -14859,7 +14867,7 @@
     "title": "Chamber Of Reflection",
     "artists": "Mac DeMarco",
     "album": "Salad Days",
-    "src": "https://www.dropbox.com/scl/fi/0ek66wz4p1fienex0drpx/MDSDCR.mp3?rlkey=4wi7mwoq2cb7glbplzzavbbj6&dl=0&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/0ek66wz4p1fienex0drpx/MDSDCR.mp3?rlkey=4wi7mwoq2cb7glbplzzavbbj6&dl=0&raw=1",
     "duration": "00:03:51",
     "volume_multiplier": 0.75,
     "art": "salad_days.jpg"
@@ -15021,8 +15029,8 @@
     "title": "Represent",
     "artists": "DJ Okawari, Kimbara Chieko",
     "album": "Kaleidoscope",
-    "src": "https://www.dropbox.com/scl/fi/2hawwalwfni4gg1p5lp9m/DJOKR.mp3?rlkey=fiyn3ofehxoog4wi24ih5i7zn&dl=0&raw=1",
-    "duration": "00:04:36",
+    "src": "https://www.dropbox.com/scl/fi/a6wr8yimcdrke6z3p9dem/DJOKR.flac?rlkey=mul5dz89d0xso5eijodni1pib&dl=0&raw=1",
+    "duration": "00:04:35",
     "volume_multiplier": 0.75,
     "art": "2Wrgww9jN3BDJuJ7ylbhcy_Kaleidoscope.jpg"
   },
@@ -15030,7 +15038,7 @@
     "title": "Flower Dance",
     "artists": "DJ Okawari",
     "album": "Kaleidoscope",
-    "src": "https://www.dropbox.com/scl/fi/3spxlra1vy8n3fofzwq23/DJOKFD.mp3?rlkey=53kx7wurboai8oseofzj17uec&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/y0n0wjnk0t00u4v2nq6e6/DJOKFD.flac?rlkey=vncirjrc4zy60l7hq5ue5xc58&dl=0&raw=1",
     "duration": "00:04:28",
     "volume_multiplier": 0.75,
     "art": "2Wrgww9jN3BDJuJ7ylbhcy_Kaleidoscope.jpg"
@@ -15084,8 +15092,8 @@
     "title": "パズル",
     "artists": "ROUND TABLE, Nino",
     "album": "「N・H・K にようこそ!」OST",
-    "src": "https://www.dropbox.com/scl/fi/jqhoqc4g1nll20o4ee7z5/RTNHKOP.mp3?rlkey=txgkmn5i6vpfll29cwxz954gw&dl=0&raw=1",
-    "duration": "00:04:05",
+    "src": "https://www.dropbox.com/scl/fi/hrcf39fkgtk1e9ebhj6xu/RTNHKOP.flac?rlkey=z9m3nb3yw9lfenqtt9fsa4hjn&dl=0&raw=1",
+    "duration": "00:04:04",
     "volume_multiplier": 0.75,
     "art": "6vJJz9jucl6SMT4BcLX6yt_「N・H・Kにようこそ」オープニングテーマ_パズル.jpg"
   },
@@ -15174,8 +15182,8 @@
     "title": "Boyo",
     "artists": "toe",
     "album": "HEAR YOU",
-    "src": "https://www.dropbox.com/scl/fi/s212hhpsb1j12vveyl5zc/THYB.mp3?rlkey=2d44ooe65muk5f5hzvouyw1ym&dl=0&raw=1",
-    "duration": "00:04:17",
+    "src": "https://www.dropbox.com/scl/fi/aeo5dgnyiywyxfkyvlf2t/THYB.flac?rlkey=g71dfrq3r2yo1wxp7sfgmaa8k&dl=0&raw=1",
+    "duration": "00:04:16",
     "volume_multiplier": 0.75,
     "art": "5qaDCD1d5ddoyPTTIOOYMH_HEAR_YOU.jpg"
   },
@@ -15183,8 +15191,8 @@
     "title": "グッドバイ",
     "artists": "toe",
     "album": "New Sentimentality",
-    "src": "https://www.dropbox.com/scl/fi/6w6incnbobddi5tm37s6s/TNSG.mp3?rlkey=nkfjw15cxdx44wgms880rnuw9&dl=0&raw=1",
-    "duration": "00:04:30",
+    "src": "https://www.dropbox.com/scl/fi/o2aoqgycyagfq4ftn76l5/TNSG.flac?rlkey=j84qd1nm676q7as24cuk70au5&dl=0&raw=1",
+    "duration": "00:07:34",
     "volume_multiplier": 0.75,
     "art": "6ZRlGp73BJTl6bhugchezf_New_Sentimentality_-_EP.jpg"
   },
@@ -15264,8 +15272,8 @@
     "title": "Teleblister",
     "artists": "Clever Girl",
     "album": "No Drum and Bass in the Jazz Room",
-    "src": "https://www.dropbox.com/scl/fi/smswqxn5ev4xcs8vhh7yg/CGNDBJRT.mp3?rlkey=vhkcfvmx7jafkuszbkfrsbd6j&dl=0&raw=1",
-    "duration": "00:05:29",
+    "src": "https://www.dropbox.com/scl/fi/9raatobdn9srv6z951xhv/CGNDBJRT.flac?rlkey=tqnb5evj7gj634auwoyy5pwh4&dl=0&raw=1",
+    "duration": "00:05:28",
     "volume_multiplier": 0.75,
     "art": "5fVQB6vI2BiezkTxU0BJIr_No_Drum_and_Bass_in_the_Jazz_Room.jpg"
   },
@@ -15291,8 +15299,8 @@
     "title": "This Masquerade",
     "artists": "George Benson",
     "album": "Breezin'",
-    "src": "https://www.dropbox.com/scl/fi/oyu5d2das9f9a1q2aprz1/GBBTM.mp3?rlkey=m06jnnj1j64mh1a1fdi2n84h4&dl=0&raw=1",
-    "duration": "00:08:03",
+    "src": "https://www.dropbox.com/scl/fi/5pl4x0r0x9pyh20x79woi/GBBTM.flac?rlkey=cns6zu1fsjt3in61nigk6nl9s&dl=0&raw=1",
+    "duration": "00:08:04",
     "volume_multiplier": 0.75,
     "art": "breezin.jpg"
   },
@@ -15300,8 +15308,8 @@
     "title": "Chameleon",
     "artists": "Herbie Hancock",
     "album": "Head Hunters",
-    "src": "https://www.dropbox.com/scl/fi/7ye51juzi821ml9lp0ueu/HHHHC.mp3?rlkey=ji8lwefdmvsel16x7cm2syr7y&dl=0&raw=1",
-    "duration": "00:15:42",
+    "src": "https://www.dropbox.com/scl/fi/nuvr20jxonvjyjb9j2ten/HHHHC.flac?rlkey=735yoht1p7twokgt8dkzg8miy&dl=0&raw=1",
+    "duration": "00:15:44",
     "volume_multiplier": 0.75,
     "art": "5fmIolILp5NAtNYiRPjhzA_Head_Hunters.jpg"
   },
@@ -15363,7 +15371,7 @@
     "title": "Dream Of The Sirens",
     "artists": "The Rippingtons, Russ Freeman",
     "album": "Kilimanjaro",
-    "src": "https://www.dropbox.com/scl/fi/teuq4xsc81bzicagla93l/RKDS.mp3?rlkey=z5ovcsqp76eue5xb4tq9w7flu&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/fo0xhpzwn7vrl4skx76av/RKDS.flac?rlkey=4twzz5uhcyj2wy4zdx4guhw1m&dl=0&raw=1",
     "duration": "00:05:40",
     "volume_multiplier": 0.75,
     "art": "2TM9M2M03rvweIHlsYM0NT_Kilimanjaro.jpg"
@@ -15552,7 +15560,7 @@
     "title": "オリオン",
     "artists": "CASIOPEA",
     "album": "SUPER FLIGHT",
-    "src": "https://www.dropbox.com/scl/fi/nl8esvu3jmxf75671uq21/CSFO.mp3?rlkey=ck48wuj9mnhfqvikuszgifu9d&dl=0&raw=1",
+    "src": "https://www.dropbox.com/scl/fi/8a1kuzzw2eg3q1mk2hh60/CSFO.flac?rlkey=m4a5cuth63atygyq8agiug06a&dl=0&raw=1",
     "duration": "00:03:20",
     "volume_multiplier": 0.75,
     "art": "0WbJysvT1uSd5sHaP2QPG9_SUPER_FLIGHT.jpg"
