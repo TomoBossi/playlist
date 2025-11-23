@@ -3570,6 +3570,15 @@
     "volume_multiplier": 0.75,
     "art": "152Hw6E0tNz3EQNq9c1CDf_Its_My_Life.jpg"
   },
+  "AAHNN": {
+    "title": "A Horse with No Name",
+    "artists": "America",
+    "album": "America",
+    "src": "https://www.dropbox.com/scl/fi/1zzr0he9l9doxd7ozvvuq/AAHNN.mp3?rlkey=jqp60f3jk4e4ckpgu13cnuhjt&dl=0&raw=1",
+    "duration": "00:04:12",
+    "volume_multiplier": 0.75,
+    "art": "america.jpg"
+  },
   "FMTT": {
     "title": "Tusk",
     "artists": "Fleetwood Mac",
