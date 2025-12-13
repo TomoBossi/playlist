@@ -3066,6 +3066,15 @@
     "volume_multiplier": 0.75,
     "art": "3ShtO5VCYa3ctlR5uzLWBa_Promises.jpg"
   },
+  "JPTNBEL": {
+    "title": "Executive Life",
+    "artists": "Jeff Parker",
+    "album": "The New Breed",
+    "src": "https://www.dropbox.com/scl/fi/0jfbb9e6luiz4e9qgatmn/JPTNBEL.mp3?rlkey=939ktrzgoasiar78zf6er860j&dl=0&raw=1",
+    "duration": "00:07:38",
+    "volume_multiplier": 0.75,
+    "art": "new_breed.jpg"
+  },
   "MDCRG": {
     "title": "Guinnevere",
     "artists": "Miles Davis",
@@ -15421,6 +15430,15 @@
     "volume_multiplier": 0.75,
     "art": "5zyFBPO7dWfVLFoorrLDcX_SAUDADE.jpg"
   },
+  "MTSOTS": {
+    "title": "Oh! Tengo Suerte",
+    "artists": "Masayoshi Takanaka",
+    "album": "Seychelles",
+    "src": "https://www.dropbox.com/scl/fi/mzap0x3nqlbyngofae3yf/MTSOTS.mp3?rlkey=q2p9ope21qh5jbu6hpf4jnglb&dl=0&raw=1",
+    "duration": "00:04:12",
+    "volume_multiplier": 0.75,
+    "art": "seychelles.jpg"
+  },
   "MTAIHM": {
     "title": "Malibu",
     "artists": "Masayoshi Takanaka",
@@ -15438,6 +15456,15 @@
     "duration": "00:03:20",
     "volume_multiplier": 0.75,
     "art": "billy_cobham_spectrum.jpg"
+  },
+  "SPFV": {
+    "title": "Fin de la Víspera",
+    "artists": "Segundo Principio",
+    "album": "Fin de la Víspera",
+    "src": "https://www.dropbox.com/scl/fi/g4qps40nbo5pcvmo8r2st/SPFV.mp3?rlkey=sxjq4o8fzj228qn98e8m7a33a&dl=0&raw=1",
+    "duration": "00:07:47",
+    "volume_multiplier": 0.75,
+    "art": "fin_de_vispera.jpg"
   },
   "HNAM": {
     "title": "飛行船モルト号 (Airship Molt)",
