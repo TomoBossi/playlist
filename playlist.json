@@ -9628,6 +9628,15 @@
     "volume_multiplier": 0.75,
     "art": "shoebody_bop.jpg"
   },
+  "CHEPITO": {
+    "title": "This little Light of mine... (I'm gonna let It shine)",
+    "artists": "Chepito, Glottis",
+    "album": "Selected Ambient Bones 39-45",
+    "src": "https://www.dropbox.com/scl/fi/rbj1g8idvizqm56949prh/CHEPITO.mp3?rlkey=mmg5eogvmk5cq3ef3uyvf39jy&dl=0&raw=1",
+    "duration": "00:00:57",
+    "volume_multiplier": 0.75,
+    "art": "chepito.jpg"
+  },
   "DGEMB": {
     "title": "Beware",
     "artists": "Death Grips",
