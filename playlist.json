@@ -7352,6 +7352,15 @@
     "volume_multiplier": 0.75,
     "art": "1q1iZ1xrAljMcjvjpEFhfa_One_Hundred_Mornings_(Bonus_Tracks).jpg"
   },
+  "W96GPIS": {
+    "title": "I Swear",
+    "artists": "Windows96",
+    "album": "Glass Prism",
+    "src": "https://www.dropbox.com/scl/fi/k58j7taipvh3fmaxvn0dg/W96GPIS.mp3?rlkey=26v8bplu1sfxwgd8wthz3xm1k&dl=0&raw=1",
+    "duration": "00:03:53",
+    "volume_multiplier": 0.75,
+    "art": "i_swear.jpg"
+  },
   "W96GPGP": {
     "title": "Glass Prism",
     "artists": "Windows96",
@@ -7938,6 +7947,15 @@
     "duration": "00:03:31",
     "volume_multiplier": 0.75,
     "art": "dadada.jpg"
+  },
+  "W96YDDDCA": {
+    "title": "Cry Again",
+    "artists": "Windows96",
+    "album": "Yes Da Da Da",
+    "src": "https://www.dropbox.com/scl/fi/yhsr4gjlct50retsvyh0p/W96YDDDCA.mp3?rlkey=m3y2gi498gjtelz1f85oer34j&dl=0&raw=1",
+    "duration": "00:03:02",
+    "volume_multiplier": 0.75,
+    "art": "cry_again.jpg"
   },
   "W96YDDDTE": {
     "title": "Two Eyes",
