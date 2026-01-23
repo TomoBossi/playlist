@@ -350,6 +350,15 @@
     "volume_multiplier": 0.75,
     "art": "6jTcrXW3mOPSDlQrnekktc_801_Live.jpg"
   },
+  "FZBSTBP2": {
+    "title": "The Black Page #2",
+    "artists": "Frank Zappa",
+    "album": "Baby Snakes",
+    "src": "https://www.dropbox.com/scl/fi/inlc3cn6aakwuzv8m5fpf/FZBSTBP2.flac?rlkey=7emjdjc4bj513f6i4o4vo79rf&dl=0&raw=1",
+    "duration": "00:02:50",
+    "volume_multiplier": 0.75,
+    "art": "baby_snakes.jpg"
+  },
   "FZWJBS": {
     "title": "Big Swifty",
     "artists": "Frank Zappa",
