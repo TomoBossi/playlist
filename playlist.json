@@ -359,6 +359,15 @@
     "volume_multiplier": 0.75,
     "art": "baby_snakes.jpg"
   },
+  "FZOSFAIR": {
+    "title": "Inca Roads",
+    "artists": "Frank Zappa, The Mothers Of Invention",
+    "album": "One Size Fits All",
+    "src": "https://www.dropbox.com/scl/fi/02m0zxhy47cjnnaawyjq9/FZOSFAIR.mp3?rlkey=5wrivl17lt8cz5z3fqrmgb1d4&dl=0&raw=1",
+    "duration": "00:08:45",
+    "volume_multiplier": 0.75,
+    "art": "one_size_fits_all.jpg"
+  },
   "FZWJBS": {
     "title": "Big Swifty",
     "artists": "Frank Zappa",
@@ -2625,6 +2634,25 @@
     "volume_multiplier": 0.75,
     "art": "1aoWxOWHJNG1VPpJZwpYl2_Cracker_Island_(Deluxe).jpg"
   },
+  "GMHT": {
+    "title": "The Hardest Thing",
+    "artists": "Gorillaz",
+    "album": "The Mountain पर्वत",
+    "src": "https://www.dropbox.com/scl/fi/6oixee81nqf9e7bvx0o21/GMHTOC.mp3?rlkey=ivqnl3due3nsf8pvk714u2scn&dl=0&raw=1",
+    "end": "00:02:16",
+    "volume_multiplier": 0.75,
+    "art": "the_mountain.jpg"
+  },
+  "GMOC": {
+    "title": "Orange County",
+    "artists": "Gorillaz",
+    "album": "The Mountain पर्वत",
+    "src": "https://www.dropbox.com/scl/fi/6oixee81nqf9e7bvx0o21/GMHTOC.mp3?rlkey=ivqnl3due3nsf8pvk714u2scn&dl=0&raw=1",
+    "start": "00:02:16",
+    "duration": "00:05:44",
+    "volume_multiplier": 0.75,
+    "art": "the_mountain.jpg"
+  },
   "BMWTH": {
     "title": "My Terracotta Heart",
     "artists": "Blur",
@@ -2675,6 +2703,7 @@
     "artists": "Gorillaz",
     "album": "The Fall",
     "src": "https://www.dropbox.com/scl/fi/piytsthj4g0ze63rcgvsn/GFST.mp3?rlkey=8e5ktsz7qb4fz31amyvqy6it6&dl=0&raw=1",
+    "start": "00:00:00.30",
     "duration": "00:02:54",
     "volume_multiplier": 0.75,
     "art": "5jJGGsAztgUEXUHHZ2zrah_The_Fall.jpg"
@@ -14863,6 +14892,42 @@
     "volume_multiplier": 0.75,
     "art": "face_the_music.jpg"
   },
+  "BBDEE": {
+    "title": "Everybody Everybody",
+    "artists": "Black Box",
+    "album": "Dreamland",
+    "src": "https://www.dropbox.com/scl/fi/wfwz60itg4ei494rhpa3g/BBDEE.mp3?rlkey=q7yzggnpm8281mqycweo4qumk&dl=0&raw=1",
+    "duration": "00:04:06",
+    "volume_multiplier": 0.75,
+    "art": "dreamland.jpg"
+  },
+  "DHJOH2OM": {
+    "title": "Maneater",
+    "artists": "Daryl Hall & John Oates",
+    "album": "H2O",
+    "src": "https://www.dropbox.com/scl/fi/ofh7vjpmym6lv5p72toa9/DHJOH2OM.mp3?rlkey=pkxqgm71sjtb099ksmd2gvn4g&dl=0&raw=1",
+    "duration": "00:04:31",
+    "volume_multiplier": 0.75,
+    "art": "h2o.jpg"
+  },
+  "FMTNE": {
+    "title": "Everywhere",
+    "artists": "Fleetwood Mac",
+    "album": "Tango In The Night",
+    "src": "https://www.dropbox.com/scl/fi/tnsyi43jb14x1z55vlk31/FMTNE.mp3?rlkey=mzun85adsmasmb5ijhopr0x2q&dl=0&raw=1",
+    "duration": "00:03:43",
+    "volume_multiplier": 0.75,
+    "art": "tango_in_the_night.jpg"
+  },
+  "SDLSO": {
+    "title": "Smooth Operator",
+    "artists": "Sade",
+    "album": "Diamond Life",
+    "src": "https://www.dropbox.com/scl/fi/wq4n02hm6mx2jr3z2qc8b/SDLSO.mp3?rlkey=wrrqfefg833tktu3vk0dnw0dx&dl=0&raw=1",
+    "duration": "00:04:16",
+    "volume_multiplier": 0.75,
+    "art": "diamond_life.jpg"
+  },
   "JRSCSC": {
     "title": "Space Cowboy",
     "artists": "Jamiroquai",
@@ -14963,7 +15028,7 @@
     "art": "2p2dzaB6jqlKi4Oj2WlFoN_Harbor.jpg"
   },
   "MDSDCR": {
-    "title": "Chamber Of Reflection",
+    "title": "Chamber Of Reflection (セキトオ・シゲオ - ザ・ワード II)",
     "artists": "Mac DeMarco",
     "album": "Salad Days",
     "src": "https://www.dropbox.com/scl/fi/0ek66wz4p1fienex0drpx/MDSDCR.mp3?rlkey=4wi7mwoq2cb7glbplzzavbbj6&dl=0&raw=1",
