@@ -3482,6 +3482,42 @@
     "volume_multiplier": 0.75,
     "art": "3i67sGIVw8EBlgfSRv3Lj2_Nothing_But_The_Best_(Remastered).jpg"
   },
+  "DEIM": {
+    "title": "The Insulindian Miracle",
+    "artists": "Sea Power",
+    "album": "Disco Elysium OST",
+    "src": "https://www.dropbox.com/scl/fi/9gg9yzoud3k71h8n2z8e2/DEIM.mp3?rlkey=hcu8xtevpspnbgpbz1rj8k2qj&dl=0&raw=1",
+    "duration": "00:02:23",
+    "volume_multiplier": 0.75,
+    "art": "disco_elysium.jpg"
+  },
+  "DEYBBYD": {
+    "title": "Your Body Betrays Your Degeneracy",
+    "artists": "Sea Power",
+    "album": "Disco Elysium OST",
+    "src": "https://www.dropbox.com/scl/fi/cni5r6zm2kc75w97t1r73/DEYBBYD.mp3?rlkey=6fwh5q6ckokgg3mv2enqo95sn&dl=0&raw=1",
+    "duration": "00:02:27",
+    "volume_multiplier": 0.75,
+    "art": "disco_elysium.jpg"
+  },
+  "DEDCA": {
+    "title": "The Doomed Commercial Area",
+    "artists": "Sea Power",
+    "album": "Disco Elysium OST",
+    "src": "https://www.dropbox.com/scl/fi/zlb6qz85tr1jes7sljx5x/DEDCA.mp3?rlkey=3qfoljzirlv8eaa600k24pp19&dl=0&raw=1",
+    "duration": "00:03:05",
+    "volume_multiplier": 0.75,
+    "art": "disco_elysium.jpg"
+  },
+  "DELWM": {
+    "title": "Live With Me",
+    "artists": "Sea Power",
+    "album": "Disco Elysium OST",
+    "src": "https://www.dropbox.com/scl/fi/biy96xclx3amh1jwrz8g8/DELWM.mp3?rlkey=lddygyd8e2s9b6j7mw4e77lat&dl=0&raw=1",
+    "duration": "00:02:39",
+    "volume_multiplier": 0.75,
+    "art": "disco_elysium.jpg"
+  },
   "GYBESFSTORM": {
     "title": "Storm",
     "artists": "Godspeed You! Black Emperor",
@@ -4093,6 +4129,33 @@
     "duration": "00:04:03",
     "volume_multiplier": 0.75,
     "art": "4L0EBzY93RlqI28oZbaYig_Disorganized_Fun.jpg"
+  },
+  "SMBFF": {
+    "title": "Forest Funk",
+    "artists": "Danny Baranowsky",
+    "album": "Super Meat Boy OST",
+    "src": "https://www.dropbox.com/scl/fi/8owjk5ugx9gpa52xd2pej/SMBFF.mp3?rlkey=aojxdqdicq3vs02omrmvx82rg&dl=0&raw=1",
+    "duration": "00:03:00",
+    "volume_multiplier": 0.75,
+    "art": "super_meat_boy.jpg"
+  },
+  "SMBBB": {
+    "title": "Betus Blues",
+    "artists": "Danny Baranowsky",
+    "album": "Super Meat Boy OST",
+    "src": "https://www.dropbox.com/scl/fi/i6aypv26e3nfehqplegwb/SMBBB.mp3?rlkey=xgrnvmk736q9amdc4myy42jvp&dl=0&raw=1",
+    "duration": "00:03:12",
+    "volume_multiplier": 0.75,
+    "art": "super_meat_boy.jpg"
+  },
+  "SMBCS": {
+    "title": "Can o' Salt",
+    "artists": "Danny Baranowsky",
+    "album": "Super Meat Boy OST",
+    "src": "https://www.dropbox.com/scl/fi/3tv5o29xqxbbe4b3ek3l3/SMBCS.mp3?rlkey=e7texi39qh2lhlafehifls4wt&dl=0&raw=1",
+    "duration": "00:03:20",
+    "volume_multiplier": 0.75,
+    "art": "super_meat_boy.jpg"
   },
   "TERRAJ": {
     "title": "Jungle",
