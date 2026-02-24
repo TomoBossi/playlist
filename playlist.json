@@ -11662,6 +11662,15 @@
     "volume_multiplier": 0.75,
     "art": "flyday_chinatown.jpg"
   },
+  "JYBC": {
+    "title": "黄昏のBAY CITY",
+    "artists": "Junko Yagami",
+    "album": "黄昏のBAY CITY",
+    "src": "https://www.dropbox.com/scl/fi/pup7so3z3t34b873na89t/JYBC.mp3?rlkey=qcztv55u707gtiwrqfei2e36j&dl=0&raw=1",
+    "duration": "00:04:10",
+    "volume_multiplier": 0.75,
+    "art": "bay_city.jpg"
+  },
   "TOM4AM": {
     "title": "4:00 A.M.",
     "artists": "Taeko Onuki",
@@ -11710,11 +11719,11 @@
   "JOMILYS": {
     "title": "I LOVE YOU SO",
     "artists": "Junko Ohashi",
-    "album": "黄昏",
+    "album": "MAGICAL 大橋純子の世界 III",
     "src": "https://www.dropbox.com/scl/fi/6bva5ynimba6ml71krfh6/JOMILYS.mp3?rlkey=k22carbhrls0ow7hqbz36bf0i&dl=0&raw=1",
     "end": "00:04:39.0",
     "volume_multiplier": 0.75,
-    "art": "10BU0KMjUdl0dS8LIV7Uhy_黄昏.jpg"
+    "art": "magical.jpg"
   },
   "PFLCTD": {
     "title": "Tropical Dream",
