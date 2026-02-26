@@ -8982,6 +8982,15 @@
     "volume_multiplier": 0.75,
     "art": "intense.jpg"
   },
+  "LID": {
+    "title": "I'm Different",
+    "artists": "Lifelikemoviee",
+    "album": "I'm Different",
+    "src": "https://www.dropbox.com/scl/fi/lu91j1pleqp2i50fm89g0/LID.mp3?rlkey=9xc82m3vaij1qe3rbtsw2xe4u&dl=0&raw=1",
+    "duration": "00:02:41",
+    "volume_multiplier": 0.75,
+    "art": "diff.jpg"
+  },
   "AJF2MN": {
     "title": "Midnight Noir (Extended Mix)",
     "artists": "Accelio",
