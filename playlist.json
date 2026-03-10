@@ -4941,6 +4941,15 @@
     "volume_multiplier": 0.75,
     "art": "luigis_mansion.jpg"
   },
+  "ESUFO50M": {
+    "title": "Mooncat",
+    "artists": "Eirik Suhrke",
+    "album": "UFO 50 OST",
+    "src": "https://www.dropbox.com/scl/fi/vwcpuwu1vqplegmu85bys/ESUFO50M.mp3?rlkey=3dmwzi65keszpcfo8sic930t3&dl=0&raw=1",
+    "duration": "00:01:19",
+    "volume_multiplier": 0.75,
+    "art": "ufo_50_ost.jpg"
+  },
   "LRMCCO": {
     "title": "otherside",
     "artists": "Lena Raine",
