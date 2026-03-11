@@ -5661,6 +5661,15 @@
     "volume_multiplier": 0.75,
     "art": "paranoia_agent_ost.jpg"
   },
+  "APOWTE": {
+    "title": "Traveler's Encore",
+    "artists": "Andrew Prahlow",
+    "album": "Outer Wilds Echoes of the Eye OST",
+    "src": "https://www.dropbox.com/scl/fi/vokjk9e0ry98m99h9gbth/APOWTE.mp3?rlkey=oj5krn7ajpyeifyxfu6fb3eou&dl=0&raw=1",
+    "duration": "00:03:49",
+    "volume_multiplier": 0.75,
+    "art": "outer_wilds.jpg"
+  },
   "SUSU1STY": {
     "title": "Stronger Than You",
     "artists": "Steven Universe, Estelle",
