@@ -3212,6 +3212,15 @@
     "volume_multiplier": 0.75,
     "art": "giant_steps.jpg"
   },
+  "SSDF6": {
+    "title": "Dracula Flow 6",
+    "artists": "Saoirse Sipes",
+    "album": "2026 National YoungArts Week",
+    "src": "https://www.dropbox.com/scl/fi/gakmuvgbnhjkjmfe8f6j0/SSDF6.mp3?rlkey=aqx8zt2qdci88d410zotqqcpn&dl=0&raw=1",
+    "duration": "00:05:55",
+    "volume_multiplier": 1.00,
+    "art": "dracula_flow_6.jpg"
+  },
   "WHIPLASH": {
     "title": "Whiplash",
     "artists": "Hank Levy, Don Ellis",
@@ -7921,6 +7930,15 @@
     "duration": "00:02:27",
     "volume_multiplier": 0.75,
     "art": "new_twilight.jpg"
+  },
+  "A2BYS": {
+    "title": "By Your Side",
+    "artists": "Alt",
+    "album": "New Twilight Music Vol. 2",
+    "src": "https://www.dropbox.com/scl/fi/rdyt873gg08nrs2ym6538/A2BYS.mp3?rlkey=rbya0td0h3y6078rdbe4dtuxn&dl=0&raw=1",
+    "duration": "00:02:50",
+    "volume_multiplier": 0.75,
+    "art": "twilight_2.jpg"
   },
   "NXSIOWEAD": {
     "title": "Another Day",
