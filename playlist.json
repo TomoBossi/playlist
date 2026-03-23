@@ -2634,6 +2634,15 @@
     "volume_multiplier": 0.75,
     "art": "1aoWxOWHJNG1VPpJZwpYl2_Cracker_Island_(Deluxe).jpg"
   },
+  "GMMC": {
+    "title": "The Moon Cave",
+    "artists": "Gorillaz",
+    "album": "The Mountain पर्वत",
+    "src": "https://www.dropbox.com/scl/fi/yt9xogec6dptssg7u5o0i/GMMC.mp3?rlkey=1falno2ef2i0qqeev64rfjw0j&dl=0&raw=1",
+    "duration": "00:04:58",
+    "volume_multiplier": 0.75,
+    "art": "the_mountain.jpg"
+  },
   "GMHT": {
     "title": "The Hardest Thing",
     "artists": "Gorillaz",
