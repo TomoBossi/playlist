@@ -7949,6 +7949,15 @@
     "volume_multiplier": 0.75,
     "art": "twilight_2.jpg"
   },
+  "KTM2LPF": {
+    "title": "Light Pollution Free",
+    "artists": "Komit",
+    "album": "New Twilight Music Vol. 2",
+    "src": "https://www.dropbox.com/scl/fi/o27436dxthj1h94gm3oro/KTM2LPF.mp3?rlkey=h7y4uka826wdhgzclv89vdg6a&dl=0&raw=1",
+    "duration": "00:02:49",
+    "volume_multiplier": 0.75,
+    "art": "twilight_2.jpg"
+  },
   "NXSIOWEAD": {
     "title": "Another Day",
     "artists": "NxxxxxS, Windows96",
@@ -11770,6 +11779,15 @@
     "volume_multiplier": 0.75,
     "art": "7fa6VpNPvW2DVbtohJ0x44_浮遊空間.jpg"
   },
+  "MYSFIL": {
+    "title": "(You And Me Still Keep On) Fall In Love",
+    "artists": "Mai Yamane",
+    "album": "Sorry",
+    "src": "https://www.dropbox.com/scl/fi/3vz9uwa90uwpgifnot98c/MYSFIL.mp3?rlkey=9c9y99uks4mq8p5mgu8nj0kdo&dl=0&raw=1",
+    "duration": "00:05:28",
+    "volume_multiplier": 0.75,
+    "art": "sorry.jpg"
+  },
   "ATRSD": {
     "title": "Remember Summer Days",
     "artists": "Anri",
@@ -12705,6 +12723,15 @@
     "duration": "00:02:06",
     "volume_multiplier": 0.75,
     "art": "p3reload.jpg"
+  },
+  "P3AS": {
+    "title": " 全ての人の魂の詩 ",
+    "artists": "小宮知子",
+    "album": "PERSONA3 OST",
+    "src": "https://www.dropbox.com/scl/fi/fq5o6npqw2n1bfy4z9c2b/P3AS.mp3?rlkey=yqhsyzdj9fysyi77ck275iksf&dl=0&raw=1",
+    "duration": "00:05:38",
+    "volume_multiplier": 0.75,
+    "art": "persona3_ost.jpg"
   },
   "P3ID": {
     "title": "巌戸台分寮",
@@ -15062,6 +15089,15 @@
     "duration": "00:04:16",
     "volume_multiplier": 0.75,
     "art": "diamond_life.jpg"
+  },
+  "KKWCFILAN": {
+    "title": "Along The Nile",
+    "artists": "Kimiko Kasai",
+    "album": "We Can Fall In Love",
+    "src": "https://www.dropbox.com/scl/fi/grgq7rvrwdg58pq9e4ay9/KKWCFILAN.mp3?rlkey=vo5e7srj4i2ib7w4817ffbltr&dl=0&raw=1",
+    "duration": "00:05:15",
+    "volume_multiplier": 0.75,
+    "art": "we_cant_fall_in_love.jpg"
   },
   "JRSCSC": {
     "title": "Space Cowboy",
