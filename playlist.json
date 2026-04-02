@@ -5328,6 +5328,15 @@
     "volume_multiplier": 0.75,
     "art": "lethal_league_blaze_ost.jpg"
   },
+  "DISCOPUP": {
+    "title": "DISCOPUP",
+    "artists": "Alejandro Cruz Lemos",
+    "album": "DISCOPUP OST",
+    "src": "https://www.dropbox.com/scl/fi/dm2tanyqp401mzbr3mojd/DISCOPUP.mp3?rlkey=gv8k62kmcmakad34jxs0zx9zz&dl=0&raw=1",
+    "duration": "00:02:56",
+    "volume_multiplier": 0.75,
+    "art": "discopup.jpg"
+  },
   "FFNSRCS": {
     "title": "The City Streets (Posh Version)",
     "artists": "Funk Fiction",
