@@ -12580,6 +12580,15 @@
     "volume_multiplier": 0.75,
     "art": "stone_ocean_ost.jpg"
   },
+  "YKJBASBRDWSBR": {
+    "title": "Dance with STEEL BALL RUN",
+    "artists": "Yugo Kanno",
+    "album": "JBA: Steel Ball Run OST",
+    "src": "https://www.dropbox.com/scl/fi/0u3ngddfhqketcy3ijgks/YKJBASBRDWSBR.mp3?rlkey=r7bqgad94iolhv26wrx13yfex&dl=0&raw=1",
+    "duration": "00:04:47",
+    "volume_multiplier": 0.75,
+    "art": "steel_ball_run_ost.jpg"
+  },
   "YKPPPP": {
     "title": "PSYCHO-PASS",
     "artists": "Yugo Kanno",
