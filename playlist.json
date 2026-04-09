@@ -6191,6 +6191,15 @@
     "volume_multiplier": 0.75,
     "art": "4RPZwe7DRyQd805dyzs1pC_Night_Driving_Avenger_EP.jpg"
   },
+  "OSWCWB": {
+    "title": "Wicked Beast",
+    "artists": "Wicked City OST",
+    "album": "Wicked City OST",
+    "src": "https://www.dropbox.com/scl/fi/2dra376y6w4bdqrn38ui8/OSWCWB.mp3?rlkey=wqljjgbyxqruoxvk159l0zhy3&dl=0&raw=1",
+    "duration": "00:01:16",
+    "volume_multiplier": 0.75,
+    "art": "wicked_city.jpg"
+  },
   "VBRW4M": {
     "title": "Wait for Me",
     "artists": "Vangelis",
