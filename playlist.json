@@ -224,6 +224,15 @@
     "volume_multiplier": 0.75,
     "art": "6icDB6wt9kle4AkCoPAtaZ_Octopus.jpg"
   },
+  "HNRCDMA": {
+    "title": "Didn't Matter Anyway",
+    "artists": "Hatfield & The North",
+    "album": "The Rotters Club",
+    "src": "https://www.dropbox.com/scl/fi/uc7upboritpbpw877hwyl/HNRCDMA.mp3?rlkey=4i60khh511o98171e3bv81qqa&dl=0&raw=1",
+    "duration": "00:03:33",
+    "volume_multiplier": 0.75,
+    "art": "rotters.jpg"
+  },
   "KCLTABS": {
     "title": "Book Of Saturday",
     "artists": "King Crimson",
@@ -250,6 +259,15 @@
     "duration": "00:11:07",
     "volume_multiplier": 0.75,
     "art": "topography.jpg"
+  },
+  "HNRCLTT": {
+    "title": "Lounging There Trying",
+    "artists": "Hatfield & The North",
+    "album": "The Rotters Club",
+    "src": "https://www.dropbox.com/scl/fi/h7g8jqiwgm5msxbjl8lt1/HNRCLTT.mp3?rlkey=1ti2xh6xr3m6nxphz8emmcanz&dl=0&raw=1",
+    "duration": "00:03:33",
+    "volume_multiplier": 0.75,
+    "art": "rotters.jpg"
   },
   "JTTBPP": {
     "title": "The Poet and the Painter",
@@ -358,6 +376,15 @@
     "duration": "00:05:14",
     "volume_multiplier": 0.75,
     "art": "6jTcrXW3mOPSDlQrnekktc_801_Live.jpg"
+  },
+  "MOIMFMS": {
+    "title": "Meeting of the Spirits",
+    "artists": "Mahavishnu Orchestra, John McLaughlin",
+    "album": "The Inner Mounting Flame",
+    "src": "https://www.dropbox.com/scl/fi/tp0zp4vyk7sebmega59g1/MOIMFMS.mp3?rlkey=7hzolu1gbip5r9mvfu85alo5k&dl=0&raw=1",
+    "duration": "00:06:51",
+    "volume_multiplier": 0.75,
+    "art": "mounting_flame.jpg"
   },
   "FZBSTBP2": {
     "title": "The Black Page #2",
@@ -15820,7 +15847,7 @@
     "art": "fin_de_vispera.jpg"
   },
   "HNAM": {
-    "title": "飛行船モルト号 (Airship Molt)",
+    "title": "飛行船モルト号",
     "artists": "Hiroyuki Namba",
     "album": "飛行船の上のシンセサイザー弾き",
     "src": "https://www.dropbox.com/scl/fi/zm07fqzq7gn2u1zx9si8s/HNAM.mp3?rlkey=o25buriim7srl2x1z6on388gp&dl=0&raw=1",
@@ -15829,7 +15856,7 @@
     "art": "hiroyuki_namba_飛行船の上のシンセサイザー弾き.jpg"
   },
   "HNTE": {
-    "title": "トロピカル万国博 (Tropical Exposition)",
+    "title": "トロピカル万国博",
     "artists": "Hiroyuki Namba",
     "album": "飛行船の上のシンセサイザー弾き",
     "src": "https://www.dropbox.com/scl/fi/h47akik67wf0sx99kkjlk/HNTE.mp3?rlkey=5q9k34z8qk67d5tgo6xnu2m70&dl=0&raw=1",
@@ -15899,6 +15926,42 @@
     "duration": "00:05:31",
     "volume_multiplier": 0.75,
     "art": "09KQMqRllqcYgk0Q9r7gQZ_AI_Factory.jpg"
+  },
+  "KK2SS": {
+    "title": "空に光る",
+    "artists": "KENSO",
+    "album": "KENSO II",
+    "src": "https://www.dropbox.com/scl/fi/8ix7rm6ll6k155nq6d89r/KK2SS.mp3?rlkey=fk2qjdgp5hb44ucdsb20cvnda&dl=0&raw=1",
+    "duration": "00:06:23",
+    "volume_multiplier": 0.75,
+    "art": "kenso_2.jpg"
+  },
+  "KK2FI": {
+    "title": "氷島",
+    "artists": "KENSO",
+    "album": "KENSO II",
+    "src": "https://www.dropbox.com/scl/fi/8mxy0nhxhorgc40h32m37/KK2FI.mp3?rlkey=9yaki2o2qy6i8zqqap02jg1bo&dl=0&raw=1",
+    "duration": "00:06:09",
+    "volume_multiplier": 0.75,
+    "art": "kenso_2.jpg"
+  },
+  "KK2B9": {
+    "title": "ブランド指向",
+    "artists": "KENSO",
+    "album": "KENSO II",
+    "src": "https://www.dropbox.com/scl/fi/fjfva5bre04wcber7409y/KK2B9.mp3?rlkey=uko6qhzkpf01ibkvj5askudle&dl=0&raw=1",
+    "duration": "00:04:34",
+    "volume_multiplier": 0.75,
+    "art": "kenso_2.jpg"
+  },
+  "KK2AGP": {
+    "title": "さよならプログレ",
+    "artists": "KENSO",
+    "album": "KENSO II",
+    "src": "https://www.dropbox.com/scl/fi/63el4k8bbj1z7gngckuic/KK2AGP.mp3?rlkey=0cbowf1syt4v3mm50n7m35h0p&dl=0&raw=1",
+    "duration": "00:06:56",
+    "volume_multiplier": 0.75,
+    "art": "kenso_2.jpg"
   },
   "CADA": {
     "title": "Asayake",
