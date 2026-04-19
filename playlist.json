@@ -260,6 +260,15 @@
     "volume_multiplier": 0.75,
     "art": "topography.jpg"
   },
+  "HNRCM": {
+    "title": "Mumps (Your Majesty Is Like a Cream Donut (Quiet) / Lumps / Prenut / Your Majesty Is Like a Cream Donut (Loud))",
+    "artists": "Hatfield & The North",
+    "album": "The Rotters Club",
+    "src": "https://www.dropbox.com/scl/fi/758n6iakcyqj5v07ujld3/HNRCM.mp3?rlkey=pw5q3bvue16cabczup9f8gut9&dl=0&raw=1",
+    "duration": "00:20:31",
+    "volume_multiplier": 0.75,
+    "art": "rotters.jpg"
+  },
   "HNRCLTT": {
     "title": "Lounging There Trying",
     "artists": "Hatfield & The North",
