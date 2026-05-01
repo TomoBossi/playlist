@@ -188,6 +188,15 @@
     "volume_multiplier": 0.75,
     "art": "dead_meadow.jpg"
   },
+  "KMMTDS": {
+    "title": "Dripping Sun",
+    "artists": "Kikagaku Moyo",
+    "album": "Masana Temples",
+    "src": "https://www.dropbox.com/scl/fi/oazvnwqw1sty4las8u9y3/KMMTDS.mp3?rlkey=ljkyd8jgbhy6ugb9z1xs4kfee&dl=0&raw=1",
+    "duration": "00:07:50",
+    "volume_multiplier": 0.75,
+    "art": "masana_temples.jpg"
+  },
   "PTDASBNH": {
     "title": "Arriving Somewhere But Not Here",
     "artists": "Porcupine Tree",
@@ -296,12 +305,30 @@
     "volume_multiplier": 0.75,
     "art": "2vrM9ltjKIvNg3nkwXoJuc_Hemispheres.jpg"
   },
+  "JLPCMCM": {
+    "title": "Cosmic Messenger",
+    "artists": "Jean-Luc Ponty",
+    "album": "Cosmic Messenger",
+    "src": "https://www.dropbox.com/scl/fi/mnufaydac0v6i4p48trkx/JLPCMCM.mp3?rlkey=gcrdo51vkuwewf1x85qfkl7y8&dl=0&raw=1",
+    "duration": "00:04:42",
+    "volume_multiplier": 0.75,
+    "art": "cosmic_messenger.jpg"
+  },
   "JLPCMDLWPYB": {
     "title": "Don't Let the World Pass You By",
     "artists": "Jean-Luc Ponty",
     "album": "Cosmic Messenger",
     "src": "https://www.dropbox.com/scl/fi/f43ttgd0tmly2ksoa5um1/JLPCMDLWPYB.mp3?rlkey=ypw56utkxypmtrn2jh5beu626&dl=0&raw=1",
     "duration": "00:06:24",
+    "volume_multiplier": 0.75,
+    "art": "cosmic_messenger.jpg"
+  },
+  "JLPCMEM": {
+    "title": "Egocentric Molecules",
+    "artists": "Jean-Luc Ponty",
+    "album": "Cosmic Messenger",
+    "src": "https://www.dropbox.com/scl/fi/yw2rqoc6rs1x8w07ridjs/JLPCMEM.mp3?rlkey=kmh7iekzvu492hwxfnabikg5y&dl=0&raw=1",
+    "duration": "00:05:45",
     "volume_multiplier": 0.75,
     "art": "cosmic_messenger.jpg"
   },
@@ -313,6 +340,33 @@
     "duration": "00:09:35",
     "volume_multiplier": 0.75,
     "art": "2vrM9ltjKIvNg3nkwXoJuc_Hemispheres.jpg"
+  },
+  "JLPMAMA3": {
+    "title": "Mystical Adventures (Suite), Pt. III",
+    "artists": "Jean-Luc Ponty",
+    "album": "Mystical Adventures",
+    "src": "https://www.dropbox.com/scl/fi/gg9unztrykr31y3tnatds/JLPMAMA3.mp3?rlkey=x0ajsh096yl1jx4hd56op2n7h&dl=0&raw=1",
+    "duration": "00:07:30",
+    "volume_multiplier": 0.75,
+    "art": "mystical_adventures.jpg"
+  },
+  "JLPEOM": {
+    "title": "Mirage",
+    "artists": "Jean-Luc Ponty",
+    "album": "Enigmatic Ocean",
+    "src": "https://www.dropbox.com/scl/fi/0epelo9hglbpdj2chjl1x/JLPEOM.mp3?rlkey=lwy5eb5if2lgkui15f75sfs0g&dl=0&raw=1",
+    "duration": "00:04:54",
+    "volume_multiplier": 0.75,
+    "art": "enigmatic_ocean.jpg"
+  },
+  "JLPEONL": {
+    "title": "Nostalgic Lady",
+    "artists": "Jean-Luc Ponty",
+    "album": "Enigmatic Ocean",
+    "src": "https://www.dropbox.com/scl/fi/x4gyj7dy03lllal7pw0cr/JLPEONL.mp3?rlkey=1j67f6gd5qjs5qjvdqk1wirs1&dl=0&raw=1",
+    "duration": "00:05:25",
+    "volume_multiplier": 0.75,
+    "art": "enigmatic_ocean.jpg"
   },
   "CSTM": {
     "title": "Missing",
@@ -394,6 +448,24 @@
     "duration": "00:05:14",
     "volume_multiplier": 0.75,
     "art": "6jTcrXW3mOPSDlQrnekktc_801_Live.jpg"
+  },
+  "MOVEBCS": {
+    "title": "Cosmic Strut",
+    "artists": "Mahavishnu Orchestra",
+    "album": "Visions of the Emerald Beyond",
+    "src": "https://www.dropbox.com/scl/fi/21jpjj2p6zj3chpb4pgcy/MOVEBCS.mp3?rlkey=xuywr14dyq8gymw65pazlgecg&dl=0&raw=1",
+    "duration": "00:03:29",
+    "volume_multiplier": 0.75,
+    "art": "visions_emerald_beyond.jpg"
+  },
+  "MOVEBEB2": {
+    "title": "Eternity's Breath, Pt. 2",
+    "artists": "Mahavishnu Orchestra",
+    "album": "Visions of the Emerald Beyond",
+    "src": "https://www.dropbox.com/scl/fi/zcyfpf6gkirl9lqhy606s/MOVEBEB2.mp3?rlkey=6ka774868050ogropv4o3nxcf&dl=0&raw=1",
+    "duration": "00:04:52",
+    "volume_multiplier": 0.75,
+    "art": "visions_emerald_beyond.jpg"
   },
   "MOIMFMS": {
     "title": "Meeting of the Spirits",
@@ -1615,6 +1687,15 @@
     "volume_multiplier": 0.75,
     "art": "0lbpA4dCZfaNhy6LZrGDvJ_El_Jardin_de_los_Presentes.jpg"
   },
+  "SJADA": {
+    "title": "Amenábar",
+    "artists": "Spinetta Jade",
+    "album": "Alma de Diamante",
+    "src": "https://www.dropbox.com/scl/fi/gqzquxeph33urlh236sna/SJADA.mp3?rlkey=5tdljdymepxhfb9fqkf42w8hq&dl=0&raw=1",
+    "duration": "00:05:27",
+    "volume_multiplier": 0.75,
+    "art": "alma_diamante.jpg"
+  },
   "PRACC": {
     "title": "Cementerio Club",
     "artists": "Pescado Rabioso",
@@ -2181,6 +2262,15 @@
     "duration": "00:03:07",
     "volume_multiplier": 0.75,
     "art": "7pdhnkO0t8HiRv4dmggt2I_Los_Angeles.jpg"
+  },
+  "BCOT2M": {
+    "title": "Mukinabaht",
+    "artists": "Boards of Canada",
+    "album": "Old Tunes Vol. 2",
+    "src": "https://www.dropbox.com/scl/fi/542xc9g68n4n5b14929hw/BCOT2M.mp3?rlkey=g6v5o8zrqe0pif9sw8dkij33b&dl=0&raw=1",
+    "duration": "00:05:05",
+    "volume_multiplier": 0.75,
+    "art": "old_tunes.jpg"
   },
   "BCG1969": {
     "title": "1969",
@@ -3679,6 +3769,15 @@
     "duration": "00:06:53",
     "volume_multiplier": 0.75,
     "art": "no_title.jpg"
+  },
+  "ISWW": {
+    "title": "Woolworm",
+    "artists": "Indian Summer",
+    "album": "Giving Birth to Thunder",
+    "src": "https://www.dropbox.com/scl/fi/zwzz3wecxlw7es4b7izgu/ISWW.mp3?rlkey=wyizyj7w74aty612o43hjdbft&dl=0&raw=1",
+    "duration": "00:07:25",
+    "volume_multiplier": 0.75,
+    "art": "giving_birth_to_thunder.jpg"
   },
   "SMZHLUASR": {
     "title": "Stumble Then Rise On Some Awkward Morning",
@@ -10170,6 +10269,15 @@
     "volume_multiplier": 0.75,
     "art": "5jTYZA6b4VoSRnR5TMldgb_Hades_-_Original_Soundtrack.jpg"
   },
+  "OSLTM": {
+    "title": "The Moor",
+    "artists": "Opeth",
+    "album": "Still Life",
+    "src": "https://www.dropbox.com/scl/fi/k5iezdtee4tmj66hjmswi/OSLTM.mp3?rlkey=spm4aj8mnq0yv46jxn5r0w5sc&dl=0&raw=1",
+    "duration": "00:11:27",
+    "volume_multiplier": 0.75,
+    "art": "still_life.jpg"
+  },
   "OGRGP": {
     "title": "Ghost of Perdition",
     "artists": "Opeth",
@@ -13849,6 +13957,15 @@
     "volume_multiplier": 0.75,
     "art": "3knDOJUQBAATXsKYLWO4k8_Homogenic.jpg"
   },
+  "TNMO": {
+    "title": "Onsen",
+    "artists": "Takuya Nakamura",
+    "album": "Michiko",
+    "src": "https://www.dropbox.com/scl/fi/dp9s3xfebcwivyp5q5mst/TNMO.mp3?rlkey=evm6r50qpaxy9efynn8nhxlmh&dl=0&raw=1",
+    "duration": "00:08:03",
+    "volume_multiplier": 0.75,
+    "art": "michiko.jpg"
+  },
   "ATCTDF": {
     "title": "Flim",
     "artists": "Aphex Twin",
@@ -15170,6 +15287,15 @@
     "duration": "00:03:43",
     "volume_multiplier": 0.75,
     "art": "tango_in_the_night.jpg"
+  },
+  "KBHLRUH": {
+    "title": "Running Up That Hill (A Deal with God)",
+    "artists": "Kate Bush",
+    "album": "Hounds of Love",
+    "src": "https://www.dropbox.com/scl/fi/4zwg14xk0jcergye3now8/KBHLRUH.mp3?rlkey=aij3l2w5t0v47glkfy1gvlp5m&dl=0&raw=1",
+    "duration": "00:04:56",
+    "volume_multiplier": 0.75,
+    "art": "hounds_of_love.jpg"
   },
   "SDLSO": {
     "title": "Smooth Operator",
