@@ -1237,6 +1237,15 @@
     "volume_multiplier": 0.75,
     "art": "5fIBtKHWGjbjK9C4i1Z11L_Gaucho.jpg"
   },
+  "SDGTOOM": {
+    "title": "Time Out Of Mind",
+    "artists": "Steely Dan",
+    "album": "Gaucho",
+    "src": "https://www.dropbox.com/scl/fi/l0d97ev6g10gpiaisfr0z/SDGTOOM.mp3?rlkey=zhrb0p46kb9rj95z9u4y4rcmh&dl=0&raw=1",
+    "duration": "00:04:12",
+    "volume_multiplier": 0.75,
+    "art": "5fIBtKHWGjbjK9C4i1Z11L_Gaucho.jpg"
+  },
   "SDCBTDIA": {
     "title": "Do It Again",
     "artists": "Steely Dan",
