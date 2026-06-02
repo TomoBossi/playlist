@@ -197,6 +197,15 @@
     "volume_multiplier": 0.75,
     "art": "masana_temples.jpg"
   },
+  "KMFLCSM": {
+    "title": "Smoke and Mirrors",
+    "artists": "Kikagaku Moyo",
+    "album": "Forest of Lost Children",
+    "src": "https://www.dropbox.com/scl/fi/hqpzrwhpvh1rkol4cy7bh/KMFLCSM.mp3?rlkey=itsuaj8ysovicy5x8viz5gygy&dl=0&raw=1",
+    "duration": "00:07:18",
+    "volume_multiplier": 0.75,
+    "art": "forest_of_lost_children.jpg"
+  },
   "PTDASBNH": {
     "title": "Arriving Somewhere But Not Here",
     "artists": "Porcupine Tree",
@@ -1336,6 +1345,15 @@
     "volume_multiplier": 0.75,
     "art": "fetus.jpg"
   },
+  "DB1OM": {
+    "title": "The Motel",
+    "artists": "David Bowie",
+    "album": "1. Outside",
+    "src": "https://www.dropbox.com/scl/fi/xm7s91e82zlfvs2a1pgoc/DB1OM.mp3?rlkey=n3vxu3644e9x7g5icdcrps3iw&dl=0&raw=1",
+    "duration": "00:06:50",
+    "volume_multiplier": 0.75,
+    "art": "outside.jpg"
+  },
   "ASYCYC": {
     "title": "Year of the Cat",
     "artists": "Al Stewart",
@@ -1938,6 +1956,15 @@
     "duration": "00:06:07",
     "volume_multiplier": 0.75,
     "art": "anecdotas.jpg"
+  },
+  "LMLMDHPRR": {
+    "title": "Rock amd Roll",
+    "artists": "La Maquina De Hacer Pájaros",
+    "album": "La Máquina De Hacer Pájaros",
+    "src": "https://www.dropbox.com/scl/fi/yrqfi76yenu885ilecl3z/LMLMDHPRR.mp3?rlkey=lrdlh12tmrcuo4kise7brf1o2&dl=0&raw=1",
+    "duration": "00:04:08",
+    "volume_multiplier": 0.75,
+    "art": "4uXadaCsBVwLK6s5V14Kjw_La_Máquina_De_Hacer_Pájaros.jpg"
   },
   "LMLMDHPVN": {
     "title": "Como Mata el Viento Norte",
@@ -3355,6 +3382,15 @@
     "duration": "00:07:20",
     "volume_multiplier": 0.75,
     "art": "better.jpg"
+  },
+  "MBBNTSIL": {
+    "title": "Invisible Lady",
+    "artists": "Mingus Big Band",
+    "album": "Nostalgia in Times Square",
+    "src": "https://www.dropbox.com/scl/fi/bsfsmyijzkicmnbp1zcib/MBBNTSIL.mp3?rlkey=yck9m27dnzv68k2v7544ydbv6&dl=0&raw=1",
+    "duration": "00:10:28",
+    "volume_multiplier": 0.75,
+    "art": "nostalgia.jpg"
   },
   "MBBNTSM": {
     "title": "Moanin'",
@@ -7183,6 +7219,15 @@
     "volume_multiplier": 0.75,
     "art": "clowns.jpg"
   },
+  "MHV2H29": {
+    "title": "hero 29 (Frank Hytz - That's Right)",
+    "artists": "Macroblank",
+    "album": "ヒーロー v2",
+    "src": "https://www.dropbox.com/scl/fi/g09nsnbzuplk571gb4uye/MHV2H29.mp3?rlkey=2dknhfcvzepj4awgjnt7vd04j&dl=0&raw=1",
+    "duration": "00:03:00",
+    "volume_multiplier": 0.75,
+    "art": "macroblank_hero.jpg"
+  },
   "MDWKCOD": {
     "title": "call of duty (Gabor Deutsch - Endlessly)",
     "artists": "Macroblank",
@@ -9819,6 +9864,15 @@
     "volume_multiplier": 0.75,
     "art": "4Lp4NxL8v03Mxg3hbAgW1Z_Magnifique.jpg"
   },
+  "MFDSHE": {
+    "title": "Eucalyptus",
+    "artists": "MF DOOM",
+    "album": "Metal Fingers Presents: Special Herbs Vol. 1 & 2",
+    "src": "https://www.dropbox.com/scl/fi/u89d9482nxnjklhurydh0/MFDSHE.mp3?rlkey=gkkbvjdsfp2ym6muga6qfozza&dl=0&raw=1",
+    "duration": "00:02:43",
+    "volume_multiplier": 0.75,
+    "art": "special_herbs.jpg"
+  },
   "JB1999SK": {
     "title": "Summer Knights",
     "artists": "Joey Bada$$",
@@ -12399,6 +12453,15 @@
     "duration": "00:02:07",
     "volume_multiplier": 0.75,
     "art": "6NrJzDuBPZvp3ZRXnIqs1P_NARUTO_-ナルト-_オリジナルサウンドトラック.jpg"
+  },
+  "AAW": {
+    "title": "Wind",
+    "artists": "Akeboshi",
+    "album": "Akeboshi",
+    "src": "https://www.dropbox.com/scl/fi/f8v9nctug0xvd4mz9pw6y/AAW.mp3?rlkey=vvaygr1eg8bwxfxh1hsrrs446&dl=0&raw=1",
+    "duration": "00:03:40",
+    "volume_multiplier": 0.75,
+    "art": "akeboshi.jpg"
   },
   "MPN2ST": {
     "title": "サスケのテーマ",
@@ -15323,6 +15386,15 @@
     "duration": "00:05:15",
     "volume_multiplier": 0.75,
     "art": "we_cant_fall_in_love.jpg"
+  },
+  "FMRD": {
+    "title": "Dreams",
+    "artists": "Fleetwood Mac",
+    "album": "Rumours",
+    "src": "https://www.dropbox.com/scl/fi/1lktrfwftjbb8au6u2r90/FMRD.mp3?rlkey=f9b83h2am9nme7snnia77vayf&dl=0&raw=1",
+    "duration": "00:04:17",
+    "volume_multiplier": 0.75,
+    "art": "rumours.jpg"
   },
   "JRSCSC": {
     "title": "Space Cowboy",
