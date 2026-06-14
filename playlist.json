@@ -1723,6 +1723,15 @@
     "volume_multiplier": 0.75,
     "art": "alma_diamante.jpg"
   },
+  "SJLNQECUVC": {
+    "title": "Un Viento Celeste",
+    "artists": "Spinetta Jade",
+    "album": "Los Niños Que Escriben en el Cielo",
+    "src": "https://www.dropbox.com/scl/fi/82slzfnkmhrrh7y3jff2g/SJLNQECUVC.mp3?rlkey=ntx7j6w2yic8t40df0mse7vqy&dl=0&raw=1",
+    "duration": "00:06:46",
+    "volume_multiplier": 0.75,
+    "art": "escriben_cielo.jpg"
+  },
   "PRACC": {
     "title": "Cementerio Club",
     "artists": "Pescado Rabioso",
@@ -3824,6 +3833,15 @@
     "volume_multiplier": 0.75,
     "art": "giving_birth_to_thunder.jpg"
   },
+  "GSUADBITV": {
+    "title": "Dry Bones In the Valley (I Saw the Light Come Shining 'Round and 'Round)",
+    "artists": "Gastr del Sol",
+    "album": "Upgrade & Afterlife",
+    "src": "https://www.dropbox.com/scl/fi/q95mtis94rto66iu8f8e6/GSUADBITV.mp3?rlkey=k0lltvu7f63332x8zwm0tfdof&dl=0&raw=1",
+    "duration": "00:12:28",
+    "volume_multiplier": 0.75,
+    "art": "upgrade_afterlife.jpg"
+  },
   "SMZHLUASR": {
     "title": "Stumble Then Rise On Some Awkward Morning",
     "artists": "Silver Mt. Zion",
@@ -3860,6 +3878,35 @@
     "volume_multiplier": 0.75,
     "art": "67SW4MpjN2TWN2xj0k0UUP_Horses_In_The_Sky.jpg"
   },
+  "TTSETR": {
+    "title": "The Rainbow",
+    "artists": "Talk Talk",
+    "album": "Spirit of Eden",
+    "src": "https://www.dropbox.com/scl/fi/orbjnx0u0zzphlgt4s688/TTSESA.flac?rlkey=22gd4uha692y6azv28xplodwy&dl=0&raw=1",
+    "end": "00:09:05",
+    "volume_multiplier": 0.75,
+    "art": "spirit_of_eden.jpg"
+  },
+  "TTSEE": {
+    "title": "Eden",
+    "artists": "Talk Talk",
+    "album": "Spirit of Eden",
+    "src": "https://www.dropbox.com/scl/fi/orbjnx0u0zzphlgt4s688/TTSESA.flac?rlkey=22gd4uha692y6azv28xplodwy&dl=0&raw=1",
+    "start": "00:09:05",
+    "end": "00:15:41",
+    "volume_multiplier": 0.75,
+    "art": "spirit_of_eden.jpg"
+  },
+  "TTSED": {
+    "title": "Desire",
+    "artists": "Talk Talk",
+    "album": "Spirit of Eden",
+    "src": "https://www.dropbox.com/scl/fi/orbjnx0u0zzphlgt4s688/TTSESA.flac?rlkey=22gd4uha692y6azv28xplodwy&dl=0&raw=1",
+    "duration": "00:22:40.8",
+    "start": "00:15:41",
+    "volume_multiplier": 0.75,
+    "art": "spirit_of_eden.jpg"
+  },
   "TTSEI": {
     "title": "Inheritance",
     "artists": "Talk Talk",
@@ -3867,7 +3914,25 @@
     "src": "https://www.dropbox.com/scl/fi/k62p1n7zmc756mok0jqti/TTSEI.flac?rlkey=f2agoklevbu5epu1op4l955ah&dl=0&raw=1",
     "duration": "00:05:11",
     "volume_multiplier": 0.75,
-    "art": "4YXo7p7aubyVIbNLoVlBp9_Spirit_of_Eden.jpg"
+    "art": "spirit_of_eden.jpg"
+  },
+  "TTSEIBIY": {
+    "title": "I Believe in You",
+    "artists": "Talk Talk",
+    "album": "Spirit of Eden",
+    "src": "https://www.dropbox.com/scl/fi/umjdxu6qs5stcd4ncq51e/TTSEIBIY.mp3?rlkey=jyw2niq5733i93lsdphuo16y7&dl=0&raw=1",
+    "duration": "00:06:01",
+    "volume_multiplier": 0.75,
+    "art": "spirit_of_eden.jpg"
+  },
+  "TTSEW": {
+    "title": "Wealth",
+    "artists": "Talk Talk",
+    "album": "Spirit of Eden",
+    "src": "https://www.dropbox.com/scl/fi/8f5d0gi1utb3f1u5nfn8p/TTSEW.mp3?rlkey=3el7fma4a18fhbzpgm8ykc6sw&dl=0&raw=1",
+    "duration": "00:06:44",
+    "volume_multiplier": 0.75,
+    "art": "spirit_of_eden.jpg"
   },
   "TTMLTS": {
     "title": "Tomorrow Started",
@@ -7228,6 +7293,15 @@
     "volume_multiplier": 0.75,
     "art": "macroblank_hero.jpg"
   },
+  "MOYY": {
+    "title": "ゆ。ゆ (Kool&Klean - New Life)",
+    "artists": "Macroblank",
+    "album": "記憶ONLINE",
+    "src": "https://www.dropbox.com/scl/fi/kapmxs0tjiy7oeqk4kij4/MOYY.mp3?rlkey=seuy57jwxmomht6h74kuimt4s&dl=0&raw=1",
+    "duration": "00:05:01",
+    "volume_multiplier": 0.75,
+    "art": "online.jpg"
+  },
   "MDWKCOD": {
     "title": "call of duty (Gabor Deutsch - Endlessly)",
     "artists": "Macroblank",
@@ -8666,6 +8740,15 @@
     "duration": "00:07:02",
     "volume_multiplier": 0.75,
     "art": "2dsmGxE74ufKZgSFpEMxel_Stone_Flower_(CTI_Records_40th_Anniversary_Edition).jpg"
+  },
+  "CBCC": {
+    "title": "Construção",
+    "artists": "Chico Buarque",
+    "album": "Construção",
+    "src": "https://www.dropbox.com/scl/fi/qqjn7itg1fcwesqlnb70i/CBCC.mp3?rlkey=bjx7sgf6zzgv08q763tq9o71h&dl=0&raw=1",
+    "duration": "00:06:24",
+    "volume_multiplier": 0.75,
+    "art": "construcao.jpg"
   },
   "SMB66SMB66MQN": {
     "title": "Mais Que Nada",
@@ -10338,6 +10421,33 @@
     "album": "Still Life",
     "src": "https://www.dropbox.com/scl/fi/k5iezdtee4tmj66hjmswi/OSLTM.mp3?rlkey=spm4aj8mnq0yv46jxn5r0w5sc&dl=0&raw=1",
     "duration": "00:11:27",
+    "volume_multiplier": 0.75,
+    "art": "still_life.jpg"
+  },
+  "OSLGL": {
+    "title": "Godhead's Lament",
+    "artists": "Opeth",
+    "album": "Still Life",
+    "src": "https://www.dropbox.com/scl/fi/zk9hfyq2iv4ust2j3f4pz/OSLGL.mp3?rlkey=zp7q9al5xro7115qkzfgg5n6b&dl=0&raw=1",
+    "duration": "00:09:48",
+    "volume_multiplier": 0.75,
+    "art": "still_life.jpg"
+  },
+  "OSLB": {
+    "title": "Benighted",
+    "artists": "Opeth",
+    "album": "Still Life",
+    "src": "https://www.dropbox.com/scl/fi/b15hwl8zoqi0u6rhh459a/OSLB.mp3?rlkey=ejwo1fcbv9613jn6tf2qxuokz&dl=0&raw=1",
+    "duration": "00:05:00",
+    "volume_multiplier": 0.75,
+    "art": "still_life.jpg"
+  },
+  "OSLWC": {
+    "title": "White Cluster",
+    "artists": "Opeth",
+    "album": "Still Life",
+    "src": "https://www.dropbox.com/scl/fi/o0u09czdlx2apxgrmevyf/OSLWC.mp3?rlkey=ag0fh32pdspu3y4mphqqr5ybk&dl=0&raw=1",
+    "duration": "00:10:05",
     "volume_multiplier": 0.75,
     "art": "still_life.jpg"
   },
@@ -13773,8 +13883,8 @@
     "title": "本多工務店のテーマ",
     "artists": "SHIBUSASHIRAZU",
     "album": "渋星",
-    "src": "https://www.dropbox.com/scl/fi/sq5og350fdjn19iykhp43/SSSBTHK.mp3?rlkey=8u333kx1tqb1bbt0qmy9xfd7x&dl=0&raw=1",
-    "duration": "00:08:06",
+    "src": "https://www.dropbox.com/scl/fi/ujiry08730ot4b0taoszm/SSSBTHK.flac?rlkey=zqpmsnzg993xci646s8bum569&dl=0&raw=1",
+    "duration": "00:08:15",
     "volume_multiplier": 0.75,
     "art": "19ep9N2BtcRvx9wBdvNCT0_渋星.jpg"
   },
@@ -15935,6 +16045,15 @@
     "duration": "00:08:04",
     "volume_multiplier": 0.75,
     "art": "breezin.jpg"
+  },
+  "GBIFTWIAG": {
+    "title": "The World Is a Ghetto",
+    "artists": "George Benson",
+    "album": "In Flight",
+    "src": "https://www.dropbox.com/scl/fi/1a4ucfifvg8hsk69up90g/GBIFTWIAG.mp3?rlkey=ds5rco61qf9r7zueyw5zod5p6&dl=0&raw=1",
+    "duration": "00:09:43",
+    "volume_multiplier": 0.75,
+    "art": "in_flight.jpg"
   },
   "HHHHC": {
     "title": "Chameleon",
