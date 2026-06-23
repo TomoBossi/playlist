@@ -314,6 +314,15 @@
     "volume_multiplier": 0.75,
     "art": "2vrM9ltjKIvNg3nkwXoJuc_Hemispheres.jpg"
   },
+  "OPCMASB": {
+    "title": "Moon Above, Sun Below",
+    "artists": "Opeth",
+    "album": "Pale Communion",
+    "src": "https://www.dropbox.com/scl/fi/nlt7a318eve1nh4td2bfy/OPCMASB.mp3?rlkey=ufhq96rx42tw3ilniez6m953w&dl=0&raw=1",
+    "duration": "00:10:52",
+    "volume_multiplier": 0.75,
+    "art": "pale_communion.jpg"
+  },
   "JLPCMCM": {
     "title": "Cosmic Messenger",
     "artists": "Jean-Luc Ponty",
@@ -2503,6 +2512,15 @@
     "album": "Blonde",
     "src": "https://www.dropbox.com/scl/fi/4g4r9y39ykc3v59l8n8tn/FOBPS.mp3?rlkey=w5ysuiokiumvmyqturf93tinv&dl=0&raw=1",
     "duration": "00:02:38",
+    "volume_multiplier": 0.75,
+    "art": "3mH6qwIy9crq0I9YQbOuDf_Blonde.jpg"
+  },
+  "FOBPW": {
+    "title": "Pink + White",
+    "artists": "Frank Ocean",
+    "album": "Blonde",
+    "src": "https://www.dropbox.com/scl/fi/k7qip3i7yg08iclww7qrq/FOBPW.mp3?rlkey=4fv9n65bnq849zm6vrgzmfsas&dl=0&raw=1",
+    "duration": "00:03:04",
     "volume_multiplier": 0.75,
     "art": "3mH6qwIy9crq0I9YQbOuDf_Blonde.jpg"
   },
@@ -7292,6 +7310,15 @@
     "duration": "00:03:00",
     "volume_multiplier": 0.75,
     "art": "macroblank_hero.jpg"
+  },
+  "MOILET": {
+    "title": "敵地 (Headphone Candy - Where's My Soul?)",
+    "artists": "Macroblank",
+    "album": "一生に一度",
+    "src": "https://www.dropbox.com/scl/fi/xzf87w57q57e9ph6u2kwp/MOILET.mp3?rlkey=q04yjee5fajv6dacy6eibjyqc&dl=0&raw=1",
+    "duration": "00:04:44",
+    "volume_multiplier": 0.75,
+    "art": "once_in_a_lifetime.jpg"
   },
   "MOYY": {
     "title": "ゆ。ゆ (Kool&Klean - New Life)",
@@ -14505,6 +14532,15 @@
     "duration": "00:02:00",
     "volume_multiplier": 0.75,
     "art": "argentinian_aphex_twin.jpg"
+  },
+  "GSTIMPSL": {
+    "title": "I make plans, she laughs",
+    "artists": "GENDEMA",
+    "album": "sassy things",
+    "src": "https://www.dropbox.com/scl/fi/sfv8vwixuofo0smk9bvkg/GSTIMPSL.mp3?rlkey=c46qej80d25bfih9hwy3gmbsw&dl=0&raw=1",
+    "duration": "00:06:17",
+    "volume_multiplier": 0.75,
+    "art": "sassy_things.jpg"
   },
   "GKAOWKBH": {
     "title": "Browser History",
