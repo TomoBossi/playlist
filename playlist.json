@@ -14542,6 +14542,24 @@
     "volume_multiplier": 0.75,
     "art": "sassy_things.jpg"
   },
+  "GSTSLAS": {
+    "title": "sporty like a Supra",
+    "artists": "GENDEMA",
+    "album": "sassy things",
+    "src": "https://www.dropbox.com/scl/fi/q1484fbexlhrhv367uuno/GSTSLAS.mp3?rlkey=r9iji4305bc04o6jjustcgpf5&dl=0&raw=1",
+    "duration": "00:05:06",
+    "volume_multiplier": 0.75,
+    "art": "sassy_things.jpg"
+  },
+  "GSTMBM": {
+    "title": "modern black music",
+    "artists": "GENDEMA",
+    "album": "sassy things",
+    "src": "https://www.dropbox.com/scl/fi/vc25sb5jlklkavkh25e9j/GSTMBM.mp3?rlkey=1f9qho5rtp8kiz82ntlpninos&dl=0&raw=1",
+    "duration": "00:04:02",
+    "volume_multiplier": 0.75,
+    "art": "sassy_things.jpg"
+  },
   "GKAOWKBH": {
     "title": "Browser History",
     "artists": "Graham Kartna",
