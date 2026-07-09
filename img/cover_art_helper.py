@@ -11,7 +11,7 @@ def resize_image(filename: str, image: Image, size: int, file_name_array: list[s
 
 if __name__ == "__main__":
     img_directory = "./img/cover_art/"
-    file_name_array = [os.path.join(img_directory, file_name) for file_name in os.listdir(img_directory)]
+    file_name_array = [os.path.join(img_directory, file_name) for file_name in os.listdir(img_directory) if file_name.endswith(".jpg")]
     sizes = [440, 50]
     for counter, f in enumerate(file_name_array):
         img = Image.open(f)
