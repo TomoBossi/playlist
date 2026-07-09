@@ -14560,6 +14560,51 @@
     "volume_multiplier": 0.75,
     "art": "sassy_things.jpg"
   },
+  "GBRC": {
+    "title": "Relentless compassion",
+    "artists": "GENDEMA",
+    "album": "Baumaso",
+    "src": "https://www.dropbox.com/scl/fi/5xq6v7elxikigzy39k47b/GBRC.mp3?rlkey=dvkmv4tt2x60eorz5bdikzryo&dl=0&raw=1",
+    "duration": "00:03:54",
+    "volume_multiplier": 0.75,
+    "art": "baumaso.jpg"
+  },
+  "GBADA": {
+    "title": "A discreet applause",
+    "artists": "GENDEMA",
+    "album": "Baumaso",
+    "src": "https://www.dropbox.com/scl/fi/wzydts12qrf5s7pqmem4w/GBADA.mp3?rlkey=qbidia67ybha7qeeoapfy91zg&dl=0&raw=1",
+    "duration": "00:04:08",
+    "volume_multiplier": 0.75,
+    "art": "baumaso.jpg"
+  },
+  "GB27D": {
+    "title": "27 Deserts",
+    "artists": "GENDEMA",
+    "album": "Baumaso",
+    "src": "https://www.dropbox.com/scl/fi/04cp8mjwme7o0wpvp9b2a/GB27D.mp3?rlkey=65lp46kngjqfj6qpmg7qcx7eu&dl=0&raw=1",
+    "duration": "00:04:53",
+    "volume_multiplier": 0.75,
+    "art": "baumaso.jpg"
+  },
+  "GBASOHN": {
+    "title": "A single oasis (How nice)",
+    "artists": "GENDEMA",
+    "album": "Baumaso",
+    "src": "https://www.dropbox.com/scl/fi/p6vpx8zcrvduvhetikxvf/GBASOHN.mp3?rlkey=ifdnzhnb94qomym6an3nkk0o0&dl=0&raw=1",
+    "duration": "00:04:24",
+    "volume_multiplier": 0.75,
+    "art": "baumaso.jpg"
+  },
+  "GBTM": {
+    "title": "Triumphant metaphysics",
+    "artists": "GENDEMA",
+    "album": "Baumaso",
+    "src": "https://www.dropbox.com/scl/fi/weyz9ugfgkw0p5clgb8vx/GBTM.mp3?rlkey=c7dpqzrypphasylkrkrktxmxr&dl=0&raw=1",
+    "duration": "00:05:00",
+    "volume_multiplier": 0.75,
+    "art": "baumaso.jpg"
+  },
   "GKAOWKBH": {
     "title": "Browser History",
     "artists": "Graham Kartna",
