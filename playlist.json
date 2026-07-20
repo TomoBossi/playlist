@@ -5582,6 +5582,15 @@
     "volume_multiplier": 0.75,
     "art": "phd.jpg"
   },
+  "2MLSLL": {
+    "title": "Love Lightside",
+    "artists": "2 Mello",
+    "album": "Love Sickubus 2-Pak",
+    "src": "https://www.dropbox.com/scl/fi/1ezb9qbz778jotdlo81jg/2MLSLL.mp3?rlkey=um6trdq1cvp8r67hne0lw8f59&dl=0&raw=1",
+    "duration": "00:02:51",
+    "volume_multiplier": 0.75,
+    "art": "love_sickubus.jpg"
+  },
   "2MSIWK": {
     "title": "I Wanna Kno",
     "artists": "2 Mello",
@@ -14156,6 +14165,15 @@
     "duration": "00:04:59",
     "volume_multiplier": 0.75,
     "art": "66HnmIVMiWHUbDJouofVon_Toronto_3_-16.jpg"
+  },
+  "TNTH": {
+    "title": "Haluci",
+    "artists": "Neil Voss",
+    "album": "The New Tetris OST",
+    "src": "https://www.dropbox.com/scl/fi/j2f2z2ce7rnia2mlcgoaj/TNTH.mp3?rlkey=lw98fsfq8sywm26u7yysj3esa&dl=0&raw=1",
+    "duration": "00:03:01",
+    "volume_multiplier": 0.75,
+    "art": "thenewtetris.jpg"
   },
   "BHH": {
     "title": "Hunter",
