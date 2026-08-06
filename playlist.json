@@ -5573,6 +5573,33 @@
     "volume_multiplier": 0.75,
     "art": "tokyo_memories_2_mello.jpg"
   },
+  "2MTYCRI": {
+    "title": "Cold Rock It",
+    "artists": "2 Mello",
+    "album": "this year I lose my mind",
+    "src": "https://www.dropbox.com/scl/fi/ym4w450daloqfwu47u7li/2MTYCRI.mp3?rlkey=7n7m34m8bq6k3nzkxpuvlkdc7&dl=0&raw=1",
+    "duration": "00:04:20",
+    "volume_multiplier": 0.75,
+    "art": "this_year_i_lose_my_mind.jpg"
+  },
+  "2MTYML": {
+    "title": "Magic Loop",
+    "artists": "2 Mello",
+    "album": "this year I lose my mind",
+    "src": "https://www.dropbox.com/scl/fi/upgyks8deypbc049zzpsn/2MTYML.mp3?rlkey=se1wviq1kcbh1s5vxakpowqc2&dl=0&raw=1",
+    "duration": "00:03:48",
+    "volume_multiplier": 0.75,
+    "art": "this_year_i_lose_my_mind.jpg"
+  },
+  "2MTFFT": {
+    "title": "Foot Traffic",
+    "artists": "2 Mello",
+    "album": "Trunk Fiction",
+    "src": "https://www.dropbox.com/scl/fi/dawgrjuvmldev0c8bv987/2MTFFT.mp3?rlkey=fjzhjc7be2e0y2y0v4h8t58rb&dl=0&raw=1",
+    "duration": "00:05:06",
+    "volume_multiplier": 0.75,
+    "art": "trunk_fiction.jpg"
+  },
   "2MPHDRNR": {
     "title": "rainy nite rhapsody",
     "artists": "2 Mello",
@@ -9434,6 +9461,15 @@
     "volume_multiplier": 0.75,
     "art": "jungle_fatigue3.jpg"
   },
+  "ZBIOS": {
+    "title": "BIOS",
+    "artists": "Zorrovian",
+    "album": "BIOS",
+    "src": "https://www.dropbox.com/scl/fi/ktofu4vamtnhqzh78z23y/ZBIOS.mp3?rlkey=mo503ekc4h50mkpfecftmdl4y&dl=0&raw=1",
+    "duration": "00:05:13",
+    "volume_multiplier": 0.75,
+    "art": "bios.jpg"
+  },
   "PHLSLS": {
     "title": "LEVEL SELECT",
     "artists": "Pizza Hotline",
@@ -9451,6 +9487,15 @@
     "end": "00:09:42.0",
     "volume_multiplier": 0.75,
     "art": "venus.jpg"
+  },
+  "RPDYK": {
+    "title": "Don't You Know",
+    "artists": "Rowpieces",
+    "album": "Don't You Know / The Ninetees Spirit",
+    "src": "https://www.dropbox.com/scl/fi/wd9gbebgy8znvxxtm5nia/RPDYK.mp3?rlkey=yeny3xmf451b5ftbbgwutcmaq&dl=0&raw=1",
+    "duration": "00:09:39",
+    "volume_multiplier": 0.75,
+    "art": "dont_you_know.jpg"
   },
   "NTHM3B": {
     "title": "Breathless (Blaze - Breathe)",
@@ -9596,6 +9641,15 @@
     "volume_multiplier": 0.75,
     "art": "1080_snowboarding.jpg"
   },
+  "SJ95LX777": {
+    "title": "LX-777 (Lunar Data)",
+    "artists": "Starjunk 95",
+    "album": "LX-777 (Lunar Data)",
+    "src": "https://www.dropbox.com/scl/fi/9u0nfsicluffpo10kdd51/SJ95LX777.mp3?rlkey=f3wishi0mj7tckgp0tzb8lksf&dl=0&raw=1",
+    "duration": "00:02:44",
+    "volume_multiplier": 0.75,
+    "art": "lx777.jpg"
+  },
   "HOSFIII2CS": {
     "title": "Crowded Street (Yang's theme)",
     "artists": "Hideki Okugawa",
@@ -9658,6 +9712,15 @@
     "duration": "00:03:22",
     "volume_multiplier": 0.75,
     "art": "brat.jpg"
+  },
+  "PTFOO": {
+    "title": "on & on",
+    "artists": "piri, Tommy Villiers",
+    "album": "froge.mp3",
+    "src": "https://www.dropbox.com/scl/fi/hgr76ajdh92l485w4gp6j/PTFOO.mp3?rlkey=ioj39s6upxzr5ys9blu6h55rp&dl=0&raw=1",
+    "duration": "00:02:15",
+    "volume_multiplier": 0.75,
+    "art": "froge.jpg"
   },
   "IEAA": {
     "title": "anaesthesia",
@@ -14148,6 +14211,15 @@
     "volume_multiplier": 0.75,
     "art": "june_chikuma_bomberman_hero_ost.jpg"
   },
+  "DOBPHDYT": {
+    "title": "how do you think?",
+    "artists": "Date of Birth",
+    "album": "PLANET DOB",
+    "src": "https://www.dropbox.com/scl/fi/c8445veonwkrssnc9lcaj/DOBPHDYT.mp3?rlkey=w6472w8nl0fx7vlfipqs6ju81&dl=0&raw=1",
+    "duration": "00:06:07",
+    "volume_multiplier": 0.75,
+    "art": "planet_dob.jpg"
+  },
   "OSLSDRCOA": {
     "title": "Come On And (Outassmao Mix)",
     "artists": "OSAMU SATO",
@@ -14327,6 +14399,15 @@
     "duration": "00:03:34",
     "volume_multiplier": 0.75,
     "art": "stay_up_late.jpg"
+  },
+  "EMA10HOMB": {
+    "title": "About 10 Hours of Making Breakcore",
+    "artists": "Emray",
+    "album": "Emray",
+    "src": "https://www.dropbox.com/scl/fi/8dniwti5a1a9nvg7rbzx0/EMA10HOMB.mp3?rlkey=iqz4jfsh5ebhzj476263d2856&dl=0&raw=1",
+    "duration": "00:03:22",
+    "volume_multiplier": 0.75,
+    "art": "emray.jpg"
   },
   "TAFE": {
     "title": "E t h e r e a l",
@@ -14694,6 +14775,24 @@
     "duration": "00:03:06",
     "volume_multiplier": 0.75,
     "art": "1xbcqJ0EAMxyGyffMzO8rL_Wlfgrl.jpg"
+  },
+  "S777NROACF": {
+    "title": "remains of a corrupted file",
+    "artists": "s777n",
+    "album": "remains of a corrupted file",
+    "src": "https://www.dropbox.com/scl/fi/2hu4foyf5bniat61sdze7/S777NROACF.mp3?rlkey=yagd75ofgvp17przz0u66m1p2&dl=0&raw=1",
+    "duration": "00:03:36",
+    "volume_multiplier": 0.75,
+    "art": "corrupted_file.jpg"
+  },
+  "ASCB": {
+    "title": "binary",
+    "artists": "ASC",
+    "album": "binary",
+    "src": "https://www.dropbox.com/scl/fi/73ppoju7zqg5zabwwdx11/ASCB.mp3?rlkey=ez8fa1i53kqcmuj0f1k8p4kef&dl=0&raw=1",
+    "duration": "00:03:44",
+    "volume_multiplier": 0.75,
+    "art": "binary.jpg"
   },
   "PWWB": {
     "title": "windows breakcore",
@@ -15189,6 +15288,96 @@
     "end": "00:41:11.0",
     "volume_multiplier": 0.75,
     "art": "5K4YFkTizFoMOyN5Khfp7G_98.12.28_男達の別れ_(Live).jpg"
+  },
+  "BKBEL": {
+    "title": "Everlasting Light",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/jg8yickxu0t5l5npcrp0y/BKBEL.mp3?rlkey=4nefrgqs2etltdtux9s0dkxcx&dl=0&raw=1",
+    "duration": "00:03:25",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBSLG": {
+    "title": "She's Long Gone",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/g6c761uq7quhds7ubtbcw/BKBSLG.mp3?rlkey=nddhgxfm84u6bhm6q4ut9nym0&dl=0&raw=1",
+    "duration": "00:03:06",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBBM": {
+    "title": "Black Mud",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/482oknfzfs81eh2y1yw0y/BKBBM.mp3?rlkey=b9yytc4xxe9qmayld7ige1dhf&dl=0&raw=1",
+    "duration": "00:02:09",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBTOO": {
+    "title": "The Only One",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/wbo4ub9e16159qkm7fy2p/BKBTOO.mp3?rlkey=ryiiesqpjxckga5i0phy7in4q&dl=0&raw=1",
+    "duration": "00:05:01",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBTATLY": {
+    "title": "Too Afraid to Love You",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/s62ttquezyvc8erc722nt/BKBTATLY.mp3?rlkey=jj0jm94dppev6ey6r8l7ujgk7&dl=0&raw=1",
+    "duration": "00:03:25",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBTCP": {
+    "title": "Ten Cent Pistol",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/1t8unts6zi5l7k8g49phx/BKBTCP.mp3?rlkey=lsdlwjcn5gvejwx07w6guagsi&dl=0&raw=1",
+    "duration": "00:04:30",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBSK": {
+    "title": "Sinister Kid",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/nyu5gpu4o47hhs9c2m1oo/BKBSK.mp3?rlkey=12jg0epyjxfy0wvdf4vvpp334&dl=0&raw=1",
+    "duration": "00:03:44",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBTGG": {
+    "title": "The Go Getter",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/gkfh1ra0k4tvnnyf2plqn/BKBTGG.mp3?rlkey=kjdl2wtt2j7paanq5ahop6p69&dl=0&raw=1",
+    "duration": "00:03:37",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBINTO": {
+    "title": "I'm Not the One",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/4l9wgeqftdhnw5w28wrz9/BKBINTO.mp3?rlkey=war0nf9muwycca6jqct5xpmjp&dl=0&raw=1",
+    "duration": "00:03:49",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
+  },
+  "BKBUB": {
+    "title": "Unknown Brother",
+    "artists": "The Black Keys",
+    "album": "Brothers",
+    "src": "https://www.dropbox.com/scl/fi/0bv6hi5ojff05kv29etz5/BKBUB.mp3?rlkey=719pe6s7cl7byrpgnqsmi15op&dl=0&raw=1",
+    "duration": "00:04:00",
+    "volume_multiplier": 0.75,
+    "art": "7lhJVTvqL3QbwGN12QLiVj_Brothers_(Deluxe_Remastered_Anniversary_Edition).jpg"
   },
   "LENG": {
     "title": "New Girl",
