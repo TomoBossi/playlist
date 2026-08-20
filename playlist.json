@@ -5645,6 +5645,15 @@
     "volume_multiplier": 0.75,
     "art": "macrochasmic.jpg"
   },
+  "BSLR": {
+    "title": "LET'SROCKET!!",
+    "artists": "BONESAW",
+    "album": "LET'SROCKET!!",
+    "src": "https://www.dropbox.com/scl/fi/dch2x9m0i8pb7y8qtuxj3/BSLR.mp3?rlkey=ilwuho2yu0x8vo5dadsi68ku5&dl=0&raw=1",
+    "duration": "00:03:14",
+    "volume_multiplier": 0.75,
+    "art": "letsrocket.jpg"
+  },
   "HNLLBFB": {
     "title": "AIN'T NOTHIN' LIKE A FUNKY BEAT",
     "artists": "Hideki Naganuma",
@@ -5662,6 +5671,15 @@
     "duration": "00:02:56",
     "volume_multiplier": 0.75,
     "art": "discopup.jpg"
+  },
+  "KVBODV2": {
+    "title": "Ordinary Days V2",
+    "artists": "Klaus Veen",
+    "album": "Lethal League Blaze OST",
+    "src": "https://www.dropbox.com/scl/fi/kq981rqexx69te9jl3x4l/KVBODV2.mp3?rlkey=k50h8h0db3jb5fx6h4sv9vfc5&dl=0&raw=1",
+    "duration": "00:05:56",
+    "volume_multiplier": 0.75,
+    "art": "blaze.jpg"
   },
   "FFNSRCS": {
     "title": "The City Streets (Posh Version)",
@@ -14775,6 +14793,15 @@
     "duration": "00:02:18",
     "volume_multiplier": 0.75,
     "art": "5dkVASayX6wbSxD3ZWWsuB_Angel.jpg"
+  },
+  "BDTSR20DET": {
+    "title": "SR20DET",
+    "artists": "BLKSMIITH",
+    "album": "「DIGITAL TWIN」",
+    "src": "https://www.dropbox.com/scl/fi/rrl37a1x77qjeo8yfbj3o/BDTSR20DET.mp3?rlkey=o8m4l3sefjuncwz23zvi2nb9b&dl=0&raw=1",
+    "duration": "00:04:38",
+    "volume_multiplier": 0.75,
+    "art": "digital_twin.jpg"
   },
   "PAVV": {
     "title": "Vortex",
