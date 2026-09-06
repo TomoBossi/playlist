@@ -7716,6 +7716,15 @@
     "volume_multiplier": 0.75,
     "art": "dreamer.jpg"
   },
+  "CDT6": {
+    "title": "Track 6",
+    "artists": "Yuji Takenouchi",
+    "album": "ChainDive OST",
+    "src": "https://www.dropbox.com/scl/fi/ng55b9cosasmg6i3lv2e5/CDT6.mp3?rlkey=8oqkz26ujghqzkozco6k1003i&dl=0&raw=1",
+    "duration": "00:02:16",
+    "volume_multiplier": 0.95,
+    "art": "chaindive.jpg"
+  },
   "DSFW@NNWDEH": {
     "title": "Eternal Hope",
     "artists": "desert sand feels warm at night",
@@ -9658,6 +9667,15 @@
     "duration": "00:03:28",
     "volume_multiplier": 0.75,
     "art": "ridge.jpg"
+  },
+  "CDT24": {
+    "title": "Track 24",
+    "artists": "Yuji Takenouchi",
+    "album": "ChainDive OST",
+    "src": "https://www.dropbox.com/scl/fi/b44lzbwpb258dtwdcn4jj/CDT24.mp3?rlkey=56e4fxxfbkxkwrm1zv8aj6i1q&dl=0&raw=1",
+    "duration": "00:11:15",
+    "volume_multiplier": 0.75,
+    "art": "chaindive.jpg"
   },
   "KN1080SWO": {
     "title": "White Out",
@@ -14381,6 +14399,15 @@
     "duration": "00:03:49",
     "volume_multiplier": 0.75,
     "art": "orphans.jpg"
+  },
+  "CDT1": {
+    "title": "Track 1",
+    "artists": "Yuji Takenouchi",
+    "album": "ChainDive OST",
+    "src": "https://www.dropbox.com/scl/fi/hw2ue7xyv5nstcvp788sp/CDT1.mp3?rlkey=yz2p6zw3xzsu7ey0gqgtmugbv&dl=0&raw=1",
+    "duration": "00:11:08",
+    "volume_multiplier": 0.75,
+    "art": "chaindive.jpg"
   },
   "FLPGWKYCW": {
     "title": "Kill Your Co-Workers",
