@@ -14276,21 +14276,21 @@
   },
   "OSLSDRCOA": {
     "title": "Come On And (Outassmao Mix)",
-    "artists": "OSAMU SATO",
+    "artists": "Osamu Sato",
     "album": "LSD REVAMPED",
     "src": "https://www.dropbox.com/scl/fi/rh3bqn5vt8fipt6eve5kx/OSLSDRCOA.mp3?rlkey=zxxvp2urs3487f9f1ciqj47rn&dl=0&raw=1",
     "duration": "00:08:15",
     "volume_multiplier": 0.75,
     "art": "64bxyp9wXiTmyv0r5yYSHN_LSD_REVAMPED.jpg"
   },
-  "SDT3T3": {
-    "title": "Toronto 3:16",
-    "artists": "Suburban Dream",
-    "album": "Toronto 3:16",
-    "src": "https://www.dropbox.com/scl/fi/iks8o6lheht90ie7oul5u/SDT3T3.mp3?rlkey=ssnu8hwavvnpaawrawkhjff2g&dl=0&raw=1",
-    "duration": "00:04:59",
+  "OSTTN": {
+    "title": "Tong-Nou",
+    "artists": "Osamu Sato",
+    "album": "Transmigration",
+    "src": "https://www.dropbox.com/scl/fi/nnto5dgjg01f5rv776fi5/OSTTN.mp3?rlkey=bvrrczm4k3mv3ipff9ii5gwx2&dl=0&raw=1",
+    "duration": "00:04:29",
     "volume_multiplier": 0.75,
-    "art": "66HnmIVMiWHUbDJouofVon_Toronto_3_-16.jpg"
+    "art": "transmigration.jpg"
   },
   "TNTH": {
     "title": "Haluci",
@@ -14300,6 +14300,15 @@
     "duration": "00:03:01",
     "volume_multiplier": 0.75,
     "art": "thenewtetris.jpg"
+  },
+  "SDT3T3": {
+    "title": "Toronto 3:16",
+    "artists": "Suburban Dream",
+    "album": "Toronto 3:16",
+    "src": "https://www.dropbox.com/scl/fi/iks8o6lheht90ie7oul5u/SDT3T3.mp3?rlkey=ssnu8hwavvnpaawrawkhjff2g&dl=0&raw=1",
+    "duration": "00:04:59",
+    "volume_multiplier": 0.75,
+    "art": "66HnmIVMiWHUbDJouofVon_Toronto_3_-16.jpg"
   },
   "BHH": {
     "title": "Hunter",
