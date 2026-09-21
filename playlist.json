@@ -125,6 +125,15 @@
     "volume_multiplier": 0.75,
     "art": "islands.jpg"
   },
+  "MBSI2ODP": {
+    "title": "Over At Dieter's Place",
+    "artists": "Mark Barrott",
+    "album": "Sketches From An Island 2",
+    "src": "https://www.dropbox.com/scl/fi/ccdex6qzigxg9azbvye5p/MBSI2ODP.mp3?rlkey=owf9bxs64j7fpaebfa6p2ggh5&dl=0&raw=1",
+    "duration": "00:03:21",
+    "volume_multiplier": 0.75,
+    "art": "sketches_from_an_island_2.jpg"
+  },
   "KCLTALTA": {
     "title": "Larks' Tongues In Aspic, Part One",
     "artists": "King Crimson",
@@ -9902,6 +9911,15 @@
     "volume_multiplier": 0.75,
     "art": "791GBXI2YhfSdzn0ARQzlj_4x4equals12.jpg"
   },
+  "ABUFMYFPR": {
+    "title": "Make You Feel (Pyxis Remix)",
+    "artists": "Alina Baraz, Galimatias, Pyxis",
+    "album": "Urban Flora",
+    "src": "https://www.dropbox.com/scl/fi/3bjnulk8y9yu544vgf5fi/ABUFMYFPR.mp3?rlkey=d9sjg0pcvlkz4wmbfvrf4thxc&dl=0&raw=1",
+    "duration": "00:03:53",
+    "volume_multiplier": 0.75,
+    "art": "1MDXXd7ea47KCYOfHww6En_Urban_Flora.jpg"
+  },
   "PVBOD": {
     "title": "Black Out Days",
     "artists": "Phantogram",
@@ -10090,6 +10108,42 @@
     "duration": "00:03:00",
     "volume_multiplier": 0.75,
     "art": "4Lp4NxL8v03Mxg3hbAgW1Z_Magnifique.jpg"
+  },
+  "EBMGGE": {
+    "title": "Green Eyes",
+    "artists": "Erykah Badu",
+    "album": "Mama's Gun",
+    "src": "https://www.dropbox.com/scl/fi/qrtxfershhsa7kdhxi4kx/EBMGGE.mp3?rlkey=ijozzy5umt9gko08nzunq8dg1&dl=0&raw=1",
+    "duration": "00:10:05",
+    "volume_multiplier": 1.00,
+    "art": "mamas_gun.jpg"
+  },
+  "EBMGOM": {
+    "title": "Orange Moon",
+    "artists": "Erykah Badu",
+    "album": "Mama's Gun",
+    "src": "https://www.dropbox.com/scl/fi/6ze78v940oi4xq16c9x0s/EBMGOM.mp3?rlkey=eefbc9ym1jwcfiteza42d25ql&dl=0&raw=1",
+    "duration": "00:07:10",
+    "volume_multiplier": 1.00,
+    "art": "mamas_gun.jpg"
+  },
+  "EBNATH": {
+    "title": "The Healer",
+    "artists": "Erykah Badu",
+    "album": "New Amerykah Part One (4th World War)",
+    "src": "https://www.dropbox.com/scl/fi/ffmvjs5vy1diamjm7xuuo/EBNATH.mp3?rlkey=vh8u31lfetsvin1uj3xwiz0el&dl=0&raw=1",
+    "duration": "00:03:59",
+    "volume_multiplier": 0.75,
+    "art": "new_amerykah_part_one.jpg"
+  },
+  "EBMGDCK": {
+    "title": "Didn't Cha Know",
+    "artists": "Erykah Badu",
+    "album": "Mama's Gun",
+    "src": "https://www.dropbox.com/scl/fi/x401c213bqujso7dq4bti/EBMGDCK.mp3?rlkey=fotnxez1t1j252hdnobsceqyv&dl=0&raw=1",
+    "duration": "00:03:59",
+    "volume_multiplier": 1.00,
+    "art": "mamas_gun.jpg"
   },
   "MFDSHE": {
     "title": "Eucalyptus",
@@ -16450,6 +16504,15 @@
     "duration": "00:09:43",
     "volume_multiplier": 0.75,
     "art": "in_flight.jpg"
+  },
+  "RAELTS": {
+    "title": "Everybody Loves The Sunshine",
+    "artists": "Roy Ayers Ubiquity",
+    "album": "Everybody Loves The Sunshine",
+    "src": "https://www.dropbox.com/scl/fi/9etvttxps8fc6plwdkcjh/RAELTS.mp3?rlkey=980og176vpqsn2pgbjvrufrij&dl=0&raw=1",
+    "duration": "00:03:58",
+    "volume_multiplier": 1.00,
+    "art": "everybody_loves_the_sunshine.jpg"
   },
   "HHHHC": {
     "title": "Chameleon",
