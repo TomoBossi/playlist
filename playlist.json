@@ -1318,6 +1318,15 @@
     "volume_multiplier": 0.75,
     "art": "brothers_in_arms.jpg"
   },
+  "DSBABIA": {
+    "title": "Brothers In Arms",
+    "artists": "Dire Straits",
+    "album": "Brothers in Arms",
+    "src": "https://www.dropbox.com/scl/fi/6k3q56zqh67perp0pcvro/DSBABIA.mp3?rlkey=j86oqu9rbzonwywif7kpl2y6u&dl=0&raw=1",
+    "duration": "00:07:00",
+    "volume_multiplier": 0.75,
+    "art": "brothers_in_arms.jpg"
+  },
   "YSMYNS": {
     "title": "夜の精",
     "artists": "Yoshiko Sai",
@@ -15937,6 +15946,15 @@
     "duration": "00:04:16",
     "volume_multiplier": 0.75,
     "art": "diamond_life.jpg"
+  },
+  "SLDKOL": {
+    "title": "Kiss of Life",
+    "artists": "Sade",
+    "album": "Love Deluxe",
+    "src": "https://www.dropbox.com/scl/fi/u7vobx93xksl4ycdf0pej/SLDKOL.mp3?rlkey=zscfklbeieizhus1q9nbloyi4&dl=0&raw=1",
+    "duration": "00:04:11",
+    "volume_multiplier": 0.75,
+    "art": "love_deluxe.jpg"
   },
   "KKWCFILAN": {
     "title": "Along The Nile",
