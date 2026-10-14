@@ -6382,6 +6382,15 @@
     "volume_multiplier": 0.75,
     "art": "6AvkC0h2TUdX6fpAKtXqYR_Castlevania_-_Symphony_of_the_Night_(Original_Game_Soundtracks).jpg"
   },
+  "LOSP": {
+    "title": "Safe Place",
+    "artists": "Eric Shumaker",
+    "album": "Look Outside OST",
+    "src": "https://www.dropbox.com/scl/fi/7e3irjw3d2g4xjp974tev/LOSP.mp3?rlkey=42b1xcfkwp4wi1m0m99x1bcue&dl=0&raw=1",
+    "duration": "00:02:32",
+    "volume_multiplier": 0.75,
+    "art": "look_outside.jpg"
+  },
   "MYCSNLP": {
     "title": "Lost Painting",
     "artists": "Michiru Yamane",
